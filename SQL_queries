@@ -1,0 +1,39 @@
+DROP TABLE stats;
+
+CREATE TABLE stats (
+	game_id VARCHAR,
+	game_date DATE,
+	team_name VARCHAR,
+	venue VARCHAR,
+	batting_avg DECIMAL,
+	earn_run_ave DECIMAL,
+	game_outcome INT
+);
+
+COPY stats (	game_id,
+	game_date,
+	team_name,
+	venue,
+	batting_avg,
+	earn_run_ave,
+	game_outcome)
+
+-- use public account in order to get around server issues importing csv
+-- put CSV file 
+FROM 'C:\Users\Public\2019-MLB_Box_Score_Team-Stats.csv' 
+DELIMITER ','
+CSV 
+HEADER;
+	
+SELECT * FROM stats;
+
+CREATE TABLE day_night (
+	date_id INT,
+	game_number INT,
+	game_day VARCHAR,
+	visiting_team VARCHAR,
+	home_team VARCHAR,
+	day_night VARCHAR
+);
+
+SELECT * FROM day_night
