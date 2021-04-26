@@ -18,8 +18,8 @@ COPY stats (	game_id,
 	earn_run_ave,
 	game_outcome)
 
--- use public account in order to get around server issues importing csv
--- put CSV file 
+-- use public account/folder in order to get around server issues importing csv
+-- put CSV file path on your computer in line below
 FROM 'C:\Users\Public\2019-MLB_Box_Score_Team-Stats.csv' 
 DELIMITER ','
 CSV 
