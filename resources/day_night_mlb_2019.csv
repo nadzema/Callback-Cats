@@ -1,0 +1,2430 @@
+game_date,game_number,game_day,visiting_team,home_team,day_night,double_header
+3/20/2019,1,Wed,Seattle Mariners,Oakland Athletics,n,no
+3/21/2019,1,Thu,Seattle Mariners,Oakland Athletics,n,no
+3/28/2019,1,Thu,Pittsburgh Pirates,Cincinnati Reds,d,no
+3/28/2019,1,Thu,Chicago White Sox,Kansas City Royals,d,no
+3/28/2019,1,Thu,Arizona Diamondbacks,Los Angeles Dodgers,d,no
+3/28/2019,1,Thu,Colorado Rockies,Miami Marlins,d,no
+3/28/2019,1,Thu,St. Louis Cardinals,Milwaukee Brewers,d,no
+3/28/2019,1,Thu,Cleveland Indians,Minnesota Twins,d,no
+3/28/2019,1,Thu,Baltimore Orioles,New York Yankees,d,no
+3/28/2019,1,Thu,Los Angeles Angels,Oakland Athletics,d,no
+3/28/2019,1,Thu,Atlanta Braves,Philadelphia Phillies,d,no
+3/28/2019,1,Thu,San Francisco Giants,San Diego Padres,d,no
+3/28/2019,1,Thu,Boston Red Sox,Seattle Mariners,d,no
+3/28/2019,1,Thu,Houston Astros,Tampa Bay Rays,d,no
+3/28/2019,1,Thu,Chicago Cubs,Texas Rangers,d,no
+3/28/2019,1,Thu,Detroit Tigers,Toronto Blue Jays,d,no
+3/28/2019,1,Thu,New York Mets,Washington Nationals,d,no
+3/29/2019,1,Fri,Arizona Diamondbacks,Los Angeles Dodgers,n,no
+3/29/2019,1,Fri,Colorado Rockies,Miami Marlins,n,no
+3/29/2019,1,Fri,St. Louis Cardinals,Milwaukee Brewers,n,no
+3/29/2019,1,Fri,Los Angeles Angels,Oakland Athletics,n,no
+3/29/2019,1,Fri,San Francisco Giants,San Diego Padres,n,no
+3/29/2019,1,Fri,Boston Red Sox,Seattle Mariners,n,no
+3/29/2019,1,Fri,Houston Astros,Tampa Bay Rays,n,no
+3/29/2019,1,Fri,Detroit Tigers,Toronto Blue Jays,n,no
+3/30/2019,1,Sat,Chicago White Sox,Kansas City Royals,d,no
+3/30/2019,1,Sat,Arizona Diamondbacks,Los Angeles Dodgers,n,no
+3/30/2019,1,Sat,Colorado Rockies,Miami Marlins,n,no
+3/30/2019,1,Sat,St. Louis Cardinals,Milwaukee Brewers,n,no
+3/30/2019,1,Sat,Cleveland Indians,Minnesota Twins,d,no
+3/30/2019,1,Sat,Baltimore Orioles,New York Yankees,d,no
+3/30/2019,1,Sat,Los Angeles Angels,Oakland Athletics,n,no
+3/30/2019,1,Sat,Atlanta Braves,Philadelphia Phillies,d,no
+3/30/2019,1,Sat,San Francisco Giants,San Diego Padres,n,no
+3/30/2019,1,Sat,Boston Red Sox,Seattle Mariners,n,no
+3/30/2019,1,Sat,Houston Astros,Tampa Bay Rays,n,no
+3/30/2019,1,Sat,Chicago Cubs,Texas Rangers,n,no
+3/30/2019,1,Sat,Detroit Tigers,Toronto Blue Jays,d,no
+3/30/2019,1,Sat,New York Mets,Washington Nationals,d,no
+3/31/2019,1,Sun,Pittsburgh Pirates,Cincinnati Reds,d,no
+3/31/2019,1,Sun,Chicago White Sox,Kansas City Royals,d,no
+3/31/2019,1,Sun,Arizona Diamondbacks,Los Angeles Dodgers,d,no
+3/31/2019,1,Sun,Colorado Rockies,Miami Marlins,d,no
+3/31/2019,1,Sun,St. Louis Cardinals,Milwaukee Brewers,d,no
+3/31/2019,1,Sun,Cleveland Indians,Minnesota Twins,d,no
+3/31/2019,1,Sun,Baltimore Orioles,New York Yankees,d,no
+3/31/2019,1,Sun,Los Angeles Angels,Oakland Athletics,d,no
+3/31/2019,1,Sun,Atlanta Braves,Philadelphia Phillies,n,no
+3/31/2019,1,Sun,San Francisco Giants,San Diego Padres,d,no
+3/31/2019,1,Sun,Boston Red Sox,Seattle Mariners,d,no
+3/31/2019,1,Sun,Houston Astros,Tampa Bay Rays,d,no
+3/31/2019,1,Sun,Chicago Cubs,Texas Rangers,d,no
+3/31/2019,1,Sun,Detroit Tigers,Toronto Blue Jays,d,no
+3/31/2019,1,Sun,New York Mets,Washington Nationals,d,no
+4/1/2019,1,Mon,Chicago Cubs,Atlanta Braves,n,no
+4/1/2019,1,Mon,Milwaukee Brewers,Cincinnati Reds,n,no
+4/1/2019,1,Mon,Chicago White Sox,Cleveland Indians,d,no
+4/1/2019,1,Mon,San Francisco Giants,Los Angeles Dodgers,n,no
+4/1/2019,1,Mon,New York Mets,Miami Marlins,n,no
+4/1/2019,1,Mon,Detroit Tigers,New York Yankees,n,no
+4/1/2019,1,Mon,Boston Red Sox,Oakland Athletics,n,no
+4/1/2019,1,Mon,St. Louis Cardinals,Pittsburgh Pirates,d,no
+4/1/2019,1,Mon,Arizona Diamondbacks,San Diego Padres,n,no
+4/1/2019,1,Mon,Los Angeles Angels,Seattle Mariners,n,no
+4/1/2019,1,Mon,Colorado Rockies,Tampa Bay Rays,n,no
+4/1/2019,1,Mon,Houston Astros,Texas Rangers,n,no
+4/1/2019,1,Mon,Baltimore Orioles,Toronto Blue Jays,n,no
+4/2/2019,1,Tue,Milwaukee Brewers,Cincinnati Reds,n,no
+4/2/2019,1,Tue,Minnesota Twins,Kansas City Royals,n,no
+4/2/2019,1,Tue,San Francisco Giants,Los Angeles Dodgers,n,no
+4/2/2019,1,Tue,New York Mets,Miami Marlins,n,no
+4/2/2019,1,Tue,Detroit Tigers,New York Yankees,n,no
+4/2/2019,1,Tue,Boston Red Sox,Oakland Athletics,n,no
+4/2/2019,1,Tue,Arizona Diamondbacks,San Diego Padres,n,no
+4/2/2019,1,Tue,Los Angeles Angels,Seattle Mariners,n,no
+4/2/2019,1,Tue,Colorado Rockies,Tampa Bay Rays,n,no
+4/2/2019,1,Tue,Houston Astros,Texas Rangers,n,no
+4/2/2019,1,Tue,Baltimore Orioles,Toronto Blue Jays,n,no
+4/2/2019,1,Tue,Philadelphia Phillies,Washington Nationals,n,no
+4/3/2019,1,Wed,Chicago Cubs,Atlanta Braves,n,no
+4/3/2019,1,Wed,Milwaukee Brewers,Cincinnati Reds,d,no
+4/3/2019,1,Wed,Chicago White Sox,Cleveland Indians,d,no
+4/3/2019,1,Wed,Minnesota Twins,Kansas City Royals,d,no
+4/3/2019,1,Wed,San Francisco Giants,Los Angeles Dodgers,n,no
+4/3/2019,1,Wed,New York Mets,Miami Marlins,n,no
+4/3/2019,1,Wed,Detroit Tigers,New York Yankees,d,no
+4/3/2019,1,Wed,Boston Red Sox,Oakland Athletics,n,no
+4/3/2019,1,Wed,St. Louis Cardinals,Pittsburgh Pirates,n,no
+4/3/2019,1,Wed,Arizona Diamondbacks,San Diego Padres,d,no
+4/3/2019,1,Wed,Colorado Rockies,Tampa Bay Rays,d,no
+4/3/2019,1,Wed,Houston Astros,Texas Rangers,n,no
+4/3/2019,1,Wed,Baltimore Orioles,Toronto Blue Jays,d,no
+4/3/2019,1,Wed,Philadelphia Phillies,Washington Nationals,d,no
+4/4/2019,1,Thu,Texas Rangers,Los Angeles Angels,n,no
+4/4/2019,1,Thu,Chicago Cubs,Atlanta Braves,n,no
+4/4/2019,1,Thu,New York Yankees,Baltimore Orioles,d,no
+4/4/2019,1,Thu,Toronto Blue Jays,Cleveland Indians,n,no
+4/4/2019,1,Thu,Kansas City Royals,Detroit Tigers,d,no
+4/4/2019,1,Thu,Washington Nationals,New York Mets,d,no
+4/4/2019,1,Thu,Boston Red Sox,Oakland Athletics,d,no
+4/4/2019,1,Thu,Cincinnati Reds,Pittsburgh Pirates,n,no
+4/5/2019,1,Fri,Texas Rangers,Los Angeles Angels,n,no
+4/5/2019,1,Fri,Boston Red Sox,Arizona Diamondbacks,d,no
+4/5/2019,1,Fri,Miami Marlins,Atlanta Braves,n,no
+4/5/2019,1,Thu,Seattle Mariners,Chicago White Sox,d,no
+4/5/2019,1,Fri,Toronto Blue Jays,Cleveland Indians,n,no
+4/5/2019,1,Fri,Los Angeles Dodgers,Colorado Rockies,d,no
+4/5/2019,1,Fri,Oakland Athletics,Houston Astros,n,no
+4/5/2019,1,Fri,Chicago Cubs,Milwaukee Brewers,n,no
+4/5/2019,1,Fri,Minnesota Twins,Philadelphia Phillies,n,no
+4/5/2019,1,Fri,Cincinnati Reds,Pittsburgh Pirates,n,no
+4/5/2019,1,Fri,Tampa Bay Rays,San Francisco Giants,d,no
+4/5/2019,1,Thu,San Diego Padres,St. Louis Cardinals,d,no
+4/6/2019,1,Sat,Texas Rangers,Los Angeles Angels,d,no
+4/6/2019,1,Sat,Boston Red Sox,Arizona Diamondbacks,n,no
+4/6/2019,1,Sat,Miami Marlins,Atlanta Braves,n,no
+4/6/2019,1,Sat,New York Yankees,Baltimore Orioles,n,no
+4/6/2019,1,Sat,Seattle Mariners,Chicago White Sox,d,no
+4/6/2019,1,Sat,Toronto Blue Jays,Cleveland Indians,d,no
+4/6/2019,1,Sat,Los Angeles Dodgers,Colorado Rockies,n,no
+4/6/2019,1,Sat,Kansas City Royals,Detroit Tigers,d,no
+4/6/2019,1,Sat,Oakland Athletics,Houston Astros,n,no
+4/6/2019,1,Sat,Chicago Cubs,Milwaukee Brewers,n,no
+4/6/2019,1,Sat,Washington Nationals,New York Mets,d,no
+4/6/2019,1,Sat,Minnesota Twins,Philadelphia Phillies,d,no
+4/6/2019,1,Sat,Cincinnati Reds,Pittsburgh Pirates,d,no
+4/6/2019,1,Sat,Tampa Bay Rays,San Francisco Giants,d,no
+4/6/2019,1,Sat,San Diego Padres,St. Louis Cardinals,d,no
+4/7/2019,1,Sun,Texas Rangers,Los Angeles Angels,d,no
+4/7/2019,1,Sun,Boston Red Sox,Arizona Diamondbacks,d,no
+4/7/2019,1,Sun,Miami Marlins,Atlanta Braves,d,no
+4/7/2019,1,Sun,New York Yankees,Baltimore Orioles,d,no
+4/7/2019,1,Sun,Seattle Mariners,Chicago White Sox,d,no
+4/7/2019,1,Sun,Toronto Blue Jays,Cleveland Indians,d,no
+4/7/2019,1,Sun,Los Angeles Dodgers,Colorado Rockies,n,no
+4/7/2019,1,Sun,Kansas City Royals,Detroit Tigers,d,no
+4/7/2019,1,Sun,Oakland Athletics,Houston Astros,d,no
+4/7/2019,1,Sun,Chicago Cubs,Milwaukee Brewers,d,no
+4/7/2019,1,Sun,Washington Nationals,New York Mets,d,no
+4/7/2019,1,Sun,Minnesota Twins,Philadelphia Phillies,d,no
+4/7/2019,1,Sun,Cincinnati Reds,Pittsburgh Pirates,d,no
+4/7/2019,1,Sun,Tampa Bay Rays,San Francisco Giants,d,no
+4/7/2019,1,Sun,San Diego Padres,St. Louis Cardinals,d,no
+4/8/2019,1,Mon,Milwaukee Brewers,Los Angeles Angels,n,no
+4/8/2019,1,Mon,Oakland Athletics,Baltimore Orioles,n,no
+4/8/2019,1,Mon,Tampa Bay Rays,Chicago White Sox,d,no
+4/8/2019,1,Mon,Pittsburgh Pirates,Chicago Cubs,d,no
+4/8/2019,1,Mon,Atlanta Braves,Colorado Rockies,n,no
+4/8/2019,1,Mon,New York Yankees,Houston Astros,n,no
+4/8/2019,1,Mon,Seattle Mariners,Kansas City Royals,n,no
+4/8/2019,1,Mon,Washington Nationals,Philadelphia Phillies,n,no
+4/8/2019,1,Mon,San Diego Padres,San Francisco Giants,n,no
+4/8/2019,1,Mon,Los Angeles Dodgers,St. Louis Cardinals,n,no
+4/9/2019,1,Tue,Milwaukee Brewers,Los Angeles Angels,n,no
+4/9/2019,1,Tue,Texas Rangers,Arizona Diamondbacks,n,no
+4/9/2019,1,Tue,Oakland Athletics,Baltimore Orioles,n,no
+4/9/2019,1,Tue,Toronto Blue Jays,Boston Red Sox,d,no
+4/9/2019,1,Tue,Tampa Bay Rays,Chicago White Sox,d,no
+4/9/2019,1,Tue,Miami Marlins,Cincinnati Reds,n,no
+4/9/2019,1,Tue,Atlanta Braves,Colorado Rockies,n,no
+4/9/2019,1,Tue,Cleveland Indians,Detroit Tigers,d,no
+4/9/2019,1,Tue,New York Yankees,Houston Astros,n,no
+4/9/2019,1,Tue,Seattle Mariners,Kansas City Royals,n,no
+4/9/2019,1,Tue,Minnesota Twins,New York Mets,n,no
+4/9/2019,1,Tue,Washington Nationals,Philadelphia Phillies,n,no
+4/9/2019,1,Tue,San Diego Padres,San Francisco Giants,n,no
+4/9/2019,1,Tue,Los Angeles Dodgers,St. Louis Cardinals,n,no
+4/10/2019,1,Wed,Milwaukee Brewers,Los Angeles Angels,n,no
+4/10/2019,1,Wed,Texas Rangers,Arizona Diamondbacks,n,no
+4/10/2019,1,Wed,Oakland Athletics,Baltimore Orioles,n,no
+4/10/2019,1,Wed,Tampa Bay Rays,Chicago White Sox,d,no
+4/10/2019,1,Wed,Pittsburgh Pirates,Chicago Cubs,n,no
+4/10/2019,1,Wed,Miami Marlins,Cincinnati Reds,n,no
+4/10/2019,1,Wed,Cleveland Indians,Detroit Tigers,d,no
+4/10/2019,1,Wed,New York Yankees,Houston Astros,n,no
+4/10/2019,1,Wed,Seattle Mariners,Kansas City Royals,n,no
+4/10/2019,1,Wed,Minnesota Twins,New York Mets,n,no
+4/10/2019,1,Wed,Washington Nationals,Philadelphia Phillies,n,no
+4/10/2019,1,Wed,San Diego Padres,San Francisco Giants,d,no
+4/10/2019,1,Wed,Los Angeles Dodgers,St. Louis Cardinals,n,no
+4/11/2019,1,Thu,San Diego Padres,Arizona Diamondbacks,n,no
+4/11/2019,1,Thu,New York Mets,Atlanta Braves,n,no
+4/11/2019,1,Thu,Oakland Athletics,Baltimore Orioles,d,no
+4/11/2019,1,Thu,Toronto Blue Jays,Boston Red Sox,n,no
+4/11/2019,1,Thu,Pittsburgh Pirates,Chicago Cubs,n,no
+4/11/2019,1,Thu,Miami Marlins,Cincinnati Reds,d,no
+4/11/2019,1,Thu,Cleveland Indians,Detroit Tigers,d,no
+4/11/2019,1,Thu,Seattle Mariners,Kansas City Royals,d,no
+4/11/2019,1,Thu,Colorado Rockies,San Francisco Giants,n,no
+4/11/2019,1,Thu,Los Angeles Dodgers,St. Louis Cardinals,d,no
+4/12/2019,1,Fri,San Diego Padres,Arizona Diamondbacks,n,no
+4/12/2019,1,Fri,New York Mets,Atlanta Braves,n,no
+4/12/2019,1,Fri,Baltimore Orioles,Boston Red Sox,n,no
+4/12/2019,1,Fri,Los Angeles Angels,Chicago Cubs,d,no
+4/12/2019,1,Fri,Cleveland Indians,Kansas City Royals,n,no
+4/12/2019,1,Fri,Milwaukee Brewers,Los Angeles Dodgers,n,no
+4/12/2019,1,Fri,Philadelphia Phillies,Miami Marlins,n,no
+4/12/2019,1,Fri,Chicago White Sox,New York Yankees,n,no
+4/12/2019,1,Fri,Houston Astros,Seattle Mariners,n,no
+4/12/2019,1,Fri,Colorado Rockies,San Francisco Giants,n,no
+4/12/2019,1,Fri,Oakland Athletics,Texas Rangers,n,no
+4/12/2019,1,Fri,Tampa Bay Rays,Toronto Blue Jays,n,no
+4/12/2019,1,Fri,Pittsburgh Pirates,Washington Nationals,n,no
+4/13/2019,1,Sat,San Diego Padres,Arizona Diamondbacks,n,no
+4/13/2019,1,Sat,New York Mets,Atlanta Braves,n,no
+4/13/2019,1,Sat,Baltimore Orioles,Boston Red Sox,d,no
+4/13/2019,1,Sat,Los Angeles Angels,Chicago Cubs,d,no
+4/13/2019,1,Sat,St. Louis Cardinals,Cincinnati Reds,n,no
+4/13/2019,1,Sat,Cleveland Indians,Kansas City Royals,n,no
+4/13/2019,1,Sat,Milwaukee Brewers,Los Angeles Dodgers,n,no
+4/13/2019,1,Sat,Philadelphia Phillies,Miami Marlins,n,no
+4/13/2019,1,Sat,Detroit Tigers,Minnesota Twins,d,no
+4/13/2019,1,Sat,Chicago White Sox,New York Yankees,d,no
+4/13/2019,1,Sat,Houston Astros,Seattle Mariners,n,no
+4/13/2019,1,Sat,Colorado Rockies,San Francisco Giants,d,no
+4/13/2019,1,Sat,Tampa Bay Rays,Toronto Blue Jays,d,no
+4/13/2019,1,Sat,Pittsburgh Pirates,Washington Nationals,d,no
+4/14/2019,1,Sun,San Diego Padres,Arizona Diamondbacks,d,no
+4/14/2019,1,Sun,New York Mets,Atlanta Braves,n,no
+4/14/2019,1,Sun,Baltimore Orioles,Boston Red Sox,d,no
+4/14/2019,1,Sun,St. Louis Cardinals,Cincinnati Reds,d,no
+4/14/2019,1,Sun,Cleveland Indians,Kansas City Royals,d,no
+4/14/2019,1,Sun,Milwaukee Brewers,Los Angeles Dodgers,d,no
+4/14/2019,1,Sun,Philadelphia Phillies,Miami Marlins,d,no
+4/14/2019,1,Sun,Detroit Tigers,Minnesota Twins,d,no
+4/14/2019,1,Sun,Chicago White Sox,New York Yankees,d,no
+4/14/2019,1,Sun,Houston Astros,Seattle Mariners,d,no
+4/14/2019,1,Sun,Colorado Rockies,San Francisco Giants,d,no
+4/14/2019,1,Sun,Oakland Athletics,Texas Rangers,d,no
+4/14/2019,1,Sun,Tampa Bay Rays,Toronto Blue Jays,d,no
+4/14/2019,1,Sun,Pittsburgh Pirates,Washington Nationals,d,no
+4/15/2019,1,Mon,Baltimore Orioles,Boston Red Sox,d,no
+4/15/2019,1,Mon,Kansas City Royals,Chicago White Sox,n,no
+4/15/2019,1,Mon,Cincinnati Reds,Los Angeles Dodgers,n,no
+4/15/2019,1,Mon,Chicago Cubs,Miami Marlins,n,no
+4/15/2019,1,Mon,St. Louis Cardinals,Milwaukee Brewers,n,no
+4/15/2019,1,Mon,Toronto Blue Jays,Minnesota Twins,n,no
+4/15/2019,1,Mon,New York Mets,Philadelphia Phillies,n,no
+4/15/2019,1,Mon,Colorado Rockies,San Diego Padres,n,no
+4/15/2019,1,Mon,Cleveland Indians,Seattle Mariners,n,no
+4/15/2019,1,Mon,Los Angeles Angels,Texas Rangers,n,no
+4/16/2019,1,Tue,Arizona Diamondbacks,Atlanta Braves,n,no
+4/16/2019,1,Tue,Kansas City Royals,Chicago White Sox,n,no
+4/16/2019,1,Tue,Pittsburgh Pirates,Detroit Tigers,n,no
+4/16/2019,1,Tue,Cincinnati Reds,Los Angeles Dodgers,n,no
+4/16/2019,1,Tue,Chicago Cubs,Miami Marlins,n,no
+4/16/2019,1,Tue,St. Louis Cardinals,Milwaukee Brewers,n,no
+4/16/2019,1,Tue,Toronto Blue Jays,Minnesota Twins,n,no
+4/16/2019,1,Tue,Boston Red Sox,New York Yankees,n,no
+4/16/2019,1,Tue,Houston Astros,Oakland Athletics,n,no
+4/16/2019,1,Tue,New York Mets,Philadelphia Phillies,n,no
+4/16/2019,1,Tue,Colorado Rockies,San Diego Padres,n,no
+4/16/2019,1,Tue,Cleveland Indians,Seattle Mariners,n,no
+4/16/2019,1,Tue,Baltimore Orioles,Tampa Bay Rays,n,no
+4/16/2019,1,Tue,Los Angeles Angels,Texas Rangers,n,no
+4/16/2019,1,Tue,San Francisco Giants,Washington Nationals,n,no
+4/17/2019,1,Wed,Arizona Diamondbacks,Atlanta Braves,n,no
+4/17/2019,1,Wed,Kansas City Royals,Chicago White Sox,d,no
+4/17/2019,1,Wed,Pittsburgh Pirates,Detroit Tigers,n,no
+4/17/2019,1,Wed,Cincinnati Reds,Los Angeles Dodgers,d,no
+4/17/2019,1,Wed,Chicago Cubs,Miami Marlins,n,no
+4/17/2019,1,Wed,St. Louis Cardinals,Milwaukee Brewers,d,no
+4/17/2019,1,Wed,Toronto Blue Jays,Minnesota Twins,n,no
+4/17/2019,1,Wed,Boston Red Sox,New York Yankees,n,no
+4/17/2019,1,Wed,Houston Astros,Oakland Athletics,n,no
+4/17/2019,1,Wed,New York Mets,Philadelphia Phillies,d,no
+4/17/2019,1,Wed,Cleveland Indians,Seattle Mariners,d,no
+4/17/2019,1,Wed,Baltimore Orioles,Tampa Bay Rays,n,no
+4/17/2019,1,Wed,Los Angeles Angels,Texas Rangers,n,no
+4/17/2019,1,Wed,San Francisco Giants,Washington Nationals,n,no
+4/18/2019,1,Thu,Seattle Mariners,Los Angeles Angels,n,no
+4/18/2019,1,Thu,Arizona Diamondbacks,Atlanta Braves,d,no
+4/18/2019,1,Thu,Philadelphia Phillies,Colorado Rockies,n,no
+4/18/2019,1,Thu,Chicago White Sox,Detroit Tigers,d,no
+4/18/2019,1,Thu,Los Angeles Dodgers,Milwaukee Brewers,n,no
+4/18/2019,1,Thu,Toronto Blue Jays,Minnesota Twins,d,no
+4/18/2019,1,Thu,Kansas City Royals,New York Yankees,n,no
+4/18/2019,1,Thu,Cincinnati Reds,San Diego Padres,n,no
+4/18/2019,1,Thu,Baltimore Orioles,Tampa Bay Rays,n,no
+4/18/2019,1,Thu,San Francisco Giants,Washington Nationals,d,no
+4/19/2019,1,Fri,Seattle Mariners,Los Angeles Angels,n,no
+4/19/2019,1,Fri,Arizona Diamondbacks,Chicago Cubs,d,no
+4/19/2019,1,Fri,Philadelphia Phillies,Colorado Rockies,n,no
+4/19/2019,1,Fri,Chicago White Sox,Detroit Tigers,n,no
+4/19/2019,1,Fri,Washington Nationals,Miami Marlins,n,no
+4/19/2019,1,Fri,Los Angeles Dodgers,Milwaukee Brewers,n,no
+4/19/2019,1,Fri,Kansas City Royals,New York Yankees,n,no
+4/19/2019,1,Fri,Toronto Blue Jays,Oakland Athletics,n,no
+4/19/2019,1,Fri,San Francisco Giants,Pittsburgh Pirates,n,no
+4/19/2019,1,Fri,Cincinnati Reds,San Diego Padres,n,no
+4/19/2019,1,Fri,New York Mets,St. Louis Cardinals,n,no
+4/19/2019,1,Fri,Boston Red Sox,Tampa Bay Rays,n,no
+4/19/2019,1,Fri,Houston Astros,Texas Rangers,n,no
+4/20/2019,2,Sat,Minnesota Twins,Baltimore Orioles,n,yes
+4/20/2019,2,Sat,Atlanta Braves,Cleveland Indians,d,yes
+4/20/2019,1,Fri,Minnesota Twins,Baltimore Orioles,d,yes
+4/20/2019,1,Fri,Atlanta Braves,Cleveland Indians,d,yes
+4/20/2019,1,Sat,Seattle Mariners,Los Angeles Angels,n,no
+4/20/2019,1,Sat,Arizona Diamondbacks,Chicago Cubs,d,no
+4/20/2019,1,Sat,Philadelphia Phillies,Colorado Rockies,n,no
+4/20/2019,1,Sat,Washington Nationals,Miami Marlins,n,no
+4/20/2019,1,Sat,Los Angeles Dodgers,Milwaukee Brewers,n,no
+4/20/2019,1,Sat,Kansas City Royals,New York Yankees,d,no
+4/20/2019,1,Sat,Toronto Blue Jays,Oakland Athletics,d,no
+4/20/2019,1,Sat,San Francisco Giants,Pittsburgh Pirates,d,no
+4/20/2019,1,Sat,Cincinnati Reds,San Diego Padres,n,no
+4/20/2019,1,Sat,New York Mets,St. Louis Cardinals,d,no
+4/20/2019,1,Sat,Boston Red Sox,Tampa Bay Rays,n,no
+4/20/2019,1,Sat,Houston Astros,Texas Rangers,n,no
+4/21/2019,1,Sun,Seattle Mariners,Los Angeles Angels,d,no
+4/21/2019,1,Sun,Minnesota Twins,Baltimore Orioles,d,no
+4/21/2019,1,Sun,Arizona Diamondbacks,Chicago Cubs,d,no
+4/21/2019,1,Sun,Atlanta Braves,Cleveland Indians,n,no
+4/21/2019,1,Sun,Philadelphia Phillies,Colorado Rockies,d,no
+4/21/2019,1,Sun,Chicago White Sox,Detroit Tigers,d,no
+4/21/2019,1,Sun,Washington Nationals,Miami Marlins,d,no
+4/21/2019,1,Sun,Los Angeles Dodgers,Milwaukee Brewers,d,no
+4/21/2019,1,Sun,Kansas City Royals,New York Yankees,d,no
+4/21/2019,1,Sun,Toronto Blue Jays,Oakland Athletics,d,no
+4/21/2019,1,Sun,San Francisco Giants,Pittsburgh Pirates,d,no
+4/21/2019,1,Sun,Cincinnati Reds,San Diego Padres,d,no
+4/21/2019,1,Sun,New York Mets,St. Louis Cardinals,d,no
+4/21/2019,1,Sun,Boston Red Sox,Tampa Bay Rays,d,no
+4/21/2019,1,Sun,Houston Astros,Texas Rangers,d,no
+4/22/2019,1,Mon,New York Yankees,Los Angeles Angels,n,no
+4/22/2019,1,Mon,Chicago White Sox,Baltimore Orioles,n,no
+4/22/2019,1,Mon,Washington Nationals,Colorado Rockies,n,no
+4/22/2019,1,Mon,Minnesota Twins,Houston Astros,n,no
+4/22/2019,1,Mon,Philadelphia Phillies,New York Mets,n,no
+4/22/2019,1,Mon,Texas Rangers,Oakland Athletics,n,no
+4/22/2019,1,Mon,Arizona Diamondbacks,Pittsburgh Pirates,n,no
+4/22/2019,1,Mon,Milwaukee Brewers,St. Louis Cardinals,n,no
+4/22/2019,1,Mon,Kansas City Royals,Tampa Bay Rays,n,no
+4/23/2019,2,Tue,Detroit Tigers,Boston Red Sox,n,yes
+4/23/2019,1,Mon,Detroit Tigers,Boston Red Sox,d,yes
+4/23/2019,1,Tue,New York Yankees,Los Angeles Angels,n,no
+4/23/2019,1,Tue,Chicago White Sox,Baltimore Orioles,n,no
+4/23/2019,1,Tue,Los Angeles Dodgers,Chicago Cubs,n,no
+4/23/2019,1,Tue,Atlanta Braves,Cincinnati Reds,n,no
+4/23/2019,1,Tue,Miami Marlins,Cleveland Indians,n,no
+4/23/2019,1,Tue,Washington Nationals,Colorado Rockies,n,no
+4/23/2019,1,Tue,Minnesota Twins,Houston Astros,n,no
+4/23/2019,1,Tue,Philadelphia Phillies,New York Mets,n,no
+4/23/2019,1,Tue,Texas Rangers,Oakland Athletics,n,no
+4/23/2019,1,Tue,Arizona Diamondbacks,Pittsburgh Pirates,n,no
+4/23/2019,1,Tue,Seattle Mariners,San Diego Padres,n,no
+4/23/2019,1,Tue,Milwaukee Brewers,St. Louis Cardinals,n,no
+4/23/2019,1,Tue,Kansas City Royals,Tampa Bay Rays,n,no
+4/23/2019,1,Tue,San Francisco Giants,Toronto Blue Jays,n,no
+4/24/2019,1,Wed,New York Yankees,Los Angeles Angels,n,no
+4/24/2019,1,Wed,Chicago White Sox,Baltimore Orioles,n,no
+4/24/2019,1,Wed,Detroit Tigers,Boston Red Sox,n,no
+4/24/2019,1,Wed,Los Angeles Dodgers,Chicago Cubs,n,no
+4/24/2019,1,Wed,Atlanta Braves,Cincinnati Reds,n,no
+4/24/2019,1,Wed,Miami Marlins,Cleveland Indians,d,no
+4/24/2019,1,Wed,Washington Nationals,Colorado Rockies,d,no
+4/24/2019,1,Wed,Minnesota Twins,Houston Astros,n,no
+4/24/2019,1,Wed,Philadelphia Phillies,New York Mets,n,no
+4/24/2019,1,Wed,Texas Rangers,Oakland Athletics,d,no
+4/24/2019,1,Wed,Arizona Diamondbacks,Pittsburgh Pirates,n,no
+4/24/2019,1,Wed,Seattle Mariners,San Diego Padres,d,no
+4/24/2019,1,Wed,Milwaukee Brewers,St. Louis Cardinals,d,no
+4/24/2019,1,Wed,Kansas City Royals,Tampa Bay Rays,d,no
+4/24/2019,1,Wed,San Francisco Giants,Toronto Blue Jays,d,no
+4/25/2019,1,Thu,New York Yankees,Los Angeles Angels,n,no
+4/25/2019,1,Thu,Detroit Tigers,Boston Red Sox,n,no
+4/25/2019,1,Thu,Los Angeles Dodgers,Chicago Cubs,d,no
+4/25/2019,1,Thu,Atlanta Braves,Cincinnati Reds,n,no
+4/25/2019,1,Thu,Cleveland Indians,Houston Astros,n,no
+4/25/2019,1,Thu,Miami Marlins,Philadelphia Phillies,n,no
+4/25/2019,1,Thu,Arizona Diamondbacks,Pittsburgh Pirates,d,no
+4/25/2019,1,Thu,Texas Rangers,Seattle Mariners,n,no
+4/26/2019,1,Fri,Chicago Cubs,Arizona Diamondbacks,n,no
+4/26/2019,1,Fri,Colorado Rockies,Atlanta Braves,n,no
+4/26/2019,1,Fri,Detroit Tigers,Chicago White Sox,n,no
+4/26/2019,1,Fri,Cleveland Indians,Houston Astros,n,no
+4/26/2019,1,Fri,Los Angeles Angels,Kansas City Royals,n,no
+4/26/2019,1,Fri,Pittsburgh Pirates,Los Angeles Dodgers,n,no
+4/26/2019,1,Fri,Baltimore Orioles,Minnesota Twins,n,no
+4/26/2019,1,Fri,Milwaukee Brewers,New York Mets,n,no
+4/26/2019,1,Fri,Miami Marlins,Philadelphia Phillies,n,no
+4/26/2019,1,Fri,Texas Rangers,Seattle Mariners,n,no
+4/26/2019,1,Fri,New York Yankees,San Francisco Giants,n,no
+4/26/2019,1,Fri,Cincinnati Reds,St. Louis Cardinals,n,no
+4/26/2019,1,Fri,Oakland Athletics,Toronto Blue Jays,n,no
+4/26/2019,1,Fri,San Diego Padres,Washington Nationals,n,no
+4/27/2019,1,Sat,Chicago Cubs,Arizona Diamondbacks,n,no
+4/27/2019,1,Sat,Colorado Rockies,Atlanta Braves,n,no
+4/27/2019,1,Sat,Tampa Bay Rays,Boston Red Sox,d,no
+4/27/2019,1,Sat,Cleveland Indians,Houston Astros,d,no
+4/27/2019,1,Sat,Los Angeles Angels,Kansas City Royals,n,no
+4/27/2019,1,Sat,Pittsburgh Pirates,Los Angeles Dodgers,n,no
+4/27/2019,1,Sat,Baltimore Orioles,Minnesota Twins,d,no
+4/27/2019,1,Sat,Milwaukee Brewers,New York Mets,n,no
+4/27/2019,1,Sat,Miami Marlins,Philadelphia Phillies,n,no
+4/27/2019,1,Sat,Texas Rangers,Seattle Mariners,n,no
+4/27/2019,1,Sat,New York Yankees,San Francisco Giants,d,no
+4/27/2019,1,Sat,Cincinnati Reds,St. Louis Cardinals,d,no
+4/27/2019,1,Sat,Oakland Athletics,Toronto Blue Jays,d,no
+4/27/2019,1,Sat,San Diego Padres,Washington Nationals,d,no
+4/28/2019,1,Sun,Chicago Cubs,Arizona Diamondbacks,d,no
+4/28/2019,1,Sun,Colorado Rockies,Atlanta Braves,d,no
+4/28/2019,1,Sun,Tampa Bay Rays,Boston Red Sox,d,no
+4/28/2019,1,Sun,Detroit Tigers,Chicago White Sox,d,no
+4/28/2019,1,Sun,Cleveland Indians,Houston Astros,n,no
+4/28/2019,1,Sun,Los Angeles Angels,Kansas City Royals,d,no
+4/28/2019,1,Sun,Pittsburgh Pirates,Los Angeles Dodgers,d,no
+4/28/2019,1,Sun,Baltimore Orioles,Minnesota Twins,d,no
+4/28/2019,1,Sun,Milwaukee Brewers,New York Mets,d,no
+4/28/2019,1,Sun,Miami Marlins,Philadelphia Phillies,d,no
+4/28/2019,1,Sun,Texas Rangers,Seattle Mariners,d,no
+4/28/2019,1,Sun,New York Yankees,San Francisco Giants,d,no
+4/28/2019,1,Sun,Cincinnati Reds,St. Louis Cardinals,d,no
+4/28/2019,1,Sun,Oakland Athletics,Toronto Blue Jays,d,no
+4/28/2019,1,Sun,San Diego Padres,Washington Nationals,d,no
+4/29/2019,1,Mon,San Diego Padres,Atlanta Braves,n,no
+4/29/2019,1,Mon,Oakland Athletics,Boston Red Sox,n,no
+4/29/2019,1,Mon,Baltimore Orioles,Chicago White Sox,n,no
+4/29/2019,1,Mon,Tampa Bay Rays,Kansas City Royals,n,no
+4/29/2019,1,Mon,Colorado Rockies,Milwaukee Brewers,n,no
+4/29/2019,1,Mon,Houston Astros,Minnesota Twins,n,no
+4/29/2019,1,Mon,Cincinnati Reds,New York Mets,n,no
+4/29/2019,1,Mon,Los Angeles Dodgers,San Francisco Giants,n,no
+4/29/2019,1,Mon,St. Louis Cardinals,Washington Nationals,n,no
+4/30/2019,1,Tue,Toronto Blue Jays,Los Angeles Angels,n,no
+4/30/2019,1,Tue,New York Yankees,Arizona Diamondbacks,n,no
+4/30/2019,1,Tue,San Diego Padres,Atlanta Braves,n,no
+4/30/2019,1,Tue,Oakland Athletics,Boston Red Sox,n,no
+4/30/2019,1,Tue,Cleveland Indians,Miami Marlins,n,no
+4/30/2019,1,Tue,Colorado Rockies,Milwaukee Brewers,n,no
+4/30/2019,1,Tue,Houston Astros,Minnesota Twins,n,no
+4/30/2019,1,Tue,Cincinnati Reds,New York Mets,n,no
+4/30/2019,1,Tue,Detroit Tigers,Philadelphia Phillies,n,no
+4/30/2019,1,Tue,Chicago Cubs,Seattle Mariners,n,no
+4/30/2019,1,Tue,Los Angeles Dodgers,San Francisco Giants,n,no
+4/30/2019,1,Tue,Pittsburgh Pirates,Texas Rangers,n,no
+4/30/2019,1,Tue,St. Louis Cardinals,Washington Nationals,n,no
+5/1/2019,2,Wed,Baltimore Orioles,Chicago White Sox,n,yes
+5/1/2019,2,Wed,Tampa Bay Rays,Kansas City Royals,n,yes
+5/1/2019,1,Tue,Baltimore Orioles,Chicago White Sox,d,yes
+5/1/2019,1,Tue,Tampa Bay Rays,Kansas City Royals,d,yes
+5/1/2019,1,Wed,Toronto Blue Jays,Los Angeles Angels,n,no
+5/1/2019,1,Wed,New York Yankees,Arizona Diamondbacks,d,no
+5/1/2019,1,Wed,San Diego Padres,Atlanta Braves,n,no
+5/1/2019,1,Wed,Oakland Athletics,Boston Red Sox,d,no
+5/1/2019,1,Wed,Cleveland Indians,Miami Marlins,n,no
+5/1/2019,1,Wed,Colorado Rockies,Milwaukee Brewers,n,no
+5/1/2019,1,Wed,Houston Astros,Minnesota Twins,n,no
+5/1/2019,1,Wed,Cincinnati Reds,New York Mets,n,no
+5/1/2019,1,Wed,Detroit Tigers,Philadelphia Phillies,n,no
+5/1/2019,1,Wed,Chicago Cubs,Seattle Mariners,d,no
+5/1/2019,1,Wed,Los Angeles Dodgers,San Francisco Giants,n,no
+5/1/2019,1,Wed,Pittsburgh Pirates,Texas Rangers,d,no
+5/1/2019,1,Wed,St. Louis Cardinals,Washington Nationals,n,no
+5/2/2019,1,Thu,Toronto Blue Jays,Los Angeles Angels,n,no
+5/2/2019,1,Thu,San Diego Padres,Atlanta Braves,d,no
+5/2/2019,1,Thu,Boston Red Sox,Chicago White Sox,n,no
+5/2/2019,1,Thu,Tampa Bay Rays,Kansas City Royals,d,no
+5/2/2019,1,Thu,Colorado Rockies,Milwaukee Brewers,d,no
+5/2/2019,1,Thu,Houston Astros,Minnesota Twins,d,no
+5/2/2019,1,Thu,Cincinnati Reds,New York Mets,d,no
+5/2/2019,1,Thu,St. Louis Cardinals,Washington Nationals,d,no
+5/3/2019,1,Fri,Tampa Bay Rays,Baltimore Orioles,n,no
+5/3/2019,1,Fri,Boston Red Sox,Chicago White Sox,n,no
+5/3/2019,1,Fri,St. Louis Cardinals,Chicago Cubs,d,no
+5/3/2019,1,Fri,San Francisco Giants,Cincinnati Reds,n,no
+5/3/2019,1,Fri,Seattle Mariners,Cleveland Indians,n,no
+5/3/2019,1,Fri,Arizona Diamondbacks,Colorado Rockies,n,no
+5/3/2019,1,Fri,Kansas City Royals,Detroit Tigers,n,no
+5/3/2019,1,Fri,Atlanta Braves,Miami Marlins,n,no
+5/3/2019,1,Fri,New York Mets,Milwaukee Brewers,n,no
+5/3/2019,1,Fri,Minnesota Twins,New York Yankees,n,no
+5/3/2019,1,Fri,Washington Nationals,Philadelphia Phillies,n,no
+5/3/2019,1,Fri,Oakland Athletics,Pittsburgh Pirates,n,no
+5/3/2019,1,Fri,Los Angeles Dodgers,San Diego Padres,n,no
+5/3/2019,1,Fri,Toronto Blue Jays,Texas Rangers,n,no
+5/4/2019,1,Sat,Houston Astros,Los Angeles Angels,n,no
+5/4/2019,1,Sat,Tampa Bay Rays,Baltimore Orioles,n,no
+5/4/2019,1,Sat,Boston Red Sox,Chicago White Sox,n,no
+5/4/2019,1,Sat,St. Louis Cardinals,Chicago Cubs,d,no
+5/4/2019,1,Sat,San Francisco Giants,Cincinnati Reds,n,no
+5/4/2019,1,Sat,Seattle Mariners,Cleveland Indians,d,no
+5/4/2019,1,Sat,Arizona Diamondbacks,Colorado Rockies,n,no
+5/4/2019,1,Sat,Kansas City Royals,Detroit Tigers,d,no
+5/4/2019,1,Sat,Atlanta Braves,Miami Marlins,n,no
+5/4/2019,1,Sat,New York Mets,Milwaukee Brewers,n,no
+5/4/2019,1,Sat,Minnesota Twins,New York Yankees,d,no
+5/4/2019,1,Sat,Washington Nationals,Philadelphia Phillies,n,no
+5/4/2019,1,Sat,Oakland Athletics,Pittsburgh Pirates,n,no
+5/4/2019,1,Sat,Los Angeles Dodgers,San Diego Padres,n,no
+5/4/2019,1,Sat,Toronto Blue Jays,Texas Rangers,n,no
+5/5/2019,1,Sun,Houston Astros,Los Angeles Angels,d,no
+5/5/2019,1,Sun,Boston Red Sox,Chicago White Sox,d,no
+5/5/2019,1,Sun,St. Louis Cardinals,Chicago Cubs,n,no
+5/5/2019,1,Sun,San Francisco Giants,Cincinnati Reds,d,no
+5/5/2019,1,Sun,Seattle Mariners,Cleveland Indians,d,no
+5/5/2019,1,Sun,Arizona Diamondbacks,Colorado Rockies,d,no
+5/5/2019,1,Sun,Kansas City Royals,Detroit Tigers,d,no
+5/5/2019,1,Sun,Atlanta Braves,Miami Marlins,d,no
+5/5/2019,1,Sun,New York Mets,Milwaukee Brewers,d,no
+5/5/2019,1,Sun,Minnesota Twins,New York Yankees,d,no
+5/5/2019,1,Sun,Washington Nationals,Philadelphia Phillies,d,no
+5/5/2019,1,Sun,Oakland Athletics,Pittsburgh Pirates,d,no
+5/5/2019,1,Sun,Los Angeles Dodgers,San Diego Padres,d,no
+5/5/2019,1,Sun,Toronto Blue Jays,Texas Rangers,d,no
+5/6/2019,1,Mon,Boston Red Sox,Baltimore Orioles,n,no
+5/6/2019,1,Mon,Miami Marlins,Chicago Cubs,n,no
+5/6/2019,1,Mon,San Francisco Giants,Cincinnati Reds,d,no
+5/6/2019,1,Mon,Chicago White Sox,Cleveland Indians,n,no
+5/6/2019,1,Mon,Kansas City Royals,Houston Astros,n,no
+5/6/2019,1,Mon,Atlanta Braves,Los Angeles Dodgers,n,no
+5/6/2019,1,Mon,Washington Nationals,Milwaukee Brewers,n,no
+5/6/2019,1,Mon,Seattle Mariners,New York Yankees,n,no
+5/6/2019,1,Mon,New York Mets,San Diego Padres,n,no
+5/6/2019,1,Mon,Philadelphia Phillies,St. Louis Cardinals,n,no
+5/6/2019,1,Mon,Arizona Diamondbacks,Tampa Bay Rays,n,no
+5/6/2019,1,Mon,Minnesota Twins,Toronto Blue Jays,n,no
+5/7/2019,1,Tue,Boston Red Sox,Baltimore Orioles,n,no
+5/7/2019,1,Tue,Miami Marlins,Chicago Cubs,n,no
+5/7/2019,1,Tue,Chicago White Sox,Cleveland Indians,n,no
+5/7/2019,1,Tue,San Francisco Giants,Colorado Rockies,n,no
+5/7/2019,1,Tue,Los Angeles Angels,Detroit Tigers,n,no
+5/7/2019,1,Tue,Kansas City Royals,Houston Astros,n,no
+5/7/2019,1,Tue,Atlanta Braves,Los Angeles Dodgers,n,no
+5/7/2019,1,Tue,Washington Nationals,Milwaukee Brewers,n,no
+5/7/2019,1,Tue,Seattle Mariners,New York Yankees,n,no
+5/7/2019,1,Tue,Cincinnati Reds,Oakland Athletics,n,no
+5/7/2019,1,Tue,Texas Rangers,Pittsburgh Pirates,n,no
+5/7/2019,1,Tue,New York Mets,San Diego Padres,n,no
+5/7/2019,1,Tue,Philadelphia Phillies,St. Louis Cardinals,n,no
+5/7/2019,1,Tue,Arizona Diamondbacks,Tampa Bay Rays,n,no
+5/7/2019,1,Tue,Minnesota Twins,Toronto Blue Jays,n,no
+5/8/2019,1,Wed,Boston Red Sox,Baltimore Orioles,n,no
+5/8/2019,1,Wed,Miami Marlins,Chicago Cubs,n,no
+5/8/2019,1,Wed,Chicago White Sox,Cleveland Indians,n,no
+5/8/2019,1,Wed,Los Angeles Angels,Detroit Tigers,n,no
+5/8/2019,1,Wed,Kansas City Royals,Houston Astros,n,no
+5/8/2019,1,Wed,Atlanta Braves,Los Angeles Dodgers,n,no
+5/8/2019,1,Wed,Washington Nationals,Milwaukee Brewers,d,no
+5/8/2019,1,Wed,Seattle Mariners,New York Yankees,n,no
+5/8/2019,1,Wed,Cincinnati Reds,Oakland Athletics,n,no
+5/8/2019,1,Wed,Texas Rangers,Pittsburgh Pirates,d,no
+5/8/2019,1,Wed,New York Mets,San Diego Padres,d,no
+5/8/2019,1,Wed,Philadelphia Phillies,St. Louis Cardinals,d,no
+5/8/2019,1,Wed,Arizona Diamondbacks,Tampa Bay Rays,d,no
+5/8/2019,1,Wed,Minnesota Twins,Toronto Blue Jays,n,no
+5/9/2019,1,Thu,Atlanta Braves,Arizona Diamondbacks,n,no
+5/9/2019,1,Thu,Miami Marlins,Chicago Cubs,d,no
+5/9/2019,1,Thu,Chicago White Sox,Cleveland Indians,d,no
+5/9/2019,1,Thu,San Francisco Giants,Colorado Rockies,d,no
+5/9/2019,1,Thu,Los Angeles Angels,Detroit Tigers,d,no
+5/9/2019,1,Thu,Texas Rangers,Houston Astros,n,no
+5/9/2019,1,Thu,Washington Nationals,Los Angeles Dodgers,n,no
+5/9/2019,1,Thu,Seattle Mariners,New York Yankees,n,no
+5/9/2019,1,Thu,Cincinnati Reds,Oakland Athletics,d,no
+5/9/2019,1,Thu,Pittsburgh Pirates,St. Louis Cardinals,n,no
+5/10/2019,1,Fri,Atlanta Braves,Arizona Diamondbacks,n,no
+5/10/2019,1,Fri,Los Angeles Angels,Baltimore Orioles,n,no
+5/10/2019,1,Fri,Seattle Mariners,Boston Red Sox,n,no
+5/10/2019,1,Fri,Milwaukee Brewers,Chicago Cubs,d,no
+5/10/2019,1,Fri,San Diego Padres,Colorado Rockies,n,no
+5/10/2019,1,Fri,Texas Rangers,Houston Astros,n,no
+5/10/2019,1,Fri,Philadelphia Phillies,Kansas City Royals,n,no
+5/10/2019,1,Fri,Washington Nationals,Los Angeles Dodgers,n,no
+5/10/2019,1,Fri,Detroit Tigers,Minnesota Twins,n,no
+5/10/2019,1,Fri,Miami Marlins,New York Mets,n,no
+5/10/2019,1,Fri,Cleveland Indians,Oakland Athletics,n,no
+5/10/2019,1,Fri,Cincinnati Reds,San Francisco Giants,n,no
+5/10/2019,1,Fri,Pittsburgh Pirates,St. Louis Cardinals,n,no
+5/10/2019,1,Fri,New York Yankees,Tampa Bay Rays,n,no
+5/10/2019,1,Fri,Chicago White Sox,Toronto Blue Jays,n,no
+5/11/2019,2,Sat,Detroit Tigers,Minnesota Twins,d,yes
+5/11/2019,1,Fri,Detroit Tigers,Minnesota Twins,d,yes
+5/11/2019,1,Sat,Atlanta Braves,Arizona Diamondbacks,n,no
+5/11/2019,1,Sat,Los Angeles Angels,Baltimore Orioles,d,no
+5/11/2019,1,Sat,Seattle Mariners,Boston Red Sox,d,no
+5/11/2019,1,Sat,Milwaukee Brewers,Chicago Cubs,d,no
+5/11/2019,1,Sat,San Diego Padres,Colorado Rockies,n,no
+5/11/2019,1,Sat,Texas Rangers,Houston Astros,n,no
+5/11/2019,1,Sat,Philadelphia Phillies,Kansas City Royals,n,no
+5/11/2019,1,Sat,Washington Nationals,Los Angeles Dodgers,n,no
+5/11/2019,1,Sat,Miami Marlins,New York Mets,n,no
+5/11/2019,1,Sat,Cleveland Indians,Oakland Athletics,d,no
+5/11/2019,1,Sat,Cincinnati Reds,San Francisco Giants,n,no
+5/11/2019,1,Sat,Pittsburgh Pirates,St. Louis Cardinals,d,no
+5/11/2019,1,Sat,New York Yankees,Tampa Bay Rays,n,no
+5/11/2019,1,Sat,Chicago White Sox,Toronto Blue Jays,d,no
+5/12/2019,1,Sun,Atlanta Braves,Arizona Diamondbacks,d,no
+5/12/2019,1,Sun,Los Angeles Angels,Baltimore Orioles,d,no
+5/12/2019,1,Sun,Seattle Mariners,Boston Red Sox,d,no
+5/12/2019,1,Sun,Milwaukee Brewers,Chicago Cubs,n,no
+5/12/2019,1,Sun,San Diego Padres,Colorado Rockies,d,no
+5/12/2019,1,Sun,Texas Rangers,Houston Astros,d,no
+5/12/2019,1,Sun,Philadelphia Phillies,Kansas City Royals,d,no
+5/12/2019,1,Sun,Washington Nationals,Los Angeles Dodgers,d,no
+5/12/2019,1,Sun,Detroit Tigers,Minnesota Twins,d,no
+5/12/2019,1,Sun,Cleveland Indians,Oakland Athletics,d,no
+5/12/2019,1,Sun,Cincinnati Reds,San Francisco Giants,d,no
+5/12/2019,1,Sun,Pittsburgh Pirates,St. Louis Cardinals,d,no
+5/12/2019,1,Sun,New York Yankees,Tampa Bay Rays,d,no
+5/12/2019,1,Sun,Chicago White Sox,Toronto Blue Jays,d,no
+5/13/2019,1,Mon,Pittsburgh Pirates,Arizona Diamondbacks,n,no
+5/13/2019,1,Mon,Cleveland Indians,Chicago White Sox,n,no
+5/13/2019,1,Mon,Houston Astros,Detroit Tigers,n,no
+5/13/2019,1,Mon,Los Angeles Angels,Minnesota Twins,n,no
+5/13/2019,1,Mon,Milwaukee Brewers,Philadelphia Phillies,n,no
+5/13/2019,1,Mon,Oakland Athletics,Seattle Mariners,n,no
+5/14/2019,1,Tue,Pittsburgh Pirates,Arizona Diamondbacks,n,no
+5/14/2019,1,Tue,St. Louis Cardinals,Atlanta Braves,n,no
+5/14/2019,1,Tue,Colorado Rockies,Boston Red Sox,n,no
+5/14/2019,1,Tue,Cleveland Indians,Chicago White Sox,d,no
+5/14/2019,1,Tue,Chicago Cubs,Cincinnati Reds,n,no
+5/14/2019,1,Tue,Houston Astros,Detroit Tigers,n,no
+5/14/2019,1,Tue,Texas Rangers,Kansas City Royals,n,no
+5/14/2019,1,Tue,San Diego Padres,Los Angeles Dodgers,n,no
+5/14/2019,1,Tue,Tampa Bay Rays,Miami Marlins,n,no
+5/14/2019,1,Tue,Los Angeles Angels,Minnesota Twins,n,no
+5/14/2019,1,Tue,Milwaukee Brewers,Philadelphia Phillies,n,no
+5/14/2019,1,Tue,Oakland Athletics,Seattle Mariners,n,no
+5/14/2019,1,Tue,Toronto Blue Jays,San Francisco Giants,n,no
+5/14/2019,1,Tue,New York Mets,Washington Nationals,n,no
+5/15/2019,2,Wed,Baltimore Orioles,New York Yankees,n,yes
+5/15/2019,1,Mon,Baltimore Orioles,New York Yankees,d,yes
+5/15/2019,1,Wed,Pittsburgh Pirates,Arizona Diamondbacks,d,no
+5/15/2019,1,Wed,St. Louis Cardinals,Atlanta Braves,n,no
+5/15/2019,1,Wed,Colorado Rockies,Boston Red Sox,n,no
+5/15/2019,1,Wed,Chicago Cubs,Cincinnati Reds,n,no
+5/15/2019,1,Wed,Houston Astros,Detroit Tigers,n,no
+5/15/2019,1,Wed,Texas Rangers,Kansas City Royals,n,no
+5/15/2019,1,Wed,San Diego Padres,Los Angeles Dodgers,n,no
+5/15/2019,1,Wed,Tampa Bay Rays,Miami Marlins,n,no
+5/15/2019,1,Wed,Los Angeles Angels,Minnesota Twins,d,no
+5/15/2019,1,Wed,Milwaukee Brewers,Philadelphia Phillies,n,no
+5/15/2019,1,Wed,Toronto Blue Jays,San Francisco Giants,d,no
+5/15/2019,1,Wed,New York Mets,Washington Nationals,n,no
+5/16/2019,1,Thu,St. Louis Cardinals,Atlanta Braves,n,no
+5/16/2019,1,Thu,Toronto Blue Jays,Chicago White Sox,n,no
+5/16/2019,1,Thu,Chicago Cubs,Cincinnati Reds,n,no
+5/16/2019,1,Thu,Baltimore Orioles,Cleveland Indians,n,no
+5/16/2019,1,Thu,Oakland Athletics,Detroit Tigers,d,no
+5/16/2019,1,Thu,Texas Rangers,Kansas City Royals,d,no
+5/16/2019,1,Thu,Milwaukee Brewers,Philadelphia Phillies,d,no
+5/16/2019,1,Thu,Pittsburgh Pirates,San Diego Padres,n,no
+5/16/2019,1,Thu,Minnesota Twins,Seattle Mariners,n,no
+5/16/2019,1,Thu,New York Mets,Washington Nationals,d,no
+5/17/2019,1,Fri,Kansas City Royals,Los Angeles Angels,n,no
+5/17/2019,1,Fri,San Francisco Giants,Arizona Diamondbacks,n,no
+5/17/2019,1,Fri,Milwaukee Brewers,Atlanta Braves,n,no
+5/17/2019,1,Fri,Houston Astros,Boston Red Sox,n,no
+5/17/2019,1,Fri,Toronto Blue Jays,Chicago White Sox,n,no
+5/17/2019,1,Fri,Los Angeles Dodgers,Cincinnati Reds,n,no
+5/17/2019,1,Fri,Baltimore Orioles,Cleveland Indians,n,no
+5/17/2019,1,Fri,Oakland Athletics,Detroit Tigers,n,no
+5/17/2019,1,Fri,New York Mets,Miami Marlins,n,no
+5/17/2019,1,Fri,Tampa Bay Rays,New York Yankees,n,no
+5/17/2019,1,Fri,Colorado Rockies,Philadelphia Phillies,n,no
+5/17/2019,1,Fri,Pittsburgh Pirates,San Diego Padres,n,no
+5/17/2019,1,Fri,Minnesota Twins,Seattle Mariners,n,no
+5/17/2019,1,Fri,St. Louis Cardinals,Texas Rangers,n,no
+5/17/2019,1,Fri,Chicago Cubs,Washington Nationals,n,no
+5/18/2019,1,Sat,Kansas City Royals,Los Angeles Angels,n,no
+5/18/2019,1,Sat,San Francisco Giants,Arizona Diamondbacks,n,no
+5/18/2019,1,Sat,Milwaukee Brewers,Atlanta Braves,n,no
+5/18/2019,1,Sat,Houston Astros,Boston Red Sox,n,no
+5/18/2019,1,Sat,Toronto Blue Jays,Chicago White Sox,d,no
+5/18/2019,1,Sat,Los Angeles Dodgers,Cincinnati Reds,d,no
+5/18/2019,1,Sat,Baltimore Orioles,Cleveland Indians,d,no
+5/18/2019,1,Sat,Oakland Athletics,Detroit Tigers,d,no
+5/18/2019,1,Sat,New York Mets,Miami Marlins,d,no
+5/18/2019,1,Sat,Tampa Bay Rays,New York Yankees,d,no
+5/18/2019,1,Sat,Colorado Rockies,Philadelphia Phillies,d,no
+5/18/2019,1,Sat,Pittsburgh Pirates,San Diego Padres,n,no
+5/18/2019,1,Sat,Minnesota Twins,Seattle Mariners,n,no
+5/18/2019,1,Sat,St. Louis Cardinals,Texas Rangers,d,no
+5/18/2019,1,Sat,Chicago Cubs,Washington Nationals,n,no
+5/19/2019,1,Sun,Kansas City Royals,Los Angeles Angels,d,no
+5/19/2019,1,Sun,San Francisco Giants,Arizona Diamondbacks,d,no
+5/19/2019,1,Sun,Milwaukee Brewers,Atlanta Braves,d,no
+5/19/2019,1,Sun,Houston Astros,Boston Red Sox,d,no
+5/19/2019,1,Sun,Toronto Blue Jays,Chicago White Sox,d,no
+5/19/2019,1,Sun,Los Angeles Dodgers,Cincinnati Reds,d,no
+5/19/2019,1,Sun,Baltimore Orioles,Cleveland Indians,d,no
+5/19/2019,1,Sun,Oakland Athletics,Detroit Tigers,d,no
+5/19/2019,1,Sun,New York Mets,Miami Marlins,d,no
+5/19/2019,1,Sun,Tampa Bay Rays,New York Yankees,d,no
+5/19/2019,1,Sun,Colorado Rockies,Philadelphia Phillies,d,no
+5/19/2019,1,Sun,Pittsburgh Pirates,San Diego Padres,d,no
+5/19/2019,1,Sun,Minnesota Twins,Seattle Mariners,d,no
+5/19/2019,1,Sun,St. Louis Cardinals,Texas Rangers,d,no
+5/19/2019,1,Sun,Chicago Cubs,Washington Nationals,n,no
+5/20/2019,1,Mon,Minnesota Twins,Los Angeles Angels,n,no
+5/20/2019,1,Mon,New York Yankees,Baltimore Orioles,n,no
+5/20/2019,1,Mon,Philadelphia Phillies,Chicago Cubs,n,no
+5/20/2019,1,Mon,Oakland Athletics,Cleveland Indians,n,no
+5/20/2019,1,Mon,Chicago White Sox,Houston Astros,n,no
+5/20/2019,1,Mon,Washington Nationals,New York Mets,n,no
+5/20/2019,1,Mon,Arizona Diamondbacks,San Diego Padres,n,no
+5/20/2019,1,Mon,Atlanta Braves,San Francisco Giants,n,no
+5/20/2019,1,Mon,Seattle Mariners,Texas Rangers,n,no
+5/20/2019,1,Mon,Boston Red Sox,Toronto Blue Jays,d,no
+5/21/2019,1,Tue,Minnesota Twins,Los Angeles Angels,n,no
+5/21/2019,1,Tue,New York Yankees,Baltimore Orioles,n,no
+5/21/2019,1,Tue,Philadelphia Phillies,Chicago Cubs,n,no
+5/21/2019,1,Tue,Oakland Athletics,Cleveland Indians,n,no
+5/21/2019,1,Tue,Miami Marlins,Detroit Tigers,n,no
+5/21/2019,1,Tue,Chicago White Sox,Houston Astros,n,no
+5/21/2019,1,Tue,Cincinnati Reds,Milwaukee Brewers,n,no
+5/21/2019,1,Tue,Washington Nationals,New York Mets,n,no
+5/21/2019,1,Tue,Colorado Rockies,Pittsburgh Pirates,n,no
+5/21/2019,1,Tue,Arizona Diamondbacks,San Diego Padres,n,no
+5/21/2019,1,Tue,Atlanta Braves,San Francisco Giants,n,no
+5/21/2019,1,Tue,Los Angeles Dodgers,Tampa Bay Rays,n,no
+5/21/2019,1,Tue,Seattle Mariners,Texas Rangers,n,no
+5/21/2019,1,Tue,Boston Red Sox,Toronto Blue Jays,n,no
+5/22/2019,2,Wed,Kansas City Royals,St. Louis Cardinals,d,yes
+5/22/2019,1,Tue,Kansas City Royals,St. Louis Cardinals,d,yes
+5/22/2019,1,Wed,New York Yankees,Baltimore Orioles,n,no
+5/22/2019,1,Wed,Philadelphia Phillies,Chicago Cubs,n,no
+5/22/2019,1,Wed,Oakland Athletics,Cleveland Indians,d,no
+5/22/2019,1,Wed,Miami Marlins,Detroit Tigers,n,no
+5/22/2019,1,Wed,Chicago White Sox,Houston Astros,n,no
+5/22/2019,1,Wed,Cincinnati Reds,Milwaukee Brewers,d,no
+5/22/2019,1,Wed,Washington Nationals,New York Mets,n,no
+5/22/2019,1,Wed,Colorado Rockies,Pittsburgh Pirates,n,no
+5/22/2019,1,Wed,Arizona Diamondbacks,San Diego Padres,d,no
+5/22/2019,1,Wed,Atlanta Braves,San Francisco Giants,n,no
+5/22/2019,1,Wed,Los Angeles Dodgers,Tampa Bay Rays,n,no
+5/22/2019,1,Wed,Seattle Mariners,Texas Rangers,d,no
+5/22/2019,1,Wed,Boston Red Sox,Toronto Blue Jays,n,no
+5/23/2019,1,Wed,Minnesota Twins,Los Angeles Angels,d,no
+5/23/2019,1,Thu,New York Yankees,Baltimore Orioles,d,no
+5/23/2019,1,Thu,Philadelphia Phillies,Chicago Cubs,d,no
+5/23/2019,1,Thu,Tampa Bay Rays,Cleveland Indians,n,no
+5/23/2019,1,Thu,Miami Marlins,Detroit Tigers,d,no
+5/23/2019,1,Thu,Chicago White Sox,Houston Astros,n,no
+5/23/2019,1,Thu,Washington Nationals,New York Mets,d,no
+5/23/2019,1,Thu,Colorado Rockies,Pittsburgh Pirates,d,no
+5/23/2019,1,Thu,Atlanta Braves,San Francisco Giants,d,no
+5/23/2019,1,Thu,Boston Red Sox,Toronto Blue Jays,d,no
+5/24/2019,1,Fri,Texas Rangers,Los Angeles Angels,n,no
+5/24/2019,1,Fri,Cincinnati Reds,Chicago Cubs,d,no
+5/24/2019,1,Fri,Tampa Bay Rays,Cleveland Indians,n,no
+5/24/2019,1,Fri,Baltimore Orioles,Colorado Rockies,n,no
+5/24/2019,1,Fri,Boston Red Sox,Houston Astros,n,no
+5/24/2019,1,Fri,Philadelphia Phillies,Milwaukee Brewers,n,no
+5/24/2019,1,Fri,Chicago White Sox,Minnesota Twins,n,no
+5/24/2019,1,Fri,Detroit Tigers,New York Mets,n,no
+5/24/2019,1,Fri,Seattle Mariners,Oakland Athletics,n,no
+5/24/2019,1,Fri,Los Angeles Dodgers,Pittsburgh Pirates,n,no
+5/24/2019,1,Fri,Arizona Diamondbacks,San Francisco Giants,n,no
+5/24/2019,1,Fri,Atlanta Braves,St. Louis Cardinals,n,no
+5/24/2019,1,Fri,San Diego Padres,Toronto Blue Jays,n,no
+5/24/2019,1,Fri,Miami Marlins,Washington Nationals,n,no
+5/25/2019,2,Sat,New York Yankees,Kansas City Royals,d,yes
+5/25/2019,1,Fri,New York Yankees,Kansas City Royals,d,yes
+5/25/2019,1,Sat,Texas Rangers,Los Angeles Angels,n,no
+5/25/2019,1,Sat,Cincinnati Reds,Chicago Cubs,d,no
+5/25/2019,1,Sat,Tampa Bay Rays,Cleveland Indians,d,no
+5/25/2019,1,Sat,Baltimore Orioles,Colorado Rockies,n,no
+5/25/2019,1,Sat,Boston Red Sox,Houston Astros,n,no
+5/25/2019,1,Sat,Philadelphia Phillies,Milwaukee Brewers,d,no
+5/25/2019,1,Sat,Chicago White Sox,Minnesota Twins,d,no
+5/25/2019,1,Sat,Detroit Tigers,New York Mets,d,no
+5/25/2019,1,Sat,Seattle Mariners,Oakland Athletics,d,no
+5/25/2019,1,Sat,Los Angeles Dodgers,Pittsburgh Pirates,n,no
+5/25/2019,1,Sat,Arizona Diamondbacks,San Francisco Giants,d,no
+5/25/2019,1,Sat,Atlanta Braves,St. Louis Cardinals,n,no
+5/25/2019,1,Sat,San Diego Padres,Toronto Blue Jays,d,no
+5/25/2019,1,Sat,Miami Marlins,Washington Nationals,d,no
+5/26/2019,1,Sun,Texas Rangers,Los Angeles Angels,d,no
+5/26/2019,1,Sun,Cincinnati Reds,Chicago Cubs,d,no
+5/26/2019,1,Sun,Tampa Bay Rays,Cleveland Indians,d,no
+5/26/2019,1,Sun,Baltimore Orioles,Colorado Rockies,d,no
+5/26/2019,1,Sun,Boston Red Sox,Houston Astros,d,no
+5/26/2019,1,Sun,New York Yankees,Kansas City Royals,d,no
+5/26/2019,1,Sun,Philadelphia Phillies,Milwaukee Brewers,d,no
+5/26/2019,1,Sun,Chicago White Sox,Minnesota Twins,d,no
+5/26/2019,1,Sun,Detroit Tigers,New York Mets,d,no
+5/26/2019,1,Sun,Seattle Mariners,Oakland Athletics,d,no
+5/26/2019,1,Sun,Los Angeles Dodgers,Pittsburgh Pirates,d,no
+5/26/2019,1,Sun,Arizona Diamondbacks,San Francisco Giants,d,no
+5/26/2019,1,Sun,Atlanta Braves,St. Louis Cardinals,n,no
+5/26/2019,1,Sun,San Diego Padres,Toronto Blue Jays,d,no
+5/26/2019,1,Sun,Miami Marlins,Washington Nationals,d,no
+5/27/2019,2,Mon,Pittsburgh Pirates,Cincinnati Reds,d,yes
+5/27/2019,1,Sat,Pittsburgh Pirates,Cincinnati Reds,d,yes
+5/27/2019,1,Mon,Detroit Tigers,Baltimore Orioles,d,no
+5/27/2019,1,Mon,Cleveland Indians,Boston Red Sox,d,no
+5/27/2019,1,Mon,Kansas City Royals,Chicago White Sox,d,no
+5/27/2019,1,Mon,Arizona Diamondbacks,Colorado Rockies,d,no
+5/27/2019,1,Mon,Chicago Cubs,Houston Astros,d,no
+5/27/2019,1,Mon,New York Mets,Los Angeles Dodgers,n,no
+5/27/2019,1,Mon,Milwaukee Brewers,Minnesota Twins,n,no
+5/27/2019,1,Mon,San Diego Padres,New York Yankees,d,no
+5/27/2019,1,Mon,Los Angeles Angels,Oakland Athletics,d,no
+5/27/2019,1,Mon,Texas Rangers,Seattle Mariners,n,no
+5/27/2019,1,Mon,Toronto Blue Jays,Tampa Bay Rays,d,no
+5/27/2019,1,Mon,Miami Marlins,Washington Nationals,d,no
+5/28/2019,1,Tue,Washington Nationals,Atlanta Braves,n,no
+5/28/2019,1,Tue,Detroit Tigers,Baltimore Orioles,n,no
+5/28/2019,1,Tue,Cleveland Indians,Boston Red Sox,n,no
+5/28/2019,1,Tue,Kansas City Royals,Chicago White Sox,n,no
+5/28/2019,1,Tue,Pittsburgh Pirates,Cincinnati Reds,n,no
+5/28/2019,1,Tue,Arizona Diamondbacks,Colorado Rockies,n,no
+5/28/2019,1,Tue,Chicago Cubs,Houston Astros,n,no
+5/28/2019,1,Tue,New York Mets,Los Angeles Dodgers,n,no
+5/28/2019,1,Tue,San Francisco Giants,Miami Marlins,n,no
+5/28/2019,1,Tue,Milwaukee Brewers,Minnesota Twins,n,no
+5/28/2019,1,Tue,San Diego Padres,New York Yankees,n,no
+5/28/2019,1,Tue,Los Angeles Angels,Oakland Athletics,n,no
+5/28/2019,1,Tue,St. Louis Cardinals,Philadelphia Phillies,n,no
+5/28/2019,1,Tue,Texas Rangers,Seattle Mariners,n,no
+5/28/2019,1,Tue,Toronto Blue Jays,Tampa Bay Rays,n,no
+5/29/2019,1,Wed,Washington Nationals,Atlanta Braves,n,no
+5/29/2019,1,Wed,Detroit Tigers,Baltimore Orioles,n,no
+5/29/2019,1,Wed,Cleveland Indians,Boston Red Sox,n,no
+5/29/2019,1,Wed,Kansas City Royals,Chicago White Sox,n,no
+5/29/2019,1,Wed,Pittsburgh Pirates,Cincinnati Reds,d,no
+5/29/2019,1,Wed,Arizona Diamondbacks,Colorado Rockies,n,no
+5/29/2019,1,Wed,Chicago Cubs,Houston Astros,n,no
+5/29/2019,1,Wed,New York Mets,Los Angeles Dodgers,n,no
+5/29/2019,1,Wed,San Francisco Giants,Miami Marlins,n,no
+5/29/2019,1,Wed,San Diego Padres,New York Yankees,d,no
+5/29/2019,1,Wed,Los Angeles Angels,Oakland Athletics,d,no
+5/29/2019,1,Wed,St. Louis Cardinals,Philadelphia Phillies,n,no
+5/29/2019,1,Wed,Texas Rangers,Seattle Mariners,d,no
+5/29/2019,1,Wed,Toronto Blue Jays,Tampa Bay Rays,n,no
+5/30/2019,1,Thu,Cleveland Indians,Chicago White Sox,n,no
+5/30/2019,1,Thu,Arizona Diamondbacks,Colorado Rockies,d,no
+5/30/2019,1,Thu,New York Mets,Los Angeles Dodgers,n,no
+5/30/2019,1,Thu,San Francisco Giants,Miami Marlins,d,no
+5/30/2019,1,Thu,St. Louis Cardinals,Philadelphia Phillies,d,no
+5/30/2019,1,Thu,Milwaukee Brewers,Pittsburgh Pirates,n,no
+5/30/2019,1,Thu,Los Angeles Angels,Seattle Mariners,n,no
+5/30/2019,1,Thu,Minnesota Twins,Tampa Bay Rays,n,no
+5/30/2019,1,Thu,Kansas City Royals,Texas Rangers,n,no
+5/31/2019,1,Fri,New York Mets,Arizona Diamondbacks,n,no
+5/31/2019,1,Fri,Detroit Tigers,Atlanta Braves,n,no
+5/31/2019,1,Fri,San Francisco Giants,Baltimore Orioles,n,no
+5/31/2019,1,Fri,Cleveland Indians,Chicago White Sox,n,no
+5/31/2019,1,Fri,Washington Nationals,Cincinnati Reds,n,no
+5/31/2019,1,Fri,Toronto Blue Jays,Colorado Rockies,n,no
+5/31/2019,1,Fri,Philadelphia Phillies,Los Angeles Dodgers,n,no
+5/31/2019,1,Fri,Boston Red Sox,New York Yankees,n,no
+5/31/2019,1,Fri,Houston Astros,Oakland Athletics,n,no
+5/31/2019,1,Fri,Milwaukee Brewers,Pittsburgh Pirates,n,no
+5/31/2019,1,Fri,Miami Marlins,San Diego Padres,n,no
+5/31/2019,1,Fri,Los Angeles Angels,Seattle Mariners,n,no
+5/31/2019,1,Fri,Chicago Cubs,St. Louis Cardinals,n,no
+5/31/2019,1,Fri,Minnesota Twins,Tampa Bay Rays,n,no
+5/31/2019,1,Fri,Kansas City Royals,Texas Rangers,n,no
+6/1/2019,1,Sat,New York Mets,Arizona Diamondbacks,n,no
+6/1/2019,1,Sat,Detroit Tigers,Atlanta Braves,d,no
+6/1/2019,1,Sat,San Francisco Giants,Baltimore Orioles,d,no
+6/1/2019,1,Sat,Cleveland Indians,Chicago White Sox,d,no
+6/1/2019,1,Sat,Washington Nationals,Cincinnati Reds,d,no
+6/1/2019,1,Sat,Toronto Blue Jays,Colorado Rockies,n,no
+6/1/2019,1,Sat,Philadelphia Phillies,Los Angeles Dodgers,n,no
+6/1/2019,1,Sat,Boston Red Sox,New York Yankees,n,no
+6/1/2019,1,Sat,Houston Astros,Oakland Athletics,n,no
+6/1/2019,1,Sat,Milwaukee Brewers,Pittsburgh Pirates,d,no
+6/1/2019,1,Sat,Miami Marlins,San Diego Padres,n,no
+6/1/2019,1,Sat,Los Angeles Angels,Seattle Mariners,d,no
+6/1/2019,1,Sat,Chicago Cubs,St. Louis Cardinals,n,no
+6/1/2019,1,Sat,Minnesota Twins,Tampa Bay Rays,d,no
+6/1/2019,1,Sat,Kansas City Royals,Texas Rangers,d,no
+6/2/2019,1,Sun,New York Mets,Arizona Diamondbacks,d,no
+6/2/2019,1,Sun,Detroit Tigers,Atlanta Braves,d,no
+6/2/2019,1,Sun,San Francisco Giants,Baltimore Orioles,d,no
+6/2/2019,1,Sun,Cleveland Indians,Chicago White Sox,d,no
+6/2/2019,1,Sun,Washington Nationals,Cincinnati Reds,d,no
+6/2/2019,1,Sun,Toronto Blue Jays,Colorado Rockies,d,no
+6/2/2019,1,Sun,Philadelphia Phillies,Los Angeles Dodgers,d,no
+6/2/2019,1,Sun,Boston Red Sox,New York Yankees,n,no
+6/2/2019,1,Sun,Houston Astros,Oakland Athletics,d,no
+6/2/2019,1,Sun,Milwaukee Brewers,Pittsburgh Pirates,d,no
+6/2/2019,1,Sun,Miami Marlins,San Diego Padres,d,no
+6/2/2019,1,Sun,Los Angeles Angels,Seattle Mariners,d,no
+6/2/2019,1,Sun,Chicago Cubs,St. Louis Cardinals,d,no
+6/2/2019,1,Sun,Minnesota Twins,Tampa Bay Rays,d,no
+6/2/2019,1,Sun,Kansas City Royals,Texas Rangers,d,no
+6/3/2019,1,Mon,Los Angeles Dodgers,Arizona Diamondbacks,n,no
+6/3/2019,1,Mon,Los Angeles Angels,Chicago Cubs,d,no
+6/3/2019,1,Mon,Philadelphia Phillies,San Diego Padres,n,no
+6/3/2019,1,Mon,Houston Astros,Seattle Mariners,n,no
+6/4/2019,1,Tue,Oakland Athletics,Los Angeles Angels,n,no
+6/4/2019,1,Tue,Los Angeles Dodgers,Arizona Diamondbacks,n,no
+6/4/2019,1,Tue,Colorado Rockies,Chicago Cubs,n,no
+6/4/2019,1,Tue,Minnesota Twins,Cleveland Indians,n,no
+6/4/2019,1,Tue,Tampa Bay Rays,Detroit Tigers,n,no
+6/4/2019,1,Tue,Boston Red Sox,Kansas City Royals,n,no
+6/4/2019,1,Tue,Miami Marlins,Milwaukee Brewers,n,no
+6/4/2019,1,Tue,San Francisco Giants,New York Mets,n,no
+6/4/2019,1,Tue,Atlanta Braves,Pittsburgh Pirates,n,no
+6/4/2019,1,Tue,Philadelphia Phillies,San Diego Padres,n,no
+6/4/2019,1,Tue,Houston Astros,Seattle Mariners,n,no
+6/4/2019,1,Tue,Cincinnati Reds,St. Louis Cardinals,n,no
+6/4/2019,1,Tue,Baltimore Orioles,Texas Rangers,n,no
+6/4/2019,1,Tue,New York Yankees,Toronto Blue Jays,n,no
+6/4/2019,1,Tue,Chicago White Sox,Washington Nationals,n,no
+6/5/2019,1,Wed,Oakland Athletics,Los Angeles Angels,n,no
+6/5/2019,1,Wed,Los Angeles Dodgers,Arizona Diamondbacks,d,no
+6/5/2019,1,Wed,Colorado Rockies,Chicago Cubs,n,no
+6/5/2019,1,Wed,Minnesota Twins,Cleveland Indians,n,no
+6/5/2019,1,Wed,Tampa Bay Rays,Detroit Tigers,n,no
+6/5/2019,1,Wed,Boston Red Sox,Kansas City Royals,n,no
+6/5/2019,1,Wed,Miami Marlins,Milwaukee Brewers,n,no
+6/5/2019,1,Wed,San Francisco Giants,New York Mets,n,no
+6/5/2019,1,Wed,Atlanta Braves,Pittsburgh Pirates,n,no
+6/5/2019,1,Wed,Philadelphia Phillies,San Diego Padres,d,no
+6/5/2019,1,Wed,Houston Astros,Seattle Mariners,n,no
+6/5/2019,1,Wed,Baltimore Orioles,Texas Rangers,n,no
+6/5/2019,1,Wed,New York Yankees,Toronto Blue Jays,n,no
+6/5/2019,1,Wed,Chicago White Sox,Washington Nationals,d,no
+6/6/2019,1,Thu,Oakland Athletics,Los Angeles Angels,n,no
+6/6/2019,1,Thu,Colorado Rockies,Chicago Cubs,d,no
+6/6/2019,1,Thu,Minnesota Twins,Cleveland Indians,n,no
+6/6/2019,1,Thu,Tampa Bay Rays,Detroit Tigers,d,no
+6/6/2019,1,Thu,Boston Red Sox,Kansas City Royals,d,no
+6/6/2019,1,Thu,Miami Marlins,Milwaukee Brewers,d,no
+6/6/2019,1,Thu,San Francisco Giants,New York Mets,d,no
+6/6/2019,1,Thu,Atlanta Braves,Pittsburgh Pirates,d,no
+6/6/2019,1,Thu,Washington Nationals,San Diego Padres,n,no
+6/6/2019,1,Thu,Houston Astros,Seattle Mariners,d,no
+6/6/2019,1,Thu,Cincinnati Reds,St. Louis Cardinals,d,no
+6/6/2019,1,Thu,Baltimore Orioles,Texas Rangers,n,no
+6/6/2019,1,Thu,New York Yankees,Toronto Blue Jays,n,no
+6/7/2019,1,Fri,Seattle Mariners,Los Angeles Angels,n,no
+6/7/2019,1,Fri,Tampa Bay Rays,Boston Red Sox,n,no
+6/7/2019,1,Fri,St. Louis Cardinals,Chicago Cubs,d,no
+6/7/2019,1,Fri,New York Yankees,Cleveland Indians,n,no
+6/7/2019,1,Fri,Minnesota Twins,Detroit Tigers,n,no
+6/7/2019,1,Fri,Baltimore Orioles,Houston Astros,n,no
+6/7/2019,1,Fri,Chicago White Sox,Kansas City Royals,n,no
+6/7/2019,1,Fri,Atlanta Braves,Miami Marlins,n,no
+6/7/2019,1,Fri,Pittsburgh Pirates,Milwaukee Brewers,n,no
+6/7/2019,1,Fri,Colorado Rockies,New York Mets,n,no
+6/7/2019,1,Fri,Cincinnati Reds,Philadelphia Phillies,n,no
+6/7/2019,1,Fri,Washington Nationals,San Diego Padres,n,no
+6/7/2019,1,Fri,Los Angeles Dodgers,San Francisco Giants,n,no
+6/7/2019,1,Fri,Oakland Athletics,Texas Rangers,n,no
+6/7/2019,1,Fri,Arizona Diamondbacks,Toronto Blue Jays,n,no
+6/8/2019,2,Sat,Tampa Bay Rays,Boston Red Sox,d,yes
+6/8/2019,2,Sat,Oakland Athletics,Texas Rangers,n,yes
+6/8/2019,1,Fri,Tampa Bay Rays,Boston Red Sox,d,yes
+6/8/2019,1,Sat,Oakland Athletics,Texas Rangers,d,yes
+6/8/2019,1,Sat,Seattle Mariners,Los Angeles Angels,n,no
+6/8/2019,1,Sat,St. Louis Cardinals,Chicago Cubs,n,no
+6/8/2019,1,Sat,New York Yankees,Cleveland Indians,d,no
+6/8/2019,1,Sat,Minnesota Twins,Detroit Tigers,d,no
+6/8/2019,1,Sat,Baltimore Orioles,Houston Astros,d,no
+6/8/2019,1,Sat,Chicago White Sox,Kansas City Royals,d,no
+6/8/2019,1,Sat,Atlanta Braves,Miami Marlins,d,no
+6/8/2019,1,Sat,Pittsburgh Pirates,Milwaukee Brewers,d,no
+6/8/2019,1,Sat,Colorado Rockies,New York Mets,n,no
+6/8/2019,1,Sat,Cincinnati Reds,Philadelphia Phillies,d,no
+6/8/2019,1,Sat,Washington Nationals,San Diego Padres,n,no
+6/8/2019,1,Sat,Los Angeles Dodgers,San Francisco Giants,d,no
+6/8/2019,1,Sat,Arizona Diamondbacks,Toronto Blue Jays,d,no
+6/9/2019,1,Sun,Seattle Mariners,Los Angeles Angels,d,no
+6/9/2019,1,Sun,Tampa Bay Rays,Boston Red Sox,d,no
+6/9/2019,1,Sun,St. Louis Cardinals,Chicago Cubs,d,no
+6/9/2019,1,Sun,New York Yankees,Cleveland Indians,d,no
+6/9/2019,1,Sun,Minnesota Twins,Detroit Tigers,d,no
+6/9/2019,1,Sun,Baltimore Orioles,Houston Astros,d,no
+6/9/2019,1,Sun,Chicago White Sox,Kansas City Royals,d,no
+6/9/2019,1,Sun,Atlanta Braves,Miami Marlins,d,no
+6/9/2019,1,Sun,Pittsburgh Pirates,Milwaukee Brewers,d,no
+6/9/2019,1,Sun,Colorado Rockies,New York Mets,d,no
+6/9/2019,1,Sun,Cincinnati Reds,Philadelphia Phillies,d,no
+6/9/2019,1,Sun,Washington Nationals,San Diego Padres,d,no
+6/9/2019,1,Sun,Los Angeles Dodgers,San Francisco Giants,d,no
+6/9/2019,1,Sun,Oakland Athletics,Texas Rangers,d,no
+6/9/2019,1,Sun,Arizona Diamondbacks,Toronto Blue Jays,d,no
+6/10/2019,1,Mon,Los Angeles Dodgers,Los Angeles Angels,n,no
+6/10/2019,1,Mon,Pittsburgh Pirates,Atlanta Braves,n,no
+6/10/2019,1,Mon,Texas Rangers,Boston Red Sox,n,no
+6/10/2019,1,Mon,Washington Nationals,Chicago White Sox,n,no
+6/10/2019,1,Mon,Chicago Cubs,Colorado Rockies,n,no
+6/10/2019,1,Mon,St. Louis Cardinals,Miami Marlins,n,no
+6/10/2019,1,Mon,Arizona Diamondbacks,Philadelphia Phillies,n,no
+6/10/2019,1,Mon,Oakland Athletics,Tampa Bay Rays,n,no
+6/11/2019,2,Tue,New York Mets,New York Yankees,n,yes
+6/11/2019,1,Mon,New York Mets,New York Yankees,d,yes
+6/11/2019,1,Tue,Los Angeles Dodgers,Los Angeles Angels,n,no
+6/11/2019,1,Tue,Pittsburgh Pirates,Atlanta Braves,n,no
+6/11/2019,1,Tue,Toronto Blue Jays,Baltimore Orioles,n,no
+6/11/2019,1,Tue,Texas Rangers,Boston Red Sox,n,no
+6/11/2019,1,Tue,Washington Nationals,Chicago White Sox,n,no
+6/11/2019,1,Tue,Cincinnati Reds,Cleveland Indians,n,no
+6/11/2019,1,Tue,Chicago Cubs,Colorado Rockies,n,no
+6/11/2019,1,Tue,Milwaukee Brewers,Houston Astros,n,no
+6/11/2019,1,Tue,Detroit Tigers,Kansas City Royals,n,no
+6/11/2019,1,Tue,St. Louis Cardinals,Miami Marlins,n,no
+6/11/2019,1,Tue,Seattle Mariners,Minnesota Twins,n,no
+6/11/2019,1,Tue,Arizona Diamondbacks,Philadelphia Phillies,n,no
+6/11/2019,1,Tue,San Diego Padres,San Francisco Giants,n,no
+6/11/2019,1,Tue,Oakland Athletics,Tampa Bay Rays,n,no
+6/12/2019,1,Wed,Pittsburgh Pirates,Atlanta Braves,n,no
+6/12/2019,1,Wed,Toronto Blue Jays,Baltimore Orioles,n,no
+6/12/2019,1,Wed,Texas Rangers,Boston Red Sox,n,no
+6/12/2019,1,Wed,Cincinnati Reds,Cleveland Indians,d,no
+6/12/2019,1,Wed,Chicago Cubs,Colorado Rockies,d,no
+6/12/2019,1,Wed,Milwaukee Brewers,Houston Astros,n,no
+6/12/2019,1,Wed,Detroit Tigers,Kansas City Royals,n,no
+6/12/2019,1,Wed,St. Louis Cardinals,Miami Marlins,n,no
+6/12/2019,1,Wed,Seattle Mariners,Minnesota Twins,n,no
+6/12/2019,1,Wed,Arizona Diamondbacks,Philadelphia Phillies,n,no
+6/12/2019,1,Wed,San Diego Padres,San Francisco Giants,n,no
+6/12/2019,1,Wed,Oakland Athletics,Tampa Bay Rays,d,no
+6/13/2019,1,Thu,Pittsburgh Pirates,Atlanta Braves,d,no
+6/13/2019,1,Thu,Toronto Blue Jays,Baltimore Orioles,n,no
+6/13/2019,1,Thu,Texas Rangers,Boston Red Sox,n,no
+6/13/2019,1,Thu,New York Yankees,Chicago White Sox,n,no
+6/13/2019,1,Thu,San Diego Padres,Colorado Rockies,n,no
+6/13/2019,1,Thu,Detroit Tigers,Kansas City Royals,n,no
+6/13/2019,1,Thu,Chicago Cubs,Los Angeles Dodgers,n,no
+6/13/2019,1,Thu,Seattle Mariners,Minnesota Twins,d,no
+6/13/2019,1,Thu,St. Louis Cardinals,New York Mets,n,no
+6/13/2019,1,Thu,Los Angeles Angels,Tampa Bay Rays,n,no
+6/13/2019,1,Thu,Arizona Diamondbacks,Washington Nationals,n,no
+6/14/2019,1,Fri,Philadelphia Phillies,Atlanta Braves,n,no
+6/14/2019,1,Fri,Boston Red Sox,Baltimore Orioles,n,no
+6/14/2019,1,Fri,New York Yankees,Chicago White Sox,n,no
+6/14/2019,1,Fri,Texas Rangers,Cincinnati Reds,n,no
+6/14/2019,1,Fri,San Diego Padres,Colorado Rockies,n,no
+6/14/2019,1,Fri,Cleveland Indians,Detroit Tigers,n,no
+6/14/2019,1,Fri,Toronto Blue Jays,Houston Astros,n,no
+6/14/2019,1,Fri,Chicago Cubs,Los Angeles Dodgers,n,no
+6/14/2019,1,Fri,Pittsburgh Pirates,Miami Marlins,n,no
+6/14/2019,1,Fri,Kansas City Royals,Minnesota Twins,n,no
+6/14/2019,1,Fri,St. Louis Cardinals,New York Mets,n,no
+6/14/2019,1,Fri,Seattle Mariners,Oakland Athletics,n,no
+6/14/2019,1,Fri,Milwaukee Brewers,San Francisco Giants,n,no
+6/14/2019,1,Fri,Los Angeles Angels,Tampa Bay Rays,n,no
+6/14/2019,1,Fri,Arizona Diamondbacks,Washington Nationals,n,no
+6/15/2019,1,Sat,Philadelphia Phillies,Atlanta Braves,n,no
+6/15/2019,1,Sat,Boston Red Sox,Baltimore Orioles,d,no
+6/15/2019,1,Sat,New York Yankees,Chicago White Sox,n,no
+6/15/2019,1,Sat,Texas Rangers,Cincinnati Reds,n,no
+6/15/2019,1,Sat,San Diego Padres,Colorado Rockies,n,no
+6/15/2019,1,Sat,Cleveland Indians,Detroit Tigers,n,no
+6/15/2019,1,Sat,Toronto Blue Jays,Houston Astros,d,no
+6/15/2019,1,Sat,Chicago Cubs,Los Angeles Dodgers,n,no
+6/15/2019,1,Sat,Pittsburgh Pirates,Miami Marlins,n,no
+6/15/2019,1,Sat,Kansas City Royals,Minnesota Twins,n,no
+6/15/2019,1,Sat,St. Louis Cardinals,New York Mets,n,no
+6/15/2019,1,Sat,Seattle Mariners,Oakland Athletics,n,no
+6/15/2019,1,Sat,Milwaukee Brewers,San Francisco Giants,d,no
+6/15/2019,1,Sat,Los Angeles Angels,Tampa Bay Rays,d,no
+6/15/2019,1,Sat,Arizona Diamondbacks,Washington Nationals,d,no
+6/16/2019,1,Sun,Philadelphia Phillies,Atlanta Braves,d,no
+6/16/2019,1,Sun,Boston Red Sox,Baltimore Orioles,d,no
+6/16/2019,1,Sun,New York Yankees,Chicago White Sox,d,no
+6/16/2019,1,Sun,Texas Rangers,Cincinnati Reds,d,no
+6/16/2019,1,Sun,San Diego Padres,Colorado Rockies,d,no
+6/16/2019,1,Sun,Cleveland Indians,Detroit Tigers,d,no
+6/16/2019,1,Sun,Toronto Blue Jays,Houston Astros,d,no
+6/16/2019,1,Sun,Chicago Cubs,Los Angeles Dodgers,d,no
+6/16/2019,1,Sun,Pittsburgh Pirates,Miami Marlins,d,no
+6/16/2019,1,Sun,Kansas City Royals,Minnesota Twins,d,no
+6/16/2019,1,Sun,St. Louis Cardinals,New York Mets,d,no
+6/16/2019,1,Sun,Seattle Mariners,Oakland Athletics,d,no
+6/16/2019,1,Sun,Milwaukee Brewers,San Francisco Giants,d,no
+6/16/2019,1,Sun,Los Angeles Angels,Tampa Bay Rays,d,no
+6/16/2019,1,Sun,Arizona Diamondbacks,Washington Nationals,d,no
+6/17/2019,1,Mon,New York Mets,Atlanta Braves,n,no
+6/17/2019,1,Mon,Houston Astros,Cincinnati Reds,n,no
+6/17/2019,1,Mon,San Francisco Giants,Los Angeles Dodgers,n,no
+6/17/2019,1,Mon,Boston Red Sox,Minnesota Twins,n,no
+6/17/2019,1,Mon,Tampa Bay Rays,New York Yankees,n,no
+6/17/2019,1,Mon,Baltimore Orioles,Oakland Athletics,n,no
+6/17/2019,1,Mon,Milwaukee Brewers,San Diego Padres,n,no
+6/17/2019,1,Mon,Kansas City Royals,Seattle Mariners,n,no
+6/17/2019,1,Mon,Miami Marlins,St. Louis Cardinals,n,no
+6/17/2019,1,Mon,Cleveland Indians,Texas Rangers,n,no
+6/17/2019,1,Mon,Los Angeles Angels,Toronto Blue Jays,n,no
+6/18/2019,1,Tue,Colorado Rockies,Arizona Diamondbacks,n,no
+6/18/2019,1,Tue,New York Mets,Atlanta Braves,n,no
+6/18/2019,1,Tue,Chicago White Sox,Chicago Cubs,n,no
+6/18/2019,1,Tue,Houston Astros,Cincinnati Reds,n,no
+6/18/2019,1,Tue,San Francisco Giants,Los Angeles Dodgers,n,no
+6/18/2019,1,Tue,Boston Red Sox,Minnesota Twins,n,no
+6/18/2019,1,Tue,Tampa Bay Rays,New York Yankees,n,no
+6/18/2019,1,Tue,Baltimore Orioles,Oakland Athletics,n,no
+6/18/2019,1,Tue,Detroit Tigers,Pittsburgh Pirates,n,no
+6/18/2019,1,Tue,Milwaukee Brewers,San Diego Padres,n,no
+6/18/2019,1,Tue,Kansas City Royals,Seattle Mariners,n,no
+6/18/2019,1,Tue,Miami Marlins,St. Louis Cardinals,n,no
+6/18/2019,1,Tue,Cleveland Indians,Texas Rangers,n,no
+6/18/2019,1,Tue,Los Angeles Angels,Toronto Blue Jays,n,no
+6/19/2019,2,Wed,Philadelphia Phillies,Washington Nationals,n,yes
+6/19/2019,1,Mon,Philadelphia Phillies,Washington Nationals,d,yes
+6/19/2019,1,Wed,Colorado Rockies,Arizona Diamondbacks,n,no
+6/19/2019,1,Wed,New York Mets,Atlanta Braves,n,no
+6/19/2019,1,Wed,Chicago White Sox,Chicago Cubs,n,no
+6/19/2019,1,Wed,Houston Astros,Cincinnati Reds,d,no
+6/19/2019,1,Wed,San Francisco Giants,Los Angeles Dodgers,n,no
+6/19/2019,1,Wed,Boston Red Sox,Minnesota Twins,n,no
+6/19/2019,1,Wed,Tampa Bay Rays,New York Yankees,d,no
+6/19/2019,1,Wed,Baltimore Orioles,Oakland Athletics,d,no
+6/19/2019,1,Wed,Detroit Tigers,Pittsburgh Pirates,n,no
+6/19/2019,1,Wed,Milwaukee Brewers,San Diego Padres,d,no
+6/19/2019,1,Wed,Kansas City Royals,Seattle Mariners,d,no
+6/19/2019,1,Wed,Miami Marlins,St. Louis Cardinals,n,no
+6/19/2019,1,Wed,Cleveland Indians,Texas Rangers,n,no
+6/19/2019,1,Wed,Los Angeles Angels,Toronto Blue Jays,n,no
+6/20/2019,1,Thu,Colorado Rockies,Arizona Diamondbacks,d,no
+6/20/2019,1,Thu,New York Mets,Chicago Cubs,n,no
+6/20/2019,1,Thu,Minnesota Twins,Kansas City Royals,n,no
+6/20/2019,1,Thu,San Francisco Giants,Los Angeles Dodgers,n,no
+6/20/2019,1,Thu,Cincinnati Reds,Milwaukee Brewers,n,no
+6/20/2019,1,Thu,Houston Astros,New York Yankees,n,no
+6/20/2019,1,Thu,Tampa Bay Rays,Oakland Athletics,n,no
+6/20/2019,1,Thu,Baltimore Orioles,Seattle Mariners,n,no
+6/20/2019,1,Thu,Miami Marlins,St. Louis Cardinals,n,no
+6/20/2019,1,Thu,Cleveland Indians,Texas Rangers,d,no
+6/20/2019,1,Thu,Los Angeles Angels,Toronto Blue Jays,n,no
+6/20/2019,1,Thu,Philadelphia Phillies,Washington Nationals,n,no
+6/21/2019,1,Fri,San Francisco Giants,Arizona Diamondbacks,n,no
+6/21/2019,1,Fri,Toronto Blue Jays,Boston Red Sox,n,no
+6/21/2019,1,Fri,New York Mets,Chicago Cubs,d,no
+6/21/2019,1,Fri,Detroit Tigers,Cleveland Indians,n,no
+6/21/2019,1,Fri,Minnesota Twins,Kansas City Royals,n,no
+6/21/2019,1,Fri,Colorado Rockies,Los Angeles Dodgers,n,no
+6/21/2019,1,Fri,Cincinnati Reds,Milwaukee Brewers,n,no
+6/21/2019,1,Fri,Houston Astros,New York Yankees,n,no
+6/21/2019,1,Fri,Tampa Bay Rays,Oakland Athletics,n,no
+6/21/2019,1,Fri,Miami Marlins,Philadelphia Phillies,n,no
+6/21/2019,1,Fri,San Diego Padres,Pittsburgh Pirates,n,no
+6/21/2019,1,Fri,Baltimore Orioles,Seattle Mariners,n,no
+6/21/2019,1,Fri,Los Angeles Angels,St. Louis Cardinals,n,no
+6/21/2019,1,Fri,Chicago White Sox,Texas Rangers,n,no
+6/21/2019,1,Fri,Atlanta Braves,Washington Nationals,n,no
+6/22/2019,1,Sat,San Francisco Giants,Arizona Diamondbacks,n,no
+6/22/2019,1,Sat,Toronto Blue Jays,Boston Red Sox,d,no
+6/22/2019,1,Sat,New York Mets,Chicago Cubs,d,no
+6/22/2019,1,Sat,Detroit Tigers,Cleveland Indians,d,no
+6/22/2019,1,Sat,Minnesota Twins,Kansas City Royals,d,no
+6/22/2019,1,Sat,Colorado Rockies,Los Angeles Dodgers,d,no
+6/22/2019,1,Sat,Cincinnati Reds,Milwaukee Brewers,d,no
+6/22/2019,1,Sat,Houston Astros,New York Yankees,n,no
+6/22/2019,1,Sat,Tampa Bay Rays,Oakland Athletics,d,no
+6/22/2019,1,Sat,Miami Marlins,Philadelphia Phillies,d,no
+6/22/2019,1,Sat,San Diego Padres,Pittsburgh Pirates,d,no
+6/22/2019,1,Sat,Baltimore Orioles,Seattle Mariners,d,no
+6/22/2019,1,Sat,Los Angeles Angels,St. Louis Cardinals,d,no
+6/22/2019,1,Sat,Chicago White Sox,Texas Rangers,n,no
+6/22/2019,1,Sat,Atlanta Braves,Washington Nationals,n,no
+6/23/2019,1,Sun,San Francisco Giants,Arizona Diamondbacks,d,no
+6/23/2019,1,Sun,Toronto Blue Jays,Boston Red Sox,d,no
+6/23/2019,1,Sun,New York Mets,Chicago Cubs,d,no
+6/23/2019,1,Sun,Detroit Tigers,Cleveland Indians,d,no
+6/23/2019,1,Sun,Minnesota Twins,Kansas City Royals,d,no
+6/23/2019,1,Sun,Colorado Rockies,Los Angeles Dodgers,d,no
+6/23/2019,1,Sun,Cincinnati Reds,Milwaukee Brewers,d,no
+6/23/2019,1,Sun,Houston Astros,New York Yankees,d,no
+6/23/2019,1,Sun,Tampa Bay Rays,Oakland Athletics,d,no
+6/23/2019,1,Sun,Miami Marlins,Philadelphia Phillies,d,no
+6/23/2019,1,Sun,San Diego Padres,Pittsburgh Pirates,d,no
+6/23/2019,1,Sun,Baltimore Orioles,Seattle Mariners,d,no
+6/23/2019,1,Sun,Los Angeles Angels,St. Louis Cardinals,d,no
+6/23/2019,1,Sun,Chicago White Sox,Texas Rangers,d,no
+6/23/2019,1,Sun,Atlanta Braves,Washington Nationals,d,no
+6/24/2019,1,Mon,Los Angeles Dodgers,Arizona Diamondbacks,n,no
+6/24/2019,1,Mon,Chicago White Sox,Boston Red Sox,n,no
+6/24/2019,1,Mon,Atlanta Braves,Chicago Cubs,n,no
+6/24/2019,1,Mon,Kansas City Royals,Cleveland Indians,n,no
+6/24/2019,1,Mon,Toronto Blue Jays,New York Yankees,n,no
+6/24/2019,1,Mon,New York Mets,Philadelphia Phillies,n,no
+6/24/2019,1,Mon,Colorado Rockies,San Francisco Giants,n,no
+6/25/2019,1,Tue,Cincinnati Reds,Los Angeles Angels,n,no
+6/25/2019,1,Tue,Los Angeles Dodgers,Arizona Diamondbacks,n,no
+6/25/2019,1,Tue,San Diego Padres,Baltimore Orioles,n,no
+6/25/2019,1,Tue,Chicago White Sox,Boston Red Sox,n,no
+6/25/2019,1,Tue,Atlanta Braves,Chicago Cubs,n,no
+6/25/2019,1,Tue,Kansas City Royals,Cleveland Indians,n,no
+6/25/2019,1,Tue,Texas Rangers,Detroit Tigers,n,no
+6/25/2019,1,Tue,Pittsburgh Pirates,Houston Astros,n,no
+6/25/2019,1,Tue,Washington Nationals,Miami Marlins,n,no
+6/25/2019,1,Tue,Seattle Mariners,Milwaukee Brewers,n,no
+6/25/2019,1,Tue,Tampa Bay Rays,Minnesota Twins,n,no
+6/25/2019,1,Tue,Toronto Blue Jays,New York Yankees,n,no
+6/25/2019,1,Tue,New York Mets,Philadelphia Phillies,n,no
+6/25/2019,1,Tue,Colorado Rockies,San Francisco Giants,n,no
+6/25/2019,1,Tue,Oakland Athletics,St. Louis Cardinals,n,no
+6/26/2019,1,Wed,Cincinnati Reds,Los Angeles Angels,n,no
+6/26/2019,1,Wed,Los Angeles Dodgers,Arizona Diamondbacks,d,no
+6/26/2019,1,Wed,San Diego Padres,Baltimore Orioles,d,no
+6/26/2019,1,Wed,Chicago White Sox,Boston Red Sox,d,no
+6/26/2019,1,Wed,Atlanta Braves,Chicago Cubs,n,no
+6/26/2019,1,Wed,Kansas City Royals,Cleveland Indians,d,no
+6/26/2019,1,Wed,Texas Rangers,Detroit Tigers,n,no
+6/26/2019,1,Wed,Pittsburgh Pirates,Houston Astros,n,no
+6/26/2019,1,Wed,Washington Nationals,Miami Marlins,n,no
+6/26/2019,1,Wed,Seattle Mariners,Milwaukee Brewers,n,no
+6/26/2019,1,Wed,Tampa Bay Rays,Minnesota Twins,n,no
+6/26/2019,1,Wed,Toronto Blue Jays,New York Yankees,d,no
+6/26/2019,1,Wed,New York Mets,Philadelphia Phillies,n,no
+6/26/2019,1,Wed,Colorado Rockies,San Francisco Giants,d,no
+6/26/2019,1,Wed,Oakland Athletics,St. Louis Cardinals,n,no
+6/27/2019,1,Thu,Oakland Athletics,Los Angeles Angels,n,no
+6/27/2019,1,Thu,Atlanta Braves,Chicago Cubs,d,no
+6/27/2019,1,Thu,Los Angeles Dodgers,Colorado Rockies,n,no
+6/27/2019,1,Thu,Texas Rangers,Detroit Tigers,d,no
+6/27/2019,1,Thu,Pittsburgh Pirates,Houston Astros,d,no
+6/27/2019,1,Thu,Washington Nationals,Miami Marlins,n,no
+6/27/2019,1,Thu,Seattle Mariners,Milwaukee Brewers,d,no
+6/27/2019,1,Thu,Tampa Bay Rays,Minnesota Twins,d,no
+6/27/2019,1,Thu,New York Mets,Philadelphia Phillies,d,no
+6/27/2019,1,Thu,Arizona Diamondbacks,San Francisco Giants,n,no
+6/28/2019,1,Fri,Oakland Athletics,Los Angeles Angels,n,no
+6/28/2019,1,Fri,Cleveland Indians,Baltimore Orioles,n,no
+6/28/2019,1,Fri,Minnesota Twins,Chicago White Sox,n,no
+6/28/2019,1,Fri,Chicago Cubs,Cincinnati Reds,n,no
+6/28/2019,1,Fri,Los Angeles Dodgers,Colorado Rockies,n,no
+6/28/2019,1,Fri,Washington Nationals,Detroit Tigers,n,no
+6/28/2019,1,Fri,Seattle Mariners,Houston Astros,n,no
+6/28/2019,1,Fri,Philadelphia Phillies,Miami Marlins,n,no
+6/28/2019,1,Fri,Pittsburgh Pirates,Milwaukee Brewers,n,no
+6/28/2019,1,Fri,Atlanta Braves,New York Mets,n,no
+6/28/2019,1,Fri,St. Louis Cardinals,San Diego Padres,n,no
+6/28/2019,1,Fri,Arizona Diamondbacks,San Francisco Giants,n,no
+6/28/2019,1,Fri,Texas Rangers,Tampa Bay Rays,n,no
+6/28/2019,1,Fri,Kansas City Royals,Toronto Blue Jays,n,no
+6/29/2019,1,Sat,Oakland Athletics,Los Angeles Angels,n,no
+6/29/2019,1,Sat,Cleveland Indians,Baltimore Orioles,d,no
+6/29/2019,1,Sat,New York Yankees,Boston Red Sox,n,no
+6/29/2019,1,Sat,Minnesota Twins,Chicago White Sox,d,no
+6/29/2019,1,Sat,Chicago Cubs,Cincinnati Reds,d,no
+6/29/2019,1,Sat,Los Angeles Dodgers,Colorado Rockies,n,no
+6/29/2019,1,Sat,Washington Nationals,Detroit Tigers,d,no
+6/29/2019,1,Sat,Seattle Mariners,Houston Astros,n,no
+6/29/2019,1,Sat,Philadelphia Phillies,Miami Marlins,d,no
+6/29/2019,1,Sat,Pittsburgh Pirates,Milwaukee Brewers,n,no
+6/29/2019,1,Sat,Atlanta Braves,New York Mets,d,no
+6/29/2019,1,Sat,St. Louis Cardinals,San Diego Padres,n,no
+6/29/2019,1,Sat,Arizona Diamondbacks,San Francisco Giants,n,no
+6/29/2019,1,Sat,Texas Rangers,Tampa Bay Rays,d,no
+6/29/2019,1,Sat,Kansas City Royals,Toronto Blue Jays,d,no
+6/30/2019,1,Sun,Oakland Athletics,Los Angeles Angels,d,no
+6/30/2019,1,Sun,Cleveland Indians,Baltimore Orioles,d,no
+6/30/2019,1,Sun,New York Yankees,Boston Red Sox,d,no
+6/30/2019,1,Sun,Minnesota Twins,Chicago White Sox,d,no
+6/30/2019,1,Sun,Chicago Cubs,Cincinnati Reds,d,no
+6/30/2019,1,Sun,Los Angeles Dodgers,Colorado Rockies,d,no
+6/30/2019,1,Sun,Washington Nationals,Detroit Tigers,d,no
+6/30/2019,1,Sun,Seattle Mariners,Houston Astros,d,no
+6/30/2019,1,Sun,Philadelphia Phillies,Miami Marlins,d,no
+6/30/2019,1,Sun,Pittsburgh Pirates,Milwaukee Brewers,d,no
+6/30/2019,1,Sun,Atlanta Braves,New York Mets,n,no
+6/30/2019,1,Sun,St. Louis Cardinals,San Diego Padres,d,no
+6/30/2019,1,Sun,Arizona Diamondbacks,San Francisco Giants,d,no
+6/30/2019,1,Sun,Texas Rangers,Tampa Bay Rays,d,no
+6/30/2019,1,Sun,Kansas City Royals,Toronto Blue Jays,d,no
+7/1/2019,1,Mon,Milwaukee Brewers,Cincinnati Reds,n,no
+7/1/2019,1,Mon,Chicago Cubs,Pittsburgh Pirates,n,no
+7/1/2019,1,Mon,San Francisco Giants,San Diego Padres,n,no
+7/1/2019,1,Mon,Baltimore Orioles,Tampa Bay Rays,n,no
+7/1/2019,1,Mon,Kansas City Royals,Toronto Blue Jays,d,no
+7/2/2019,1,Tue,Philadelphia Phillies,Atlanta Braves,n,no
+7/2/2019,1,Tue,Milwaukee Brewers,Cincinnati Reds,n,no
+7/2/2019,1,Tue,Houston Astros,Colorado Rockies,n,no
+7/2/2019,1,Tue,Cleveland Indians,Kansas City Royals,n,no
+7/2/2019,1,Tue,Arizona Diamondbacks,Los Angeles Dodgers,n,no
+7/2/2019,1,Tue,New York Yankees,New York Mets,n,no
+7/2/2019,1,Tue,Minnesota Twins,Oakland Athletics,n,no
+7/2/2019,1,Tue,Chicago Cubs,Pittsburgh Pirates,n,no
+7/2/2019,1,Tue,San Francisco Giants,San Diego Padres,n,no
+7/2/2019,1,Tue,St. Louis Cardinals,Seattle Mariners,n,no
+7/2/2019,1,Tue,Baltimore Orioles,Tampa Bay Rays,n,no
+7/2/2019,1,Tue,Los Angeles Angels,Texas Rangers,n,no
+7/2/2019,1,Tue,Boston Red Sox,Toronto Blue Jays,n,no
+7/2/2019,1,Tue,Miami Marlins,Washington Nationals,n,no
+7/3/2019,2,Wed,Detroit Tigers,Chicago White Sox,n,yes
+7/3/2019,1,Sat,Detroit Tigers,Chicago White Sox,d,yes
+7/3/2019,1,Wed,Philadelphia Phillies,Atlanta Braves,n,no
+7/3/2019,1,Wed,Milwaukee Brewers,Cincinnati Reds,n,no
+7/3/2019,1,Wed,Houston Astros,Colorado Rockies,n,no
+7/3/2019,1,Wed,Cleveland Indians,Kansas City Royals,n,no
+7/3/2019,1,Wed,Arizona Diamondbacks,Los Angeles Dodgers,n,no
+7/3/2019,1,Wed,New York Yankees,New York Mets,n,no
+7/3/2019,1,Wed,Minnesota Twins,Oakland Athletics,n,no
+7/3/2019,1,Wed,Chicago Cubs,Pittsburgh Pirates,n,no
+7/3/2019,1,Wed,San Francisco Giants,San Diego Padres,n,no
+7/3/2019,1,Wed,St. Louis Cardinals,Seattle Mariners,n,no
+7/3/2019,1,Wed,Baltimore Orioles,Tampa Bay Rays,n,no
+7/3/2019,1,Wed,Los Angeles Angels,Texas Rangers,n,no
+7/3/2019,1,Wed,Boston Red Sox,Toronto Blue Jays,n,no
+7/3/2019,1,Wed,Miami Marlins,Washington Nationals,n,no
+7/4/2019,1,Thu,Philadelphia Phillies,Atlanta Braves,n,no
+7/4/2019,1,Thu,Detroit Tigers,Chicago White Sox,d,no
+7/4/2019,1,Thu,Milwaukee Brewers,Cincinnati Reds,d,no
+7/4/2019,1,Thu,Cleveland Indians,Kansas City Royals,d,no
+7/4/2019,1,Thu,San Diego Padres,Los Angeles Dodgers,n,no
+7/4/2019,1,Thu,Minnesota Twins,Oakland Athletics,d,no
+7/4/2019,1,Thu,Chicago Cubs,Pittsburgh Pirates,d,no
+7/4/2019,1,Thu,St. Louis Cardinals,Seattle Mariners,d,no
+7/4/2019,1,Thu,New York Yankees,Tampa Bay Rays,n,no
+7/4/2019,1,Thu,Los Angeles Angels,Texas Rangers,n,no
+7/4/2019,1,Thu,Boston Red Sox,Toronto Blue Jays,n,no
+7/4/2019,1,Thu,Miami Marlins,Washington Nationals,d,no
+7/5/2019,1,Fri,Colorado Rockies,Arizona Diamondbacks,n,no
+7/5/2019,1,Fri,Miami Marlins,Atlanta Braves,n,no
+7/5/2019,1,Fri,Boston Red Sox,Detroit Tigers,n,no
+7/5/2019,1,Fri,Los Angeles Angels,Houston Astros,n,no
+7/5/2019,1,Fri,San Diego Padres,Los Angeles Dodgers,n,no
+7/5/2019,1,Fri,Texas Rangers,Minnesota Twins,n,no
+7/5/2019,1,Fri,Philadelphia Phillies,New York Mets,n,no
+7/5/2019,1,Fri,Milwaukee Brewers,Pittsburgh Pirates,n,no
+7/5/2019,1,Fri,Oakland Athletics,Seattle Mariners,n,no
+7/5/2019,1,Fri,St. Louis Cardinals,San Francisco Giants,n,no
+7/5/2019,1,Fri,New York Yankees,Tampa Bay Rays,n,no
+7/5/2019,1,Fri,Baltimore Orioles,Toronto Blue Jays,n,no
+7/5/2019,1,Fri,Kansas City Royals,Washington Nationals,n,no
+7/6/2019,1,Sat,Colorado Rockies,Arizona Diamondbacks,n,no
+7/6/2019,1,Sat,Miami Marlins,Atlanta Braves,d,no
+7/6/2019,1,Sat,Chicago Cubs,Chicago White Sox,n,no
+7/6/2019,1,Sat,Cleveland Indians,Cincinnati Reds,d,no
+7/6/2019,1,Sat,Boston Red Sox,Detroit Tigers,d,no
+7/6/2019,1,Sat,Los Angeles Angels,Houston Astros,n,no
+7/6/2019,1,Sat,San Diego Padres,Los Angeles Dodgers,n,no
+7/6/2019,1,Sat,Texas Rangers,Minnesota Twins,d,no
+7/6/2019,1,Sat,Philadelphia Phillies,New York Mets,n,no
+7/6/2019,1,Sat,Milwaukee Brewers,Pittsburgh Pirates,d,no
+7/6/2019,1,Sat,Oakland Athletics,Seattle Mariners,n,no
+7/6/2019,1,Sat,St. Louis Cardinals,San Francisco Giants,n,no
+7/6/2019,1,Sat,New York Yankees,Tampa Bay Rays,d,no
+7/6/2019,1,Sat,Baltimore Orioles,Toronto Blue Jays,d,no
+7/6/2019,1,Sat,Kansas City Royals,Washington Nationals,d,no
+7/7/2019,1,Sun,Colorado Rockies,Arizona Diamondbacks,d,no
+7/7/2019,1,Sun,Miami Marlins,Atlanta Braves,d,no
+7/7/2019,1,Sun,Chicago Cubs,Chicago White Sox,d,no
+7/7/2019,1,Sun,Cleveland Indians,Cincinnati Reds,d,no
+7/7/2019,1,Sun,Boston Red Sox,Detroit Tigers,d,no
+7/7/2019,1,Sun,Los Angeles Angels,Houston Astros,d,no
+7/7/2019,1,Sun,San Diego Padres,Los Angeles Dodgers,d,no
+7/7/2019,1,Sun,Texas Rangers,Minnesota Twins,d,no
+7/7/2019,1,Sun,Philadelphia Phillies,New York Mets,d,no
+7/7/2019,1,Sun,Milwaukee Brewers,Pittsburgh Pirates,d,no
+7/7/2019,1,Sun,Oakland Athletics,Seattle Mariners,d,no
+7/7/2019,1,Sun,St. Louis Cardinals,San Francisco Giants,d,no
+7/7/2019,1,Sun,New York Yankees,Tampa Bay Rays,d,no
+7/7/2019,1,Sun,Baltimore Orioles,Toronto Blue Jays,d,no
+7/7/2019,1,Sun,Kansas City Royals,Washington Nationals,d,no
+7/11/2019,1,Thu,Houston Astros,Texas Rangers,n,no
+7/12/2019,1,Fri,Seattle Mariners,Los Angeles Angels,n,no
+7/12/2019,1,Fri,Tampa Bay Rays,Baltimore Orioles,n,no
+7/12/2019,1,Fri,Los Angeles Dodgers,Boston Red Sox,n,no
+7/12/2019,1,Fri,Pittsburgh Pirates,Chicago Cubs,d,no
+7/12/2019,1,Fri,Minnesota Twins,Cleveland Indians,n,no
+7/12/2019,1,Fri,Cincinnati Reds,Colorado Rockies,n,no
+7/12/2019,1,Fri,Detroit Tigers,Kansas City Royals,n,no
+7/12/2019,1,Fri,New York Mets,Miami Marlins,n,no
+7/12/2019,1,Fri,San Francisco Giants,Milwaukee Brewers,n,no
+7/12/2019,1,Fri,Toronto Blue Jays,New York Yankees,n,no
+7/12/2019,1,Fri,Chicago White Sox,Oakland Athletics,n,no
+7/12/2019,1,Fri,Washington Nationals,Philadelphia Phillies,n,no
+7/12/2019,1,Fri,Atlanta Braves,San Diego Padres,n,no
+7/12/2019,1,Fri,Arizona Diamondbacks,St. Louis Cardinals,n,no
+7/12/2019,1,Fri,Houston Astros,Texas Rangers,n,no
+7/13/2019,2,Sat,Tampa Bay Rays,Baltimore Orioles,n,yes
+7/13/2019,1,Sun,Tampa Bay Rays,Baltimore Orioles,d,yes
+7/13/2019,1,Sat,Seattle Mariners,Los Angeles Angels,n,no
+7/13/2019,1,Sat,Los Angeles Dodgers,Boston Red Sox,n,no
+7/13/2019,1,Sat,Pittsburgh Pirates,Chicago Cubs,d,no
+7/13/2019,1,Sat,Minnesota Twins,Cleveland Indians,n,no
+7/13/2019,1,Sat,Cincinnati Reds,Colorado Rockies,n,no
+7/13/2019,1,Sat,Detroit Tigers,Kansas City Royals,n,no
+7/13/2019,1,Sat,New York Mets,Miami Marlins,n,no
+7/13/2019,1,Sat,San Francisco Giants,Milwaukee Brewers,n,no
+7/13/2019,1,Sat,Toronto Blue Jays,New York Yankees,d,no
+7/13/2019,1,Sat,Chicago White Sox,Oakland Athletics,d,no
+7/13/2019,1,Sat,Washington Nationals,Philadelphia Phillies,n,no
+7/13/2019,1,Sat,Atlanta Braves,San Diego Padres,n,no
+7/13/2019,1,Sat,Arizona Diamondbacks,St. Louis Cardinals,n,no
+7/13/2019,1,Sat,Houston Astros,Texas Rangers,n,no
+7/14/2019,1,Sun,Seattle Mariners,Los Angeles Angels,d,no
+7/14/2019,1,Sun,Tampa Bay Rays,Baltimore Orioles,d,no
+7/14/2019,1,Sun,Los Angeles Dodgers,Boston Red Sox,n,no
+7/14/2019,1,Sun,Pittsburgh Pirates,Chicago Cubs,d,no
+7/14/2019,1,Sun,Minnesota Twins,Cleveland Indians,d,no
+7/14/2019,1,Sun,Cincinnati Reds,Colorado Rockies,d,no
+7/14/2019,1,Sun,Detroit Tigers,Kansas City Royals,d,no
+7/14/2019,1,Sun,New York Mets,Miami Marlins,d,no
+7/14/2019,1,Sun,San Francisco Giants,Milwaukee Brewers,d,no
+7/14/2019,1,Sun,Toronto Blue Jays,New York Yankees,d,no
+7/14/2019,1,Sun,Chicago White Sox,Oakland Athletics,d,no
+7/14/2019,1,Sun,Washington Nationals,Philadelphia Phillies,d,no
+7/14/2019,1,Sun,Atlanta Braves,San Diego Padres,d,no
+7/14/2019,1,Sun,Arizona Diamondbacks,St. Louis Cardinals,d,no
+7/14/2019,1,Sun,Houston Astros,Texas Rangers,d,no
+7/15/2019,2,Mon,San Francisco Giants,Colorado Rockies,n,yes
+7/15/2019,1,Wed,San Francisco Giants,Colorado Rockies,d,yes
+7/15/2019,1,Mon,Houston Astros,Los Angeles Angels,n,no
+7/15/2019,1,Mon,Toronto Blue Jays,Boston Red Sox,n,no
+7/15/2019,1,Mon,Cincinnati Reds,Chicago Cubs,n,no
+7/15/2019,1,Mon,Detroit Tigers,Cleveland Indians,n,no
+7/15/2019,1,Mon,Chicago White Sox,Kansas City Royals,n,no
+7/15/2019,1,Mon,Atlanta Braves,Milwaukee Brewers,n,no
+7/15/2019,1,Mon,Tampa Bay Rays,New York Yankees,n,no
+7/15/2019,1,Mon,Los Angeles Dodgers,Philadelphia Phillies,n,no
+7/15/2019,1,Mon,Pittsburgh Pirates,St. Louis Cardinals,n,no
+7/16/2019,1,Tue,Houston Astros,Los Angeles Angels,n,no
+7/16/2019,1,Tue,Washington Nationals,Baltimore Orioles,n,no
+7/16/2019,1,Tue,Toronto Blue Jays,Boston Red Sox,n,no
+7/16/2019,1,Tue,Cincinnati Reds,Chicago Cubs,n,no
+7/16/2019,1,Tue,Detroit Tigers,Cleveland Indians,n,no
+7/16/2019,1,Tue,San Francisco Giants,Colorado Rockies,n,no
+7/16/2019,1,Tue,Chicago White Sox,Kansas City Royals,n,no
+7/16/2019,1,Tue,San Diego Padres,Miami Marlins,n,no
+7/16/2019,1,Tue,Atlanta Braves,Milwaukee Brewers,n,no
+7/16/2019,1,Tue,New York Mets,Minnesota Twins,n,no
+7/16/2019,1,Tue,Tampa Bay Rays,New York Yankees,n,no
+7/16/2019,1,Tue,Seattle Mariners,Oakland Athletics,n,no
+7/16/2019,1,Tue,Los Angeles Dodgers,Philadelphia Phillies,n,no
+7/16/2019,1,Tue,Pittsburgh Pirates,St. Louis Cardinals,n,no
+7/16/2019,1,Tue,Arizona Diamondbacks,Texas Rangers,n,no
+7/17/2019,1,Wed,Houston Astros,Los Angeles Angels,n,no
+7/17/2019,1,Wed,Washington Nationals,Baltimore Orioles,n,no
+7/17/2019,1,Wed,Toronto Blue Jays,Boston Red Sox,n,no
+7/17/2019,1,Wed,Cincinnati Reds,Chicago Cubs,d,no
+7/17/2019,1,Wed,Detroit Tigers,Cleveland Indians,n,no
+7/17/2019,1,Wed,San Francisco Giants,Colorado Rockies,d,no
+7/17/2019,1,Wed,Chicago White Sox,Kansas City Royals,n,no
+7/17/2019,1,Wed,San Diego Padres,Miami Marlins,n,no
+7/17/2019,1,Wed,Atlanta Braves,Milwaukee Brewers,d,no
+7/17/2019,1,Wed,New York Mets,Minnesota Twins,d,no
+7/17/2019,1,Wed,Seattle Mariners,Oakland Athletics,d,no
+7/17/2019,1,Wed,Los Angeles Dodgers,Philadelphia Phillies,n,no
+7/17/2019,1,Wed,Pittsburgh Pirates,St. Louis Cardinals,d,no
+7/17/2019,1,Wed,Arizona Diamondbacks,Texas Rangers,n,no
+7/18/2019,2,Thu,Tampa Bay Rays,New York Yankees,n,yes
+7/18/2019,1,Wed,Tampa Bay Rays,New York Yankees,d,yes
+7/18/2019,1,Thu,Houston Astros,Los Angeles Angels,n,no
+7/18/2019,1,Thu,Milwaukee Brewers,Arizona Diamondbacks,n,no
+7/18/2019,1,Thu,Washington Nationals,Atlanta Braves,n,no
+7/18/2019,1,Thu,Toronto Blue Jays,Boston Red Sox,n,no
+7/18/2019,1,Thu,St. Louis Cardinals,Cincinnati Reds,n,no
+7/18/2019,1,Thu,Detroit Tigers,Cleveland Indians,n,no
+7/18/2019,1,Thu,Chicago White Sox,Kansas City Royals,d,no
+7/18/2019,1,Thu,San Diego Padres,Miami Marlins,d,no
+7/18/2019,1,Thu,Oakland Athletics,Minnesota Twins,n,no
+7/18/2019,1,Thu,Los Angeles Dodgers,Philadelphia Phillies,d,no
+7/18/2019,1,Thu,New York Mets,San Francisco Giants,n,no
+7/19/2019,1,Fri,Milwaukee Brewers,Arizona Diamondbacks,n,no
+7/19/2019,1,Fri,Washington Nationals,Atlanta Braves,n,no
+7/19/2019,1,Fri,Boston Red Sox,Baltimore Orioles,n,no
+7/19/2019,1,Fri,San Diego Padres,Chicago Cubs,d,no
+7/19/2019,1,Fri,St. Louis Cardinals,Cincinnati Reds,n,no
+7/19/2019,1,Fri,Kansas City Royals,Cleveland Indians,n,no
+7/19/2019,1,Fri,Toronto Blue Jays,Detroit Tigers,n,no
+7/19/2019,1,Fri,Texas Rangers,Houston Astros,n,no
+7/19/2019,1,Fri,Miami Marlins,Los Angeles Dodgers,n,no
+7/19/2019,1,Fri,Oakland Athletics,Minnesota Twins,n,no
+7/19/2019,1,Fri,Colorado Rockies,New York Yankees,n,no
+7/19/2019,1,Fri,Philadelphia Phillies,Pittsburgh Pirates,n,no
+7/19/2019,1,Fri,Los Angeles Angels,Seattle Mariners,n,no
+7/19/2019,1,Fri,New York Mets,San Francisco Giants,n,no
+7/19/2019,1,Fri,Chicago White Sox,Tampa Bay Rays,n,no
+7/20/2019,1,Sat,Milwaukee Brewers,Arizona Diamondbacks,n,no
+7/20/2019,1,Sat,Washington Nationals,Atlanta Braves,n,no
+7/20/2019,1,Sat,Boston Red Sox,Baltimore Orioles,n,no
+7/20/2019,1,Sat,San Diego Padres,Chicago Cubs,d,no
+7/20/2019,1,Sat,St. Louis Cardinals,Cincinnati Reds,n,no
+7/20/2019,1,Sat,Kansas City Royals,Cleveland Indians,n,no
+7/20/2019,1,Sat,Toronto Blue Jays,Detroit Tigers,n,no
+7/20/2019,1,Sat,Texas Rangers,Houston Astros,n,no
+7/20/2019,1,Sat,Miami Marlins,Los Angeles Dodgers,n,no
+7/20/2019,1,Sat,Oakland Athletics,Minnesota Twins,n,no
+7/20/2019,1,Sat,Colorado Rockies,New York Yankees,d,no
+7/20/2019,1,Sat,Philadelphia Phillies,Pittsburgh Pirates,n,no
+7/20/2019,1,Sat,Los Angeles Angels,Seattle Mariners,n,no
+7/20/2019,1,Sat,New York Mets,San Francisco Giants,d,no
+7/20/2019,1,Sat,Chicago White Sox,Tampa Bay Rays,n,no
+7/21/2019,1,Sun,Milwaukee Brewers,Arizona Diamondbacks,d,no
+7/21/2019,1,Sun,Washington Nationals,Atlanta Braves,d,no
+7/21/2019,1,Sun,Boston Red Sox,Baltimore Orioles,d,no
+7/21/2019,1,Sun,San Diego Padres,Chicago Cubs,d,no
+7/21/2019,1,Sun,St. Louis Cardinals,Cincinnati Reds,d,no
+7/21/2019,1,Sun,Kansas City Royals,Cleveland Indians,d,no
+7/21/2019,1,Sun,Toronto Blue Jays,Detroit Tigers,d,no
+7/21/2019,1,Sun,Texas Rangers,Houston Astros,d,no
+7/21/2019,1,Sun,Miami Marlins,Los Angeles Dodgers,d,no
+7/21/2019,1,Sun,Oakland Athletics,Minnesota Twins,d,no
+7/21/2019,1,Sun,Colorado Rockies,New York Yankees,d,no
+7/21/2019,1,Sun,Philadelphia Phillies,Pittsburgh Pirates,d,no
+7/21/2019,1,Sun,Los Angeles Angels,Seattle Mariners,d,no
+7/21/2019,1,Sun,New York Mets,San Francisco Giants,d,no
+7/21/2019,1,Sun,Chicago White Sox,Tampa Bay Rays,d,no
+7/22/2019,1,Mon,Baltimore Orioles,Arizona Diamondbacks,n,no
+7/22/2019,1,Mon,Miami Marlins,Chicago White Sox,n,no
+7/22/2019,1,Mon,Oakland Athletics,Houston Astros,n,no
+7/22/2019,1,Mon,Cincinnati Reds,Milwaukee Brewers,n,no
+7/22/2019,1,Mon,New York Yankees,Minnesota Twins,n,no
+7/22/2019,1,Mon,St. Louis Cardinals,Pittsburgh Pirates,n,no
+7/22/2019,1,Mon,Texas Rangers,Seattle Mariners,n,no
+7/22/2019,1,Mon,Chicago Cubs,San Francisco Giants,n,no
+7/22/2019,1,Mon,Boston Red Sox,Tampa Bay Rays,n,no
+7/22/2019,1,Mon,Cleveland Indians,Toronto Blue Jays,n,no
+7/23/2019,1,Tue,Baltimore Orioles,Arizona Diamondbacks,n,no
+7/23/2019,1,Tue,Kansas City Royals,Atlanta Braves,n,no
+7/23/2019,1,Tue,Miami Marlins,Chicago White Sox,n,no
+7/23/2019,1,Tue,Philadelphia Phillies,Detroit Tigers,n,no
+7/23/2019,1,Tue,Oakland Athletics,Houston Astros,n,no
+7/23/2019,1,Tue,Los Angeles Angels,Los Angeles Dodgers,n,no
+7/23/2019,1,Tue,Cincinnati Reds,Milwaukee Brewers,n,no
+7/23/2019,1,Tue,New York Yankees,Minnesota Twins,n,no
+7/23/2019,1,Tue,San Diego Padres,New York Mets,n,no
+7/23/2019,1,Tue,St. Louis Cardinals,Pittsburgh Pirates,n,no
+7/23/2019,1,Tue,Texas Rangers,Seattle Mariners,n,no
+7/23/2019,1,Tue,Chicago Cubs,San Francisco Giants,n,no
+7/23/2019,1,Tue,Boston Red Sox,Tampa Bay Rays,n,no
+7/23/2019,1,Tue,Cleveland Indians,Toronto Blue Jays,n,no
+7/23/2019,1,Tue,Colorado Rockies,Washington Nationals,n,no
+7/24/2019,2,Wed,Colorado Rockies,Washington Nationals,n,yes
+7/24/2019,1,Mon,Colorado Rockies,Washington Nationals,d,yes
+7/24/2019,1,Wed,Baltimore Orioles,Arizona Diamondbacks,d,no
+7/24/2019,1,Wed,Kansas City Royals,Atlanta Braves,n,no
+7/24/2019,1,Wed,Miami Marlins,Chicago White Sox,n,no
+7/24/2019,1,Wed,Philadelphia Phillies,Detroit Tigers,d,no
+7/24/2019,1,Wed,Oakland Athletics,Houston Astros,d,no
+7/24/2019,1,Wed,Los Angeles Angels,Los Angeles Dodgers,n,no
+7/24/2019,1,Wed,Cincinnati Reds,Milwaukee Brewers,d,no
+7/24/2019,1,Wed,New York Yankees,Minnesota Twins,n,no
+7/24/2019,1,Wed,San Diego Padres,New York Mets,n,no
+7/24/2019,1,Wed,St. Louis Cardinals,Pittsburgh Pirates,n,no
+7/24/2019,1,Wed,Texas Rangers,Seattle Mariners,d,no
+7/24/2019,1,Wed,Chicago Cubs,San Francisco Giants,d,no
+7/24/2019,1,Wed,Boston Red Sox,Tampa Bay Rays,d,no
+7/24/2019,1,Wed,Cleveland Indians,Toronto Blue Jays,n,no
+7/25/2019,1,Thu,Baltimore Orioles,Los Angeles Angels,n,no
+7/25/2019,1,Thu,New York Yankees,Boston Red Sox,n,no
+7/25/2019,1,Thu,Minnesota Twins,Chicago White Sox,n,no
+7/25/2019,1,Thu,Cleveland Indians,Kansas City Royals,n,no
+7/25/2019,1,Thu,San Diego Padres,New York Mets,d,no
+7/25/2019,1,Thu,Texas Rangers,Oakland Athletics,n,no
+7/25/2019,1,Thu,St. Louis Cardinals,Pittsburgh Pirates,d,no
+7/25/2019,1,Thu,Detroit Tigers,Seattle Mariners,n,no
+7/25/2019,1,Thu,Colorado Rockies,Washington Nationals,d,no
+7/26/2019,1,Fri,Baltimore Orioles,Los Angeles Angels,n,no
+7/26/2019,1,Fri,New York Yankees,Boston Red Sox,n,no
+7/26/2019,1,Fri,Minnesota Twins,Chicago White Sox,n,no
+7/26/2019,1,Fri,Colorado Rockies,Cincinnati Reds,n,no
+7/26/2019,1,Fri,Cleveland Indians,Kansas City Royals,n,no
+7/26/2019,1,Fri,Arizona Diamondbacks,Miami Marlins,n,no
+7/26/2019,1,Fri,Chicago Cubs,Milwaukee Brewers,n,no
+7/26/2019,1,Fri,Pittsburgh Pirates,New York Mets,n,no
+7/26/2019,1,Fri,Texas Rangers,Oakland Athletics,n,no
+7/26/2019,1,Fri,Atlanta Braves,Philadelphia Phillies,n,no
+7/26/2019,1,Fri,San Francisco Giants,San Diego Padres,n,no
+7/26/2019,1,Fri,Detroit Tigers,Seattle Mariners,n,no
+7/26/2019,1,Fri,Houston Astros,St. Louis Cardinals,n,no
+7/26/2019,1,Fri,Tampa Bay Rays,Toronto Blue Jays,n,no
+7/26/2019,1,Fri,Los Angeles Dodgers,Washington Nationals,n,no
+7/27/2019,1,Sat,Baltimore Orioles,Los Angeles Angels,n,no
+7/27/2019,1,Sat,New York Yankees,Boston Red Sox,d,no
+7/27/2019,1,Sat,Minnesota Twins,Chicago White Sox,n,no
+7/27/2019,1,Sat,Colorado Rockies,Cincinnati Reds,n,no
+7/27/2019,1,Sat,Cleveland Indians,Kansas City Royals,n,no
+7/27/2019,1,Sat,Arizona Diamondbacks,Miami Marlins,n,no
+7/27/2019,1,Sat,Chicago Cubs,Milwaukee Brewers,n,no
+7/27/2019,1,Sat,Pittsburgh Pirates,New York Mets,n,no
+7/27/2019,1,Sat,Texas Rangers,Oakland Athletics,n,no
+7/27/2019,1,Sat,Atlanta Braves,Philadelphia Phillies,n,no
+7/27/2019,1,Sat,San Francisco Giants,San Diego Padres,n,no
+7/27/2019,1,Sat,Detroit Tigers,Seattle Mariners,d,no
+7/27/2019,1,Sat,Houston Astros,St. Louis Cardinals,n,no
+7/27/2019,1,Sat,Tampa Bay Rays,Toronto Blue Jays,d,no
+7/27/2019,1,Sat,Los Angeles Dodgers,Washington Nationals,d,no
+7/28/2019,1,Sun,Baltimore Orioles,Los Angeles Angels,d,no
+7/28/2019,1,Sun,New York Yankees,Boston Red Sox,n,no
+7/28/2019,1,Sun,Minnesota Twins,Chicago White Sox,d,no
+7/28/2019,1,Sun,Colorado Rockies,Cincinnati Reds,d,no
+7/28/2019,1,Sun,Cleveland Indians,Kansas City Royals,d,no
+7/28/2019,1,Sun,Arizona Diamondbacks,Miami Marlins,d,no
+7/28/2019,1,Sun,Chicago Cubs,Milwaukee Brewers,d,no
+7/28/2019,1,Sun,Pittsburgh Pirates,New York Mets,d,no
+7/28/2019,1,Sun,Texas Rangers,Oakland Athletics,d,no
+7/28/2019,1,Sun,Atlanta Braves,Philadelphia Phillies,d,no
+7/28/2019,1,Sun,San Francisco Giants,San Diego Padres,d,no
+7/28/2019,1,Sun,Detroit Tigers,Seattle Mariners,d,no
+7/28/2019,1,Sun,Houston Astros,St. Louis Cardinals,d,no
+7/28/2019,1,Sun,Tampa Bay Rays,Toronto Blue Jays,d,no
+7/28/2019,1,Sun,Los Angeles Dodgers,Washington Nationals,d,no
+7/29/2019,1,Mon,Detroit Tigers,Los Angeles Angels,n,no
+7/29/2019,1,Mon,Pittsburgh Pirates,Cincinnati Reds,n,no
+7/29/2019,1,Mon,Los Angeles Dodgers,Colorado Rockies,n,no
+7/29/2019,1,Mon,Toronto Blue Jays,Kansas City Royals,n,no
+7/29/2019,1,Mon,Arizona Diamondbacks,Miami Marlins,n,no
+7/29/2019,1,Mon,Baltimore Orioles,San Diego Padres,n,no
+7/29/2019,1,Mon,Atlanta Braves,Washington Nationals,n,no
+7/30/2019,1,Tue,Detroit Tigers,Los Angeles Angels,n,no
+7/30/2019,1,Tue,Tampa Bay Rays,Boston Red Sox,n,no
+7/30/2019,1,Tue,New York Mets,Chicago White Sox,n,no
+7/30/2019,1,Tue,Pittsburgh Pirates,Cincinnati Reds,n,no
+7/30/2019,1,Tue,Houston Astros,Cleveland Indians,n,no
+7/30/2019,1,Tue,Los Angeles Dodgers,Colorado Rockies,n,no
+7/30/2019,1,Tue,Toronto Blue Jays,Kansas City Royals,n,no
+7/30/2019,1,Tue,Minnesota Twins,Miami Marlins,n,no
+7/30/2019,1,Tue,Arizona Diamondbacks,New York Yankees,n,no
+7/30/2019,1,Tue,Milwaukee Brewers,Oakland Athletics,n,no
+7/30/2019,1,Tue,San Francisco Giants,Philadelphia Phillies,n,no
+7/30/2019,1,Tue,Baltimore Orioles,San Diego Padres,d,no
+7/30/2019,1,Tue,Chicago Cubs,St. Louis Cardinals,n,no
+7/30/2019,1,Tue,Seattle Mariners,Texas Rangers,n,no
+7/30/2019,1,Tue,Atlanta Braves,Washington Nationals,n,no
+7/31/2019,1,Wed,Detroit Tigers,Los Angeles Angels,d,no
+7/31/2019,1,Wed,Tampa Bay Rays,Boston Red Sox,n,no
+7/31/2019,1,Wed,New York Mets,Chicago White Sox,n,no
+7/31/2019,1,Wed,Pittsburgh Pirates,Cincinnati Reds,d,no
+7/31/2019,1,Wed,Houston Astros,Cleveland Indians,n,no
+7/31/2019,1,Wed,Los Angeles Dodgers,Colorado Rockies,d,no
+7/31/2019,1,Wed,Toronto Blue Jays,Kansas City Royals,d,no
+7/31/2019,1,Wed,Minnesota Twins,Miami Marlins,n,no
+7/31/2019,1,Wed,Arizona Diamondbacks,New York Yankees,d,no
+7/31/2019,1,Wed,Milwaukee Brewers,Oakland Athletics,n,no
+7/31/2019,1,Wed,San Francisco Giants,Philadelphia Phillies,n,no
+7/31/2019,1,Wed,Chicago Cubs,St. Louis Cardinals,n,no
+7/31/2019,1,Wed,Seattle Mariners,Texas Rangers,n,no
+7/31/2019,1,Wed,Atlanta Braves,Washington Nationals,d,no
+8/1/2019,1,Thu,Cincinnati Reds,Atlanta Braves,n,no
+8/1/2019,1,Thu,Toronto Blue Jays,Baltimore Orioles,n,no
+8/1/2019,1,Thu,Tampa Bay Rays,Boston Red Sox,n,no
+8/1/2019,1,Thu,New York Mets,Chicago White Sox,d,no
+8/1/2019,1,Thu,Houston Astros,Cleveland Indians,n,no
+8/1/2019,1,Thu,San Diego Padres,Los Angeles Dodgers,n,no
+8/1/2019,1,Thu,Minnesota Twins,Miami Marlins,d,no
+8/1/2019,1,Thu,Milwaukee Brewers,Oakland Athletics,d,no
+8/1/2019,1,Thu,San Francisco Giants,Philadelphia Phillies,d,no
+8/1/2019,1,Thu,Chicago Cubs,St. Louis Cardinals,n,no
+8/2/2019,1,Fri,Washington Nationals,Arizona Diamondbacks,n,no
+8/2/2019,1,Fri,Cincinnati Reds,Atlanta Braves,n,no
+8/2/2019,1,Fri,Toronto Blue Jays,Baltimore Orioles,n,no
+8/2/2019,1,Fri,Milwaukee Brewers,Chicago Cubs,d,no
+8/2/2019,1,Fri,Los Angeles Angels,Cleveland Indians,n,no
+8/2/2019,1,Fri,San Francisco Giants,Colorado Rockies,n,no
+8/2/2019,1,Fri,Seattle Mariners,Houston Astros,n,no
+8/2/2019,1,Fri,San Diego Padres,Los Angeles Dodgers,n,no
+8/2/2019,1,Fri,Kansas City Royals,Minnesota Twins,n,no
+8/2/2019,1,Fri,Boston Red Sox,New York Yankees,n,no
+8/2/2019,1,Fri,Chicago White Sox,Philadelphia Phillies,n,no
+8/2/2019,1,Fri,New York Mets,Pittsburgh Pirates,n,no
+8/2/2019,1,Fri,Detroit Tigers,Texas Rangers,n,no
+8/3/2019,2,Sat,Boston Red Sox,New York Yankees,d,yes
+8/3/2019,1,Thu,Boston Red Sox,New York Yankees,d,yes
+8/3/2019,1,Sat,Washington Nationals,Arizona Diamondbacks,n,no
+8/3/2019,1,Sat,Cincinnati Reds,Atlanta Braves,n,no
+8/3/2019,1,Sat,Toronto Blue Jays,Baltimore Orioles,n,no
+8/3/2019,1,Sat,Milwaukee Brewers,Chicago Cubs,d,no
+8/3/2019,1,Sat,Los Angeles Angels,Cleveland Indians,n,no
+8/3/2019,1,Sat,San Francisco Giants,Colorado Rockies,n,no
+8/3/2019,1,Sat,Seattle Mariners,Houston Astros,n,no
+8/3/2019,1,Sat,San Diego Padres,Los Angeles Dodgers,n,no
+8/3/2019,1,Sat,Kansas City Royals,Minnesota Twins,n,no
+8/3/2019,1,Sat,St. Louis Cardinals,Oakland Athletics,n,no
+8/3/2019,1,Sat,Chicago White Sox,Philadelphia Phillies,n,no
+8/3/2019,1,Sat,New York Mets,Pittsburgh Pirates,n,no
+8/3/2019,1,Sat,Miami Marlins,Tampa Bay Rays,n,no
+8/3/2019,1,Sat,Detroit Tigers,Texas Rangers,n,no
+8/4/2019,1,Sun,Washington Nationals,Arizona Diamondbacks,d,no
+8/4/2019,1,Sun,Cincinnati Reds,Atlanta Braves,d,no
+8/4/2019,1,Sun,Toronto Blue Jays,Baltimore Orioles,d,no
+8/4/2019,1,Sun,Milwaukee Brewers,Chicago Cubs,d,no
+8/4/2019,1,Sun,Los Angeles Angels,Cleveland Indians,d,no
+8/4/2019,1,Sun,San Francisco Giants,Colorado Rockies,d,no
+8/4/2019,1,Sun,Seattle Mariners,Houston Astros,d,no
+8/4/2019,1,Sun,San Diego Padres,Los Angeles Dodgers,d,no
+8/4/2019,1,Sun,Kansas City Royals,Minnesota Twins,d,no
+8/4/2019,1,Sun,Boston Red Sox,New York Yankees,n,no
+8/4/2019,1,Sun,St. Louis Cardinals,Oakland Athletics,d,no
+8/4/2019,1,Sun,Chicago White Sox,Philadelphia Phillies,d,no
+8/4/2019,1,Sun,New York Mets,Pittsburgh Pirates,d,no
+8/4/2019,1,Sun,Miami Marlins,Tampa Bay Rays,d,no
+8/4/2019,1,Sun,Detroit Tigers,Texas Rangers,d,no
+8/5/2019,2,Mon,Miami Marlins,New York Mets,n,yes
+8/5/2019,1,Sun,Miami Marlins,New York Mets,d,yes
+8/5/2019,1,Mon,Philadelphia Phillies,Arizona Diamondbacks,n,no
+8/5/2019,1,Mon,New York Yankees,Baltimore Orioles,n,no
+8/5/2019,1,Mon,Kansas City Royals,Boston Red Sox,n,no
+8/5/2019,1,Mon,Oakland Athletics,Chicago Cubs,n,no
+8/5/2019,1,Mon,Los Angeles Angels,Cincinnati Reds,n,no
+8/5/2019,1,Mon,Texas Rangers,Cleveland Indians,n,no
+8/5/2019,1,Mon,Chicago White Sox,Detroit Tigers,n,no
+8/5/2019,1,Mon,St. Louis Cardinals,Los Angeles Dodgers,n,no
+8/5/2019,1,Mon,Atlanta Braves,Minnesota Twins,n,no
+8/5/2019,1,Mon,Milwaukee Brewers,Pittsburgh Pirates,n,no
+8/5/2019,1,Mon,Washington Nationals,San Francisco Giants,n,no
+8/5/2019,1,Mon,Toronto Blue Jays,Tampa Bay Rays,n,no
+8/6/2019,2,Tue,Chicago White Sox,Detroit Tigers,n,yes
+8/6/2019,1,Sat,Chicago White Sox,Detroit Tigers,d,yes
+8/6/2019,1,Tue,Philadelphia Phillies,Arizona Diamondbacks,n,no
+8/6/2019,1,Tue,New York Yankees,Baltimore Orioles,n,no
+8/6/2019,1,Tue,Kansas City Royals,Boston Red Sox,n,no
+8/6/2019,1,Tue,Oakland Athletics,Chicago Cubs,n,no
+8/6/2019,1,Tue,Los Angeles Angels,Cincinnati Reds,n,no
+8/6/2019,1,Tue,Colorado Rockies,Houston Astros,n,no
+8/6/2019,1,Tue,St. Louis Cardinals,Los Angeles Dodgers,n,no
+8/6/2019,1,Tue,Atlanta Braves,Minnesota Twins,n,no
+8/6/2019,1,Tue,Miami Marlins,New York Mets,n,no
+8/6/2019,1,Tue,Milwaukee Brewers,Pittsburgh Pirates,n,no
+8/6/2019,1,Tue,San Diego Padres,Seattle Mariners,n,no
+8/6/2019,1,Tue,Washington Nationals,San Francisco Giants,n,no
+8/6/2019,1,Tue,Toronto Blue Jays,Tampa Bay Rays,n,no
+8/7/2019,2,Wed,Texas Rangers,Cleveland Indians,d,yes
+8/7/2019,1,Tue,Texas Rangers,Cleveland Indians,d,yes
+8/7/2019,1,Wed,Philadelphia Phillies,Arizona Diamondbacks,n,no
+8/7/2019,1,Wed,New York Yankees,Baltimore Orioles,n,no
+8/7/2019,1,Wed,Kansas City Royals,Boston Red Sox,n,no
+8/7/2019,1,Wed,Oakland Athletics,Chicago Cubs,d,no
+8/7/2019,1,Wed,Chicago White Sox,Detroit Tigers,d,no
+8/7/2019,1,Wed,Colorado Rockies,Houston Astros,d,no
+8/7/2019,1,Wed,St. Louis Cardinals,Los Angeles Dodgers,d,no
+8/7/2019,1,Wed,Atlanta Braves,Minnesota Twins,d,no
+8/7/2019,1,Wed,Miami Marlins,New York Mets,d,no
+8/7/2019,1,Wed,Milwaukee Brewers,Pittsburgh Pirates,n,no
+8/7/2019,1,Wed,San Diego Padres,Seattle Mariners,d,no
+8/7/2019,1,Wed,Washington Nationals,San Francisco Giants,d,no
+8/7/2019,1,Wed,Toronto Blue Jays,Tampa Bay Rays,d,no
+8/8/2019,1,Thu,Los Angeles Angels,Boston Red Sox,n,no
+8/8/2019,1,Thu,Chicago Cubs,Cincinnati Reds,n,no
+8/8/2019,1,Thu,Kansas City Royals,Detroit Tigers,n,no
+8/8/2019,1,Thu,Atlanta Braves,Miami Marlins,n,no
+8/8/2019,1,Thu,Cleveland Indians,Minnesota Twins,n,no
+8/8/2019,1,Thu,Colorado Rockies,San Diego Padres,n,no
+8/8/2019,1,Thu,Philadelphia Phillies,San Francisco Giants,n,no
+8/8/2019,1,Thu,New York Yankees,Toronto Blue Jays,n,no
+8/9/2019,1,Fri,Houston Astros,Baltimore Orioles,n,no
+8/9/2019,1,Fri,Los Angeles Angels,Boston Red Sox,n,no
+8/9/2019,1,Fri,Oakland Athletics,Chicago White Sox,d,no
+8/9/2019,1,Fri,Chicago Cubs,Cincinnati Reds,n,no
+8/9/2019,1,Fri,Kansas City Royals,Detroit Tigers,n,no
+8/9/2019,1,Fri,Arizona Diamondbacks,Los Angeles Dodgers,n,no
+8/9/2019,1,Fri,Atlanta Braves,Miami Marlins,n,no
+8/9/2019,1,Fri,Texas Rangers,Milwaukee Brewers,n,no
+8/9/2019,1,Fri,Cleveland Indians,Minnesota Twins,n,no
+8/9/2019,1,Fri,Washington Nationals,New York Mets,n,no
+8/9/2019,1,Fri,Colorado Rockies,San Diego Padres,n,no
+8/9/2019,1,Fri,Tampa Bay Rays,Seattle Mariners,n,no
+8/9/2019,1,Fri,Philadelphia Phillies,San Francisco Giants,n,no
+8/9/2019,1,Fri,Pittsburgh Pirates,St. Louis Cardinals,n,no
+8/9/2019,1,Fri,New York Yankees,Toronto Blue Jays,n,no
+8/10/2019,1,Sat,Houston Astros,Baltimore Orioles,n,no
+8/10/2019,1,Sat,Los Angeles Angels,Boston Red Sox,d,no
+8/10/2019,1,Sat,Oakland Athletics,Chicago White Sox,n,no
+8/10/2019,1,Sat,Chicago Cubs,Cincinnati Reds,n,no
+8/10/2019,1,Sat,Kansas City Royals,Detroit Tigers,n,no
+8/10/2019,1,Sat,Arizona Diamondbacks,Los Angeles Dodgers,n,no
+8/10/2019,1,Sat,Atlanta Braves,Miami Marlins,n,no
+8/10/2019,1,Sat,Texas Rangers,Milwaukee Brewers,n,no
+8/10/2019,1,Sat,Cleveland Indians,Minnesota Twins,n,no
+8/10/2019,1,Sat,Washington Nationals,New York Mets,n,no
+8/10/2019,1,Sat,Colorado Rockies,San Diego Padres,n,no
+8/10/2019,1,Sat,Tampa Bay Rays,Seattle Mariners,n,no
+8/10/2019,1,Sat,Philadelphia Phillies,San Francisco Giants,d,no
+8/10/2019,1,Sat,Pittsburgh Pirates,St. Louis Cardinals,n,no
+8/10/2019,1,Sat,New York Yankees,Toronto Blue Jays,d,no
+8/11/2019,1,Sun,Houston Astros,Baltimore Orioles,d,no
+8/11/2019,1,Sun,Los Angeles Angels,Boston Red Sox,d,no
+8/11/2019,1,Sun,Oakland Athletics,Chicago White Sox,d,no
+8/11/2019,1,Sun,Chicago Cubs,Cincinnati Reds,d,no
+8/11/2019,1,Sun,Kansas City Royals,Detroit Tigers,d,no
+8/11/2019,1,Sun,Arizona Diamondbacks,Los Angeles Dodgers,d,no
+8/11/2019,1,Sun,Atlanta Braves,Miami Marlins,d,no
+8/11/2019,1,Sun,Texas Rangers,Milwaukee Brewers,d,no
+8/11/2019,1,Sun,Cleveland Indians,Minnesota Twins,d,no
+8/11/2019,1,Sun,Washington Nationals,New York Mets,d,no
+8/11/2019,1,Sun,Colorado Rockies,San Diego Padres,d,no
+8/11/2019,1,Sun,Tampa Bay Rays,Seattle Mariners,d,no
+8/11/2019,1,Sun,Philadelphia Phillies,San Francisco Giants,d,no
+8/11/2019,1,Sun,Pittsburgh Pirates,St. Louis Cardinals,d,no
+8/11/2019,1,Sun,New York Yankees,Toronto Blue Jays,d,no
+8/12/2019,2,Mon,Baltimore Orioles,New York Yankees,n,yes
+8/12/2019,1,Tue,Baltimore Orioles,New York Yankees,d,yes
+8/12/2019,1,Mon,Pittsburgh Pirates,Los Angeles Angels,n,no
+8/12/2019,1,Mon,Boston Red Sox,Cleveland Indians,n,no
+8/12/2019,1,Mon,Arizona Diamondbacks,Colorado Rockies,n,no
+8/12/2019,1,Mon,Tampa Bay Rays,San Diego Padres,n,no
+8/12/2019,1,Mon,Texas Rangers,Toronto Blue Jays,n,no
+8/12/2019,1,Mon,Cincinnati Reds,Washington Nationals,n,no
+8/13/2019,2,Tue,Houston Astros,Chicago White Sox,n,yes
+8/13/2019,1,Mon,Houston Astros,Chicago White Sox,d,yes
+8/13/2019,1,Tue,Pittsburgh Pirates,Los Angeles Angels,n,no
+8/13/2019,1,Tue,New York Mets,Atlanta Braves,n,no
+8/13/2019,1,Tue,Boston Red Sox,Cleveland Indians,n,no
+8/13/2019,1,Tue,Arizona Diamondbacks,Colorado Rockies,n,no
+8/13/2019,1,Tue,Seattle Mariners,Detroit Tigers,n,no
+8/13/2019,1,Tue,St. Louis Cardinals,Kansas City Royals,n,no
+8/13/2019,1,Tue,Los Angeles Dodgers,Miami Marlins,n,no
+8/13/2019,1,Tue,Minnesota Twins,Milwaukee Brewers,n,no
+8/13/2019,1,Tue,Baltimore Orioles,New York Yankees,n,no
+8/13/2019,1,Tue,Chicago Cubs,Philadelphia Phillies,n,no
+8/13/2019,1,Tue,Tampa Bay Rays,San Diego Padres,n,no
+8/13/2019,1,Tue,Oakland Athletics,San Francisco Giants,n,no
+8/13/2019,1,Tue,Texas Rangers,Toronto Blue Jays,n,no
+8/13/2019,1,Tue,Cincinnati Reds,Washington Nationals,n,no
+8/14/2019,1,Wed,Pittsburgh Pirates,Los Angeles Angels,n,no
+8/14/2019,1,Wed,New York Mets,Atlanta Braves,n,no
+8/14/2019,1,Wed,Houston Astros,Chicago White Sox,d,no
+8/14/2019,1,Wed,Boston Red Sox,Cleveland Indians,d,no
+8/14/2019,1,Wed,Arizona Diamondbacks,Colorado Rockies,d,no
+8/14/2019,1,Wed,Seattle Mariners,Detroit Tigers,n,no
+8/14/2019,1,Wed,St. Louis Cardinals,Kansas City Royals,n,no
+8/14/2019,1,Wed,Los Angeles Dodgers,Miami Marlins,n,no
+8/14/2019,1,Wed,Minnesota Twins,Milwaukee Brewers,d,no
+8/14/2019,1,Wed,Baltimore Orioles,New York Yankees,d,no
+8/14/2019,1,Wed,Chicago Cubs,Philadelphia Phillies,n,no
+8/14/2019,1,Wed,Tampa Bay Rays,San Diego Padres,d,no
+8/14/2019,1,Wed,Oakland Athletics,San Francisco Giants,d,no
+8/14/2019,1,Wed,Texas Rangers,Toronto Blue Jays,d,no
+8/14/2019,1,Wed,Cincinnati Reds,Washington Nationals,d,no
+8/15/2019,1,Thu,Chicago White Sox,Los Angeles Angels,n,no
+8/15/2019,1,Thu,San Francisco Giants,Arizona Diamondbacks,n,no
+8/15/2019,1,Thu,New York Mets,Atlanta Braves,n,no
+8/15/2019,1,Thu,St. Louis Cardinals,Cincinnati Reds,n,no
+8/15/2019,1,Thu,Seattle Mariners,Detroit Tigers,d,no
+8/15/2019,1,Thu,Los Angeles Dodgers,Miami Marlins,d,no
+8/15/2019,1,Thu,Cleveland Indians,New York Yankees,n,no
+8/15/2019,1,Thu,Houston Astros,Oakland Athletics,n,no
+8/15/2019,1,Thu,Chicago Cubs,Philadelphia Phillies,n,no
+8/15/2019,1,Thu,Minnesota Twins,Texas Rangers,n,no
+8/16/2019,1,Fri,Chicago White Sox,Los Angeles Angels,n,no
+8/16/2019,1,Fri,San Francisco Giants,Arizona Diamondbacks,n,no
+8/16/2019,1,Fri,Los Angeles Dodgers,Atlanta Braves,n,no
+8/16/2019,1,Fri,Baltimore Orioles,Boston Red Sox,n,no
+8/16/2019,1,Fri,St. Louis Cardinals,Cincinnati Reds,n,no
+8/16/2019,1,Fri,Miami Marlins,Colorado Rockies,n,no
+8/16/2019,1,Fri,New York Mets,Kansas City Royals,n,no
+8/16/2019,1,Fri,Cleveland Indians,New York Yankees,n,no
+8/16/2019,1,Fri,Houston Astros,Oakland Athletics,n,no
+8/16/2019,1,Fri,San Diego Padres,Philadelphia Phillies,n,no
+8/16/2019,1,Fri,Chicago Cubs,Pittsburgh Pirates,n,no
+8/16/2019,1,Fri,Detroit Tigers,Tampa Bay Rays,n,no
+8/16/2019,1,Fri,Minnesota Twins,Texas Rangers,n,no
+8/16/2019,1,Fri,Seattle Mariners,Toronto Blue Jays,n,no
+8/16/2019,1,Fri,Milwaukee Brewers,Washington Nationals,n,no
+8/17/2019,1,Sat,Chicago White Sox,Los Angeles Angels,n,no
+8/17/2019,1,Sat,San Francisco Giants,Arizona Diamondbacks,n,no
+8/17/2019,1,Sat,Los Angeles Dodgers,Atlanta Braves,n,no
+8/17/2019,1,Sat,Baltimore Orioles,Boston Red Sox,n,no
+8/17/2019,1,Sat,St. Louis Cardinals,Cincinnati Reds,n,no
+8/17/2019,1,Sat,Miami Marlins,Colorado Rockies,n,no
+8/17/2019,1,Sat,New York Mets,Kansas City Royals,n,no
+8/17/2019,1,Sat,Cleveland Indians,New York Yankees,d,no
+8/17/2019,1,Sat,Houston Astros,Oakland Athletics,d,no
+8/17/2019,1,Sat,San Diego Padres,Philadelphia Phillies,n,no
+8/17/2019,1,Sat,Chicago Cubs,Pittsburgh Pirates,d,no
+8/17/2019,1,Sat,Detroit Tigers,Tampa Bay Rays,n,no
+8/17/2019,1,Sat,Minnesota Twins,Texas Rangers,n,no
+8/17/2019,1,Sat,Seattle Mariners,Toronto Blue Jays,d,no
+8/17/2019,1,Sat,Milwaukee Brewers,Washington Nationals,n,no
+8/18/2019,1,Sun,Chicago White Sox,Los Angeles Angels,d,no
+8/18/2019,1,Sun,San Francisco Giants,Arizona Diamondbacks,d,no
+8/18/2019,1,Sun,Los Angeles Dodgers,Atlanta Braves,d,no
+8/18/2019,1,Sun,Baltimore Orioles,Boston Red Sox,d,no
+8/18/2019,1,Sun,St. Louis Cardinals,Cincinnati Reds,d,no
+8/18/2019,1,Sun,Miami Marlins,Colorado Rockies,d,no
+8/18/2019,1,Sun,New York Mets,Kansas City Royals,d,no
+8/18/2019,1,Sun,Cleveland Indians,New York Yankees,d,no
+8/18/2019,1,Sun,Houston Astros,Oakland Athletics,d,no
+8/18/2019,1,Sun,San Diego Padres,Philadelphia Phillies,d,no
+8/18/2019,1,Sun,Chicago Cubs,Pittsburgh Pirates,n,no
+8/18/2019,1,Sun,Detroit Tigers,Tampa Bay Rays,d,no
+8/18/2019,1,Sun,Minnesota Twins,Texas Rangers,d,no
+8/18/2019,1,Sun,Seattle Mariners,Toronto Blue Jays,d,no
+8/18/2019,1,Sun,Milwaukee Brewers,Washington Nationals,d,no
+8/19/2019,1,Mon,Colorado Rockies,Arizona Diamondbacks,n,no
+8/19/2019,1,Mon,Kansas City Royals,Baltimore Orioles,n,no
+8/19/2019,1,Mon,San Diego Padres,Cincinnati Reds,n,no
+8/19/2019,1,Mon,Detroit Tigers,Houston Astros,n,no
+8/19/2019,1,Mon,Chicago White Sox,Minnesota Twins,n,no
+8/19/2019,1,Mon,Washington Nationals,Pittsburgh Pirates,n,no
+8/19/2019,1,Mon,Milwaukee Brewers,St. Louis Cardinals,n,no
+8/19/2019,1,Mon,Seattle Mariners,Tampa Bay Rays,n,no
+8/19/2019,1,Mon,Los Angeles Angels,Texas Rangers,n,no
+8/20/2019,2,Tue,Los Angeles Angels,Texas Rangers,n,yes
+8/20/2019,1,Mon,Los Angeles Angels,Texas Rangers,d,yes
+8/20/2019,1,Tue,Colorado Rockies,Arizona Diamondbacks,n,no
+8/20/2019,1,Tue,Miami Marlins,Atlanta Braves,n,no
+8/20/2019,1,Tue,Kansas City Royals,Baltimore Orioles,n,no
+8/20/2019,1,Tue,Philadelphia Phillies,Boston Red Sox,n,no
+8/20/2019,1,Tue,San Francisco Giants,Chicago Cubs,n,no
+8/20/2019,1,Tue,San Diego Padres,Cincinnati Reds,n,no
+8/20/2019,1,Tue,Detroit Tigers,Houston Astros,n,no
+8/20/2019,1,Tue,Toronto Blue Jays,Los Angeles Dodgers,n,no
+8/20/2019,1,Tue,Chicago White Sox,Minnesota Twins,n,no
+8/20/2019,1,Tue,Cleveland Indians,New York Mets,n,no
+8/20/2019,1,Tue,New York Yankees,Oakland Athletics,n,no
+8/20/2019,1,Tue,Washington Nationals,Pittsburgh Pirates,n,no
+8/20/2019,1,Tue,Milwaukee Brewers,St. Louis Cardinals,n,no
+8/20/2019,1,Tue,Seattle Mariners,Tampa Bay Rays,n,no
+8/21/2019,1,Wed,Colorado Rockies,Arizona Diamondbacks,d,no
+8/21/2019,1,Wed,Miami Marlins,Atlanta Braves,n,no
+8/21/2019,1,Wed,Kansas City Royals,Baltimore Orioles,n,no
+8/21/2019,1,Wed,Philadelphia Phillies,Boston Red Sox,n,no
+8/21/2019,1,Wed,San Francisco Giants,Chicago Cubs,n,no
+8/21/2019,1,Wed,San Diego Padres,Cincinnati Reds,d,no
+8/21/2019,1,Wed,Detroit Tigers,Houston Astros,n,no
+8/21/2019,1,Wed,Toronto Blue Jays,Los Angeles Dodgers,n,no
+8/21/2019,1,Wed,Chicago White Sox,Minnesota Twins,d,no
+8/21/2019,1,Wed,Cleveland Indians,New York Mets,n,no
+8/21/2019,1,Wed,New York Yankees,Oakland Athletics,n,no
+8/21/2019,1,Wed,Washington Nationals,Pittsburgh Pirates,n,no
+8/21/2019,1,Wed,Milwaukee Brewers,St. Louis Cardinals,n,no
+8/21/2019,1,Wed,Seattle Mariners,Tampa Bay Rays,d,no
+8/21/2019,1,Wed,Los Angeles Angels,Texas Rangers,n,no
+8/22/2019,1,Thu,Miami Marlins,Atlanta Braves,n,no
+8/22/2019,1,Thu,Tampa Bay Rays,Baltimore Orioles,n,no
+8/22/2019,1,Thu,Texas Rangers,Chicago White Sox,n,no
+8/22/2019,1,Thu,San Francisco Giants,Chicago Cubs,d,no
+8/22/2019,1,Thu,Detroit Tigers,Houston Astros,n,no
+8/22/2019,1,Thu,Toronto Blue Jays,Los Angeles Dodgers,n,no
+8/22/2019,1,Thu,Cleveland Indians,New York Mets,n,no
+8/22/2019,1,Thu,New York Yankees,Oakland Athletics,n,no
+8/22/2019,1,Thu,Washington Nationals,Pittsburgh Pirates,n,no
+8/22/2019,1,Thu,Colorado Rockies,St. Louis Cardinals,n,no
+8/23/2019,1,Fri,Tampa Bay Rays,Baltimore Orioles,n,no
+8/23/2019,1,Fri,Texas Rangers,Chicago White Sox,n,no
+8/23/2019,1,Fri,Washington Nationals,Chicago Cubs,d,no
+8/23/2019,1,Fri,Kansas City Royals,Cleveland Indians,n,no
+8/23/2019,1,Fri,Los Angeles Angels,Houston Astros,n,no
+8/23/2019,1,Fri,New York Yankees,Los Angeles Dodgers,n,no
+8/23/2019,1,Fri,Philadelphia Phillies,Miami Marlins,n,no
+8/23/2019,1,Fri,Arizona Diamondbacks,Milwaukee Brewers,n,no
+8/23/2019,1,Fri,Detroit Tigers,Minnesota Twins,n,no
+8/23/2019,1,Fri,Atlanta Braves,New York Mets,n,no
+8/23/2019,1,Fri,Cincinnati Reds,Pittsburgh Pirates,n,no
+8/23/2019,1,Fri,Boston Red Sox,San Diego Padres,n,no
+8/23/2019,1,Fri,Toronto Blue Jays,Seattle Mariners,n,no
+8/23/2019,1,Fri,Colorado Rockies,St. Louis Cardinals,n,no
+8/24/2019,1,Sat,Tampa Bay Rays,Baltimore Orioles,n,no
+8/24/2019,1,Sat,Texas Rangers,Chicago White Sox,n,no
+8/24/2019,1,Sat,Washington Nationals,Chicago Cubs,d,no
+8/24/2019,1,Sat,Kansas City Royals,Cleveland Indians,n,no
+8/24/2019,1,Sat,Los Angeles Angels,Houston Astros,n,no
+8/24/2019,1,Sat,New York Yankees,Los Angeles Dodgers,d,no
+8/24/2019,1,Sat,Philadelphia Phillies,Miami Marlins,n,no
+8/24/2019,1,Sat,Arizona Diamondbacks,Milwaukee Brewers,n,no
+8/24/2019,1,Sat,Detroit Tigers,Minnesota Twins,n,no
+8/24/2019,1,Sat,Atlanta Braves,New York Mets,n,no
+8/24/2019,1,Sat,San Francisco Giants,Oakland Athletics,n,no
+8/24/2019,1,Sat,Cincinnati Reds,Pittsburgh Pirates,n,no
+8/24/2019,1,Sat,Boston Red Sox,San Diego Padres,n,no
+8/24/2019,1,Sat,Toronto Blue Jays,Seattle Mariners,n,no
+8/24/2019,1,Sat,Colorado Rockies,St. Louis Cardinals,n,no
+8/25/2019,1,Sun,Tampa Bay Rays,Baltimore Orioles,d,no
+8/25/2019,1,Sun,Texas Rangers,Chicago White Sox,d,no
+8/25/2019,1,Sun,Washington Nationals,Chicago Cubs,d,no
+8/25/2019,1,Sun,Kansas City Royals,Cleveland Indians,d,no
+8/25/2019,1,Sun,Los Angeles Angels,Houston Astros,d,no
+8/25/2019,1,Sun,New York Yankees,Los Angeles Dodgers,d,no
+8/25/2019,1,Sun,Philadelphia Phillies,Miami Marlins,d,no
+8/25/2019,1,Sun,Arizona Diamondbacks,Milwaukee Brewers,d,no
+8/25/2019,1,Sun,Detroit Tigers,Minnesota Twins,d,no
+8/25/2019,1,Sun,Atlanta Braves,New York Mets,d,no
+8/25/2019,1,Sun,San Francisco Giants,Oakland Athletics,d,no
+8/25/2019,1,Sun,Cincinnati Reds,Pittsburgh Pirates,d,no
+8/25/2019,1,Sun,Boston Red Sox,San Diego Padres,d,no
+8/25/2019,1,Sun,Toronto Blue Jays,Seattle Mariners,d,no
+8/25/2019,1,Sun,Colorado Rockies,St. Louis Cardinals,d,no
+8/26/2019,1,Wed,Atlanta Braves,Colorado Rockies,d,no
+8/26/2019,1,Mon,Oakland Athletics,Kansas City Royals,n,no
+8/26/2019,1,Mon,Cincinnati Reds,Miami Marlins,n,no
+8/26/2019,1,Mon,St. Louis Cardinals,Milwaukee Brewers,n,no
+8/26/2019,1,Mon,Pittsburgh Pirates,Philadelphia Phillies,n,no
+8/26/2019,1,Mon,Los Angeles Dodgers,San Diego Padres,n,no
+8/26/2019,1,Mon,New York Yankees,Seattle Mariners,n,no
+8/26/2019,1,Mon,Arizona Diamondbacks,San Francisco Giants,n,no
+8/27/2019,1,Tue,Texas Rangers,Los Angeles Angels,n,no
+8/27/2019,1,Tue,Minnesota Twins,Chicago White Sox,n,no
+8/27/2019,1,Tue,Boston Red Sox,Colorado Rockies,n,no
+8/27/2019,1,Tue,Cleveland Indians,Detroit Tigers,n,no
+8/27/2019,1,Tue,Tampa Bay Rays,Houston Astros,n,no
+8/27/2019,1,Tue,Oakland Athletics,Kansas City Royals,n,no
+8/27/2019,1,Tue,Cincinnati Reds,Miami Marlins,n,no
+8/27/2019,1,Tue,St. Louis Cardinals,Milwaukee Brewers,n,no
+8/27/2019,1,Tue,Chicago Cubs,New York Mets,n,no
+8/27/2019,1,Tue,Pittsburgh Pirates,Philadelphia Phillies,n,no
+8/27/2019,1,Tue,Los Angeles Dodgers,San Diego Padres,n,no
+8/27/2019,1,Tue,New York Yankees,Seattle Mariners,n,no
+8/27/2019,1,Tue,Arizona Diamondbacks,San Francisco Giants,n,no
+8/27/2019,1,Tue,Atlanta Braves,Toronto Blue Jays,n,no
+8/27/2019,1,Tue,Baltimore Orioles,Washington Nationals,n,no
+8/28/2019,1,Wed,Texas Rangers,Los Angeles Angels,n,no
+8/28/2019,1,Wed,Minnesota Twins,Chicago White Sox,n,no
+8/28/2019,1,Wed,Boston Red Sox,Colorado Rockies,n,no
+8/28/2019,1,Wed,Cleveland Indians,Detroit Tigers,n,no
+8/28/2019,1,Wed,Tampa Bay Rays,Houston Astros,n,no
+8/28/2019,1,Wed,Oakland Athletics,Kansas City Royals,n,no
+8/28/2019,1,Wed,Cincinnati Reds,Miami Marlins,n,no
+8/28/2019,1,Wed,St. Louis Cardinals,Milwaukee Brewers,d,no
+8/28/2019,1,Wed,Chicago Cubs,New York Mets,n,no
+8/28/2019,1,Wed,Pittsburgh Pirates,Philadelphia Phillies,n,no
+8/28/2019,1,Wed,Los Angeles Dodgers,San Diego Padres,n,no
+8/28/2019,1,Wed,New York Yankees,Seattle Mariners,d,no
+8/28/2019,1,Wed,Atlanta Braves,Toronto Blue Jays,n,no
+8/28/2019,1,Wed,Baltimore Orioles,Washington Nationals,n,no
+8/29/2019,1,Thu,Los Angeles Dodgers,Arizona Diamondbacks,n,no
+8/29/2019,1,Thu,Minnesota Twins,Chicago White Sox,d,no
+8/29/2019,1,Thu,Pittsburgh Pirates,Colorado Rockies,n,no
+8/29/2019,1,Thu,Cleveland Indians,Detroit Tigers,d,no
+8/29/2019,1,Thu,Tampa Bay Rays,Houston Astros,d,no
+8/29/2019,1,Thu,Oakland Athletics,Kansas City Royals,d,no
+8/29/2019,1,Thu,Cincinnati Reds,Miami Marlins,n,no
+8/29/2019,1,Thu,Chicago Cubs,New York Mets,n,no
+8/29/2019,1,Thu,San Diego Padres,San Francisco Giants,n,no
+8/29/2019,1,Thu,Seattle Mariners,Texas Rangers,n,no
+8/30/2019,1,Fri,Boston Red Sox,Los Angeles Angels,n,no
+8/30/2019,1,Fri,Los Angeles Dodgers,Arizona Diamondbacks,n,no
+8/30/2019,1,Fri,Chicago White Sox,Atlanta Braves,n,no
+8/30/2019,1,Fri,Milwaukee Brewers,Chicago Cubs,d,no
+8/30/2019,1,Fri,Pittsburgh Pirates,Colorado Rockies,n,no
+8/30/2019,1,Fri,Minnesota Twins,Detroit Tigers,n,no
+8/30/2019,1,Fri,Baltimore Orioles,Kansas City Royals,n,no
+8/30/2019,1,Fri,Oakland Athletics,New York Yankees,n,no
+8/30/2019,1,Fri,New York Mets,Philadelphia Phillies,n,no
+8/30/2019,1,Fri,San Diego Padres,San Francisco Giants,n,no
+8/30/2019,1,Fri,Cleveland Indians,Tampa Bay Rays,n,no
+8/30/2019,1,Fri,Seattle Mariners,Texas Rangers,n,no
+8/30/2019,1,Fri,Houston Astros,Toronto Blue Jays,n,no
+8/30/2019,1,Fri,Miami Marlins,Washington Nationals,n,no
+8/31/2019,2,Sat,Cincinnati Reds,St. Louis Cardinals,n,yes
+8/31/2019,1,Wed,Cincinnati Reds,St. Louis Cardinals,d,yes
+8/31/2019,1,Sat,Boston Red Sox,Los Angeles Angels,n,no
+8/31/2019,1,Sat,Los Angeles Dodgers,Arizona Diamondbacks,n,no
+8/31/2019,1,Sat,Chicago White Sox,Atlanta Braves,n,no
+8/31/2019,1,Sat,Milwaukee Brewers,Chicago Cubs,d,no
+8/31/2019,1,Sat,Pittsburgh Pirates,Colorado Rockies,n,no
+8/31/2019,1,Sat,Minnesota Twins,Detroit Tigers,n,no
+8/31/2019,1,Sat,Baltimore Orioles,Kansas City Royals,n,no
+8/31/2019,1,Sat,Oakland Athletics,New York Yankees,d,no
+8/31/2019,1,Sat,New York Mets,Philadelphia Phillies,d,no
+8/31/2019,1,Sat,San Diego Padres,San Francisco Giants,n,no
+8/31/2019,1,Sat,Cleveland Indians,Tampa Bay Rays,n,no
+8/31/2019,1,Sat,Seattle Mariners,Texas Rangers,n,no
+8/31/2019,1,Sat,Houston Astros,Toronto Blue Jays,d,no
+8/31/2019,1,Sat,Miami Marlins,Washington Nationals,n,no
+9/1/2019,2,Sun,Cincinnati Reds,St. Louis Cardinals,d,yes
+9/1/2019,1,Fri,Cincinnati Reds,St. Louis Cardinals,d,yes
+9/1/2019,1,Sun,Boston Red Sox,Los Angeles Angels,d,no
+9/1/2019,1,Sun,Los Angeles Dodgers,Arizona Diamondbacks,d,no
+9/1/2019,1,Sun,Chicago White Sox,Atlanta Braves,n,no
+9/1/2019,1,Sun,Milwaukee Brewers,Chicago Cubs,d,no
+9/1/2019,1,Sun,Pittsburgh Pirates,Colorado Rockies,d,no
+9/1/2019,1,Sun,Minnesota Twins,Detroit Tigers,d,no
+9/1/2019,1,Sun,Baltimore Orioles,Kansas City Royals,d,no
+9/1/2019,1,Sun,Oakland Athletics,New York Yankees,d,no
+9/1/2019,1,Sun,New York Mets,Philadelphia Phillies,d,no
+9/1/2019,1,Sun,San Diego Padres,San Francisco Giants,d,no
+9/1/2019,1,Sun,Cleveland Indians,Tampa Bay Rays,d,no
+9/1/2019,1,Sun,Seattle Mariners,Texas Rangers,d,no
+9/1/2019,1,Sun,Houston Astros,Toronto Blue Jays,d,no
+9/1/2019,1,Sun,Miami Marlins,Washington Nationals,d,no
+9/2/2019,1,Mon,San Diego Padres,Arizona Diamondbacks,d,no
+9/2/2019,1,Mon,Toronto Blue Jays,Atlanta Braves,d,no
+9/2/2019,1,Mon,Seattle Mariners,Chicago Cubs,d,no
+9/2/2019,1,Mon,Philadelphia Phillies,Cincinnati Reds,d,no
+9/2/2019,1,Mon,Chicago White Sox,Cleveland Indians,n,no
+9/2/2019,1,Mon,Minnesota Twins,Detroit Tigers,d,no
+9/2/2019,1,Mon,Colorado Rockies,Los Angeles Dodgers,n,no
+9/2/2019,1,Mon,Houston Astros,Milwaukee Brewers,d,no
+9/2/2019,1,Mon,Texas Rangers,New York Yankees,d,no
+9/2/2019,1,Mon,San Francisco Giants,St. Louis Cardinals,d,no
+9/2/2019,1,Mon,Baltimore Orioles,Tampa Bay Rays,d,no
+9/2/2019,1,Mon,New York Mets,Washington Nationals,d,no
+9/3/2019,2,Tue,Baltimore Orioles,Tampa Bay Rays,n,yes
+9/3/2019,1,Wed,Baltimore Orioles,Tampa Bay Rays,d,yes
+9/3/2019,1,Tue,San Diego Padres,Arizona Diamondbacks,n,no
+9/3/2019,1,Tue,Toronto Blue Jays,Atlanta Braves,n,no
+9/3/2019,1,Tue,Minnesota Twins,Boston Red Sox,n,no
+9/3/2019,1,Tue,Seattle Mariners,Chicago Cubs,n,no
+9/3/2019,1,Tue,Philadelphia Phillies,Cincinnati Reds,n,no
+9/3/2019,1,Tue,Chicago White Sox,Cleveland Indians,n,no
+9/3/2019,1,Tue,Detroit Tigers,Kansas City Royals,n,no
+9/3/2019,1,Tue,Colorado Rockies,Los Angeles Dodgers,n,no
+9/3/2019,1,Tue,Houston Astros,Milwaukee Brewers,n,no
+9/3/2019,1,Tue,Texas Rangers,New York Yankees,n,no
+9/3/2019,1,Tue,Los Angeles Angels,Oakland Athletics,n,no
+9/3/2019,1,Tue,Miami Marlins,Pittsburgh Pirates,n,no
+9/3/2019,1,Tue,San Francisco Giants,St. Louis Cardinals,n,no
+9/3/2019,1,Tue,New York Mets,Washington Nationals,n,no
+9/4/2019,1,Wed,San Diego Padres,Arizona Diamondbacks,n,no
+9/4/2019,1,Wed,Minnesota Twins,Boston Red Sox,n,no
+9/4/2019,1,Wed,Philadelphia Phillies,Cincinnati Reds,n,no
+9/4/2019,1,Wed,Chicago White Sox,Cleveland Indians,n,no
+9/4/2019,1,Wed,Detroit Tigers,Kansas City Royals,n,no
+9/4/2019,1,Wed,Colorado Rockies,Los Angeles Dodgers,n,no
+9/4/2019,1,Wed,Texas Rangers,New York Yankees,n,no
+9/4/2019,1,Wed,Los Angeles Angels,Oakland Athletics,n,no
+9/4/2019,1,Wed,Miami Marlins,Pittsburgh Pirates,n,no
+9/4/2019,1,Wed,San Francisco Giants,St. Louis Cardinals,n,no
+9/4/2019,1,Wed,New York Mets,Washington Nationals,d,no
+9/5/2019,1,Thu,Washington Nationals,Atlanta Braves,n,no
+9/5/2019,1,Thu,Texas Rangers,Baltimore Orioles,n,no
+9/5/2019,1,Thu,Minnesota Twins,Boston Red Sox,n,no
+9/5/2019,1,Thu,Philadelphia Phillies,Cincinnati Reds,d,no
+9/5/2019,1,Thu,Chicago White Sox,Cleveland Indians,d,no
+9/5/2019,1,Thu,Seattle Mariners,Houston Astros,n,no
+9/5/2019,1,Thu,Detroit Tigers,Kansas City Royals,d,no
+9/5/2019,1,Thu,Chicago Cubs,Milwaukee Brewers,n,no
+9/5/2019,1,Thu,Los Angeles Angels,Oakland Athletics,d,no
+9/5/2019,1,Thu,Miami Marlins,Pittsburgh Pirates,n,no
+9/5/2019,1,Thu,San Francisco Giants,St. Louis Cardinals,d,no
+9/5/2019,1,Thu,Toronto Blue Jays,Tampa Bay Rays,n,no
+9/6/2019,1,Fri,Washington Nationals,Atlanta Braves,n,no
+9/6/2019,1,Fri,Texas Rangers,Baltimore Orioles,n,no
+9/6/2019,1,Fri,New York Yankees,Boston Red Sox,n,no
+9/6/2019,1,Fri,Los Angeles Angels,Chicago White Sox,n,no
+9/6/2019,1,Fri,Arizona Diamondbacks,Cincinnati Reds,n,no
+9/6/2019,1,Fri,Seattle Mariners,Houston Astros,n,no
+9/6/2019,1,Fri,San Francisco Giants,Los Angeles Dodgers,n,no
+9/6/2019,1,Fri,Kansas City Royals,Miami Marlins,n,no
+9/6/2019,1,Fri,Chicago Cubs,Milwaukee Brewers,n,no
+9/6/2019,1,Fri,Cleveland Indians,Minnesota Twins,n,no
+9/6/2019,1,Fri,Philadelphia Phillies,New York Mets,n,no
+9/6/2019,1,Fri,Detroit Tigers,Oakland Athletics,n,no
+9/6/2019,1,Fri,St. Louis Cardinals,Pittsburgh Pirates,n,no
+9/6/2019,1,Fri,Colorado Rockies,San Diego Padres,n,no
+9/6/2019,1,Fri,Toronto Blue Jays,Tampa Bay Rays,n,no
+9/7/2019,1,Sat,Washington Nationals,Atlanta Braves,n,no
+9/7/2019,1,Sat,Texas Rangers,Baltimore Orioles,n,no
+9/7/2019,1,Sat,New York Yankees,Boston Red Sox,d,no
+9/7/2019,1,Sat,Los Angeles Angels,Chicago White Sox,n,no
+9/7/2019,1,Sat,Arizona Diamondbacks,Cincinnati Reds,d,no
+9/7/2019,1,Sat,Seattle Mariners,Houston Astros,n,no
+9/7/2019,1,Sat,San Francisco Giants,Los Angeles Dodgers,n,no
+9/7/2019,1,Sat,Kansas City Royals,Miami Marlins,n,no
+9/7/2019,1,Sat,Chicago Cubs,Milwaukee Brewers,n,no
+9/7/2019,1,Sat,Cleveland Indians,Minnesota Twins,n,no
+9/7/2019,1,Sat,Philadelphia Phillies,New York Mets,n,no
+9/7/2019,1,Sat,Detroit Tigers,Oakland Athletics,n,no
+9/7/2019,1,Sat,St. Louis Cardinals,Pittsburgh Pirates,n,no
+9/7/2019,1,Sat,Colorado Rockies,San Diego Padres,n,no
+9/7/2019,1,Sat,Toronto Blue Jays,Tampa Bay Rays,n,no
+9/8/2019,1,Sun,Washington Nationals,Atlanta Braves,d,no
+9/8/2019,1,Sun,Texas Rangers,Baltimore Orioles,d,no
+9/8/2019,1,Sun,New York Yankees,Boston Red Sox,n,no
+9/8/2019,1,Sun,Los Angeles Angels,Chicago White Sox,d,no
+9/8/2019,1,Sun,Arizona Diamondbacks,Cincinnati Reds,d,no
+9/8/2019,1,Sun,Seattle Mariners,Houston Astros,d,no
+9/8/2019,1,Sun,San Francisco Giants,Los Angeles Dodgers,d,no
+9/8/2019,1,Sun,Kansas City Royals,Miami Marlins,d,no
+9/8/2019,1,Sun,Chicago Cubs,Milwaukee Brewers,d,no
+9/8/2019,1,Sun,Cleveland Indians,Minnesota Twins,d,no
+9/8/2019,1,Sun,Philadelphia Phillies,New York Mets,d,no
+9/8/2019,1,Sun,Detroit Tigers,Oakland Athletics,d,no
+9/8/2019,1,Sun,St. Louis Cardinals,Pittsburgh Pirates,d,no
+9/8/2019,1,Sun,Colorado Rockies,San Diego Padres,d,no
+9/8/2019,1,Sun,Toronto Blue Jays,Tampa Bay Rays,d,no
+9/9/2019,1,Mon,Cleveland Indians,Los Angeles Angels,n,no
+9/9/2019,1,Mon,New York Yankees,Boston Red Sox,n,no
+9/9/2019,1,Mon,Oakland Athletics,Houston Astros,n,no
+9/9/2019,1,Mon,Milwaukee Brewers,Miami Marlins,n,no
+9/9/2019,1,Mon,Arizona Diamondbacks,New York Mets,n,no
+9/9/2019,1,Mon,Atlanta Braves,Philadelphia Phillies,n,no
+9/9/2019,1,Mon,Chicago Cubs,San Diego Padres,n,no
+9/9/2019,1,Mon,Pittsburgh Pirates,San Francisco Giants,n,no
+9/10/2019,1,Tue,Cleveland Indians,Los Angeles Angels,n,no
+9/10/2019,1,Tue,Los Angeles Dodgers,Baltimore Orioles,n,no
+9/10/2019,1,Tue,Kansas City Royals,Chicago White Sox,n,no
+9/10/2019,1,Tue,St. Louis Cardinals,Colorado Rockies,n,no
+9/10/2019,1,Tue,New York Yankees,Detroit Tigers,n,no
+9/10/2019,1,Tue,Oakland Athletics,Houston Astros,n,no
+9/10/2019,1,Tue,Milwaukee Brewers,Miami Marlins,n,no
+9/10/2019,1,Tue,Washington Nationals,Minnesota Twins,n,no
+9/10/2019,1,Tue,Arizona Diamondbacks,New York Mets,n,no
+9/10/2019,1,Tue,Atlanta Braves,Philadelphia Phillies,n,no
+9/10/2019,1,Tue,Chicago Cubs,San Diego Padres,n,no
+9/10/2019,1,Tue,Cincinnati Reds,Seattle Mariners,n,no
+9/10/2019,1,Tue,Pittsburgh Pirates,San Francisco Giants,n,no
+9/10/2019,1,Tue,Tampa Bay Rays,Texas Rangers,n,no
+9/10/2019,1,Tue,Boston Red Sox,Toronto Blue Jays,n,no
+9/11/2019,1,Wed,Cleveland Indians,Los Angeles Angels,n,no
+9/11/2019,1,Wed,Los Angeles Dodgers,Baltimore Orioles,n,no
+9/11/2019,1,Wed,Kansas City Royals,Chicago White Sox,n,no
+9/11/2019,1,Wed,St. Louis Cardinals,Colorado Rockies,n,no
+9/11/2019,1,Wed,Oakland Athletics,Houston Astros,n,no
+9/11/2019,1,Wed,Milwaukee Brewers,Miami Marlins,n,no
+9/11/2019,1,Wed,Washington Nationals,Minnesota Twins,n,no
+9/11/2019,1,Wed,Arizona Diamondbacks,New York Mets,n,no
+9/11/2019,1,Wed,Atlanta Braves,Philadelphia Phillies,n,no
+9/11/2019,1,Wed,Chicago Cubs,San Diego Padres,n,no
+9/11/2019,1,Wed,Cincinnati Reds,Seattle Mariners,n,no
+9/11/2019,1,Wed,Pittsburgh Pirates,San Francisco Giants,n,no
+9/11/2019,1,Wed,Tampa Bay Rays,Texas Rangers,n,no
+9/11/2019,1,Wed,Boston Red Sox,Toronto Blue Jays,n,no
+9/12/2019,2,Thu,New York Yankees,Detroit Tigers,d,yes
+9/12/2019,1,Wed,New York Yankees,Detroit Tigers,d,yes
+9/12/2019,1,Thu,Los Angeles Dodgers,Baltimore Orioles,n,no
+9/12/2019,1,Thu,Kansas City Royals,Chicago White Sox,d,no
+9/12/2019,1,Thu,St. Louis Cardinals,Colorado Rockies,d,no
+9/12/2019,1,Thu,Oakland Athletics,Houston Astros,n,no
+9/12/2019,1,Thu,Milwaukee Brewers,Miami Marlins,d,no
+9/12/2019,1,Thu,Washington Nationals,Minnesota Twins,n,no
+9/12/2019,1,Thu,Arizona Diamondbacks,New York Mets,d,no
+9/12/2019,1,Thu,Atlanta Braves,Philadelphia Phillies,n,no
+9/12/2019,1,Thu,Chicago Cubs,San Diego Padres,d,no
+9/12/2019,1,Thu,Cincinnati Reds,Seattle Mariners,n,no
+9/12/2019,1,Thu,Pittsburgh Pirates,San Francisco Giants,d,no
+9/12/2019,1,Thu,Tampa Bay Rays,Texas Rangers,n,no
+9/12/2019,1,Thu,Boston Red Sox,Toronto Blue Jays,n,no
+9/13/2019,1,Fri,Tampa Bay Rays,Los Angeles Angels,n,no
+9/13/2019,1,Fri,Cincinnati Reds,Arizona Diamondbacks,n,no
+9/13/2019,1,Fri,Pittsburgh Pirates,Chicago Cubs,d,no
+9/13/2019,1,Fri,San Diego Padres,Colorado Rockies,n,no
+9/13/2019,1,Fri,Baltimore Orioles,Detroit Tigers,n,no
+9/13/2019,1,Fri,Houston Astros,Kansas City Royals,n,no
+9/13/2019,1,Fri,Los Angeles Dodgers,New York Mets,n,no
+9/13/2019,1,Fri,Chicago White Sox,Seattle Mariners,n,no
+9/13/2019,1,Fri,Miami Marlins,San Francisco Giants,n,no
+9/13/2019,1,Fri,Milwaukee Brewers,St. Louis Cardinals,n,no
+9/13/2019,1,Fri,Oakland Athletics,Texas Rangers,n,no
+9/13/2019,1,Fri,New York Yankees,Toronto Blue Jays,n,no
+9/13/2019,1,Fri,Atlanta Braves,Washington Nationals,n,no
+9/14/2019,2,Sat,Minnesota Twins,Cleveland Indians,n,yes
+9/14/2019,1,Fri,Minnesota Twins,Cleveland Indians,d,yes
+9/14/2019,1,Sat,Tampa Bay Rays,Los Angeles Angels,n,no
+9/14/2019,1,Sat,Cincinnati Reds,Arizona Diamondbacks,n,no
+9/14/2019,1,Sat,Pittsburgh Pirates,Chicago Cubs,d,no
+9/14/2019,1,Sat,San Diego Padres,Colorado Rockies,n,no
+9/14/2019,1,Sat,Baltimore Orioles,Detroit Tigers,n,no
+9/14/2019,1,Sat,Houston Astros,Kansas City Royals,n,no
+9/14/2019,1,Sat,Los Angeles Dodgers,New York Mets,n,no
+9/14/2019,1,Sat,Boston Red Sox,Philadelphia Phillies,n,no
+9/14/2019,1,Sat,Chicago White Sox,Seattle Mariners,n,no
+9/14/2019,1,Sat,Miami Marlins,San Francisco Giants,n,no
+9/14/2019,1,Sat,Milwaukee Brewers,St. Louis Cardinals,n,no
+9/14/2019,1,Sat,Oakland Athletics,Texas Rangers,n,no
+9/14/2019,1,Sat,New York Yankees,Toronto Blue Jays,d,no
+9/14/2019,1,Sat,Atlanta Braves,Washington Nationals,d,no
+9/15/2019,1,Sun,Tampa Bay Rays,Los Angeles Angels,d,no
+9/15/2019,1,Sun,Cincinnati Reds,Arizona Diamondbacks,d,no
+9/15/2019,1,Sun,Pittsburgh Pirates,Chicago Cubs,d,no
+9/15/2019,1,Sun,Minnesota Twins,Cleveland Indians,d,no
+9/15/2019,1,Sun,San Diego Padres,Colorado Rockies,d,no
+9/15/2019,1,Sun,Baltimore Orioles,Detroit Tigers,d,no
+9/15/2019,1,Sun,Houston Astros,Kansas City Royals,d,no
+9/15/2019,1,Sun,Los Angeles Dodgers,New York Mets,d,no
+9/15/2019,1,Sun,Boston Red Sox,Philadelphia Phillies,d,no
+9/15/2019,1,Sun,Chicago White Sox,Seattle Mariners,d,no
+9/15/2019,1,Sun,Miami Marlins,San Francisco Giants,d,no
+9/15/2019,1,Sun,Milwaukee Brewers,St. Louis Cardinals,d,no
+9/15/2019,1,Sun,Oakland Athletics,Texas Rangers,d,no
+9/15/2019,1,Sun,New York Yankees,Toronto Blue Jays,d,no
+9/15/2019,1,Sun,Atlanta Braves,Washington Nationals,d,no
+9/16/2019,1,Mon,Miami Marlins,Arizona Diamondbacks,n,no
+9/16/2019,1,Mon,Cincinnati Reds,Chicago Cubs,n,no
+9/16/2019,1,Mon,New York Mets,Colorado Rockies,n,no
+9/16/2019,1,Mon,Baltimore Orioles,Detroit Tigers,d,no
+9/16/2019,1,Mon,San Diego Padres,Milwaukee Brewers,n,no
+9/16/2019,1,Mon,Chicago White Sox,Minnesota Twins,n,no
+9/16/2019,1,Mon,Kansas City Royals,Oakland Athletics,n,no
+9/16/2019,1,Mon,Washington Nationals,St. Louis Cardinals,n,no
+9/17/2019,1,Tue,Miami Marlins,Arizona Diamondbacks,n,no
+9/17/2019,1,Tue,Philadelphia Phillies,Atlanta Braves,n,no
+9/17/2019,1,Tue,Toronto Blue Jays,Baltimore Orioles,n,no
+9/17/2019,1,Tue,San Francisco Giants,Boston Red Sox,n,no
+9/17/2019,1,Tue,Cincinnati Reds,Chicago Cubs,n,no
+9/17/2019,1,Tue,Detroit Tigers,Cleveland Indians,n,no
+9/17/2019,1,Tue,New York Mets,Colorado Rockies,n,no
+9/17/2019,1,Tue,Texas Rangers,Houston Astros,n,no
+9/17/2019,1,Tue,Tampa Bay Rays,Los Angeles Dodgers,n,no
+9/17/2019,1,Tue,San Diego Padres,Milwaukee Brewers,n,no
+9/17/2019,1,Tue,Chicago White Sox,Minnesota Twins,n,no
+9/17/2019,1,Tue,Los Angeles Angels,New York Yankees,n,no
+9/17/2019,1,Tue,Kansas City Royals,Oakland Athletics,n,no
+9/17/2019,1,Tue,Seattle Mariners,Pittsburgh Pirates,n,no
+9/17/2019,1,Tue,Washington Nationals,St. Louis Cardinals,n,no
+9/18/2019,1,Wed,Miami Marlins,Arizona Diamondbacks,d,no
+9/18/2019,1,Wed,Philadelphia Phillies,Atlanta Braves,n,no
+9/18/2019,1,Wed,Toronto Blue Jays,Baltimore Orioles,n,no
+9/18/2019,1,Wed,San Francisco Giants,Boston Red Sox,n,no
+9/18/2019,1,Wed,Cincinnati Reds,Chicago Cubs,n,no
+9/18/2019,1,Wed,Detroit Tigers,Cleveland Indians,n,no
+9/18/2019,1,Wed,New York Mets,Colorado Rockies,d,no
+9/18/2019,1,Wed,Texas Rangers,Houston Astros,n,no
+9/18/2019,1,Wed,Tampa Bay Rays,Los Angeles Dodgers,n,no
+9/18/2019,1,Wed,San Diego Padres,Milwaukee Brewers,n,no
+9/18/2019,1,Wed,Chicago White Sox,Minnesota Twins,n,no
+9/18/2019,1,Wed,Los Angeles Angels,New York Yankees,n,no
+9/18/2019,1,Wed,Kansas City Royals,Oakland Athletics,d,no
+9/18/2019,1,Wed,Seattle Mariners,Pittsburgh Pirates,n,no
+9/18/2019,1,Wed,Washington Nationals,St. Louis Cardinals,d,no
+9/19/2019,1,Thu,Philadelphia Phillies,Atlanta Braves,d,no
+9/19/2019,1,Thu,Toronto Blue Jays,Baltimore Orioles,n,no
+9/19/2019,1,Thu,San Francisco Giants,Boston Red Sox,d,no
+9/19/2019,1,Thu,St. Louis Cardinals,Chicago Cubs,n,no
+9/19/2019,1,Thu,Detroit Tigers,Cleveland Indians,n,no
+9/19/2019,1,Thu,San Diego Padres,Milwaukee Brewers,d,no
+9/19/2019,1,Thu,Kansas City Royals,Minnesota Twins,n,no
+9/19/2019,1,Thu,Los Angeles Angels,New York Yankees,n,no
+9/19/2019,1,Thu,Seattle Mariners,Pittsburgh Pirates,d,no
+9/20/2019,1,Fri,San Francisco Giants,Atlanta Braves,n,no
+9/20/2019,1,Fri,Seattle Mariners,Baltimore Orioles,n,no
+9/20/2019,1,Fri,St. Louis Cardinals,Chicago Cubs,d,no
+9/20/2019,1,Fri,New York Mets,Cincinnati Reds,n,no
+9/20/2019,1,Fri,Philadelphia Phillies,Cleveland Indians,n,no
+9/20/2019,1,Fri,Chicago White Sox,Detroit Tigers,n,no
+9/20/2019,1,Fri,Los Angeles Angels,Houston Astros,n,no
+9/20/2019,1,Fri,Colorado Rockies,Los Angeles Dodgers,n,no
+9/20/2019,1,Fri,Washington Nationals,Miami Marlins,n,no
+9/20/2019,1,Fri,Pittsburgh Pirates,Milwaukee Brewers,n,no
+9/20/2019,1,Fri,Kansas City Royals,Minnesota Twins,n,no
+9/20/2019,1,Fri,Toronto Blue Jays,New York Yankees,n,no
+9/20/2019,1,Fri,Texas Rangers,Oakland Athletics,n,no
+9/20/2019,1,Fri,Arizona Diamondbacks,San Diego Padres,n,no
+9/20/2019,1,Fri,Boston Red Sox,Tampa Bay Rays,n,no
+9/21/2019,1,Sat,San Francisco Giants,Atlanta Braves,n,no
+9/21/2019,1,Sat,Seattle Mariners,Baltimore Orioles,n,no
+9/21/2019,1,Sat,St. Louis Cardinals,Chicago Cubs,d,no
+9/21/2019,1,Sat,New York Mets,Cincinnati Reds,d,no
+9/21/2019,1,Sat,Philadelphia Phillies,Cleveland Indians,n,no
+9/21/2019,1,Sat,Chicago White Sox,Detroit Tigers,n,no
+9/21/2019,1,Sat,Los Angeles Angels,Houston Astros,n,no
+9/21/2019,1,Sat,Colorado Rockies,Los Angeles Dodgers,n,no
+9/21/2019,1,Sat,Washington Nationals,Miami Marlins,n,no
+9/21/2019,1,Sat,Pittsburgh Pirates,Milwaukee Brewers,n,no
+9/21/2019,1,Sat,Kansas City Royals,Minnesota Twins,n,no
+9/21/2019,1,Sat,Toronto Blue Jays,New York Yankees,d,no
+9/21/2019,1,Sat,Texas Rangers,Oakland Athletics,n,no
+9/21/2019,1,Sat,Arizona Diamondbacks,San Diego Padres,n,no
+9/21/2019,1,Sat,Boston Red Sox,Tampa Bay Rays,n,no
+9/22/2019,1,Sun,San Francisco Giants,Atlanta Braves,d,no
+9/22/2019,1,Sun,Seattle Mariners,Baltimore Orioles,d,no
+9/22/2019,1,Sun,St. Louis Cardinals,Chicago Cubs,d,no
+9/22/2019,1,Sun,New York Mets,Cincinnati Reds,d,no
+9/22/2019,1,Sun,Philadelphia Phillies,Cleveland Indians,d,no
+9/22/2019,1,Sun,Chicago White Sox,Detroit Tigers,d,no
+9/22/2019,1,Sun,Los Angeles Angels,Houston Astros,d,no
+9/22/2019,1,Sun,Colorado Rockies,Los Angeles Dodgers,d,no
+9/22/2019,1,Sun,Washington Nationals,Miami Marlins,d,no
+9/22/2019,1,Sun,Pittsburgh Pirates,Milwaukee Brewers,d,no
+9/22/2019,1,Sun,Kansas City Royals,Minnesota Twins,d,no
+9/22/2019,1,Sun,Toronto Blue Jays,New York Yankees,d,no
+9/22/2019,1,Sun,Texas Rangers,Oakland Athletics,d,no
+9/22/2019,1,Sun,Arizona Diamondbacks,San Diego Padres,d,no
+9/22/2019,1,Sun,Boston Red Sox,Tampa Bay Rays,d,no
+9/23/2019,1,Mon,St. Louis Cardinals,Arizona Diamondbacks,n,no
+9/23/2019,1,Mon,Miami Marlins,New York Mets,n,no
+9/23/2019,1,Mon,Boston Red Sox,Tampa Bay Rays,n,no
+9/23/2019,1,Mon,Baltimore Orioles,Toronto Blue Jays,n,no
+9/23/2019,1,Mon,Philadelphia Phillies,Washington Nationals,n,no
+9/24/2019,2,Tue,Philadelphia Phillies,Washington Nationals,n,yes
+9/24/2019,1,Tue,Philadelphia Phillies,Washington Nationals,d,yes
+9/24/2019,1,Tue,Oakland Athletics,Los Angeles Angels,n,no
+9/24/2019,1,Tue,St. Louis Cardinals,Arizona Diamondbacks,n,no
+9/24/2019,1,Tue,Cleveland Indians,Chicago White Sox,n,no
+9/24/2019,1,Tue,Milwaukee Brewers,Cincinnati Reds,n,no
+9/24/2019,1,Tue,Minnesota Twins,Detroit Tigers,n,no
+9/24/2019,1,Tue,Atlanta Braves,Kansas City Royals,n,no
+9/24/2019,1,Tue,Miami Marlins,New York Mets,n,no
+9/24/2019,1,Tue,Chicago Cubs,Pittsburgh Pirates,n,no
+9/24/2019,1,Tue,Los Angeles Dodgers,San Diego Padres,n,no
+9/24/2019,1,Tue,Houston Astros,Seattle Mariners,n,no
+9/24/2019,1,Tue,Colorado Rockies,San Francisco Giants,n,no
+9/24/2019,1,Tue,New York Yankees,Tampa Bay Rays,n,no
+9/24/2019,1,Tue,Boston Red Sox,Texas Rangers,n,no
+9/24/2019,1,Tue,Baltimore Orioles,Toronto Blue Jays,n,no
+9/25/2019,1,Wed,Oakland Athletics,Los Angeles Angels,n,no
+9/25/2019,1,Wed,St. Louis Cardinals,Arizona Diamondbacks,d,no
+9/25/2019,1,Wed,Cleveland Indians,Chicago White Sox,n,no
+9/25/2019,1,Wed,Milwaukee Brewers,Cincinnati Reds,n,no
+9/25/2019,1,Wed,Minnesota Twins,Detroit Tigers,n,no
+9/25/2019,1,Wed,Atlanta Braves,Kansas City Royals,n,no
+9/25/2019,1,Wed,Miami Marlins,New York Mets,n,no
+9/25/2019,1,Wed,Chicago Cubs,Pittsburgh Pirates,n,no
+9/25/2019,1,Wed,Los Angeles Dodgers,San Diego Padres,n,no
+9/25/2019,1,Wed,Houston Astros,Seattle Mariners,n,no
+9/25/2019,1,Wed,Colorado Rockies,San Francisco Giants,n,no
+9/25/2019,1,Wed,New York Yankees,Tampa Bay Rays,n,no
+9/25/2019,1,Wed,Boston Red Sox,Texas Rangers,n,no
+9/25/2019,1,Wed,Baltimore Orioles,Toronto Blue Jays,n,no
+9/25/2019,1,Wed,Philadelphia Phillies,Washington Nationals,n,no
+9/26/2019,1,Thu,Houston Astros,Los Angeles Angels,n,no
+9/26/2019,1,Thu,Cleveland Indians,Chicago White Sox,n,no
+9/26/2019,1,Thu,Milwaukee Brewers,Cincinnati Reds,d,no
+9/26/2019,1,Thu,Minnesota Twins,Detroit Tigers,d,no
+9/26/2019,1,Thu,Miami Marlins,New York Mets,n,no
+9/26/2019,1,Thu,Chicago Cubs,Pittsburgh Pirates,n,no
+9/26/2019,1,Thu,Los Angeles Dodgers,San Diego Padres,d,no
+9/26/2019,1,Thu,Oakland Athletics,Seattle Mariners,n,no
+9/26/2019,1,Thu,Colorado Rockies,San Francisco Giants,d,no
+9/26/2019,1,Thu,Boston Red Sox,Texas Rangers,d,no
+9/26/2019,1,Thu,Philadelphia Phillies,Washington Nationals,d,no
+9/27/2019,1,Fri,Houston Astros,Los Angeles Angels,n,no
+9/27/2019,1,Fri,San Diego Padres,Arizona Diamondbacks,n,no
+9/27/2019,1,Fri,Baltimore Orioles,Boston Red Sox,n,no
+9/27/2019,1,Fri,Milwaukee Brewers,Colorado Rockies,n,no
+9/27/2019,1,Fri,Minnesota Twins,Kansas City Royals,n,no
+9/27/2019,1,Fri,Atlanta Braves,New York Mets,n,no
+9/27/2019,1,Fri,Miami Marlins,Philadelphia Phillies,n,no
+9/27/2019,1,Fri,Cincinnati Reds,Pittsburgh Pirates,n,no
+9/27/2019,1,Fri,Oakland Athletics,Seattle Mariners,n,no
+9/27/2019,1,Fri,Los Angeles Dodgers,San Francisco Giants,n,no
+9/27/2019,1,Fri,Chicago Cubs,St. Louis Cardinals,n,no
+9/27/2019,1,Fri,New York Yankees,Texas Rangers,n,no
+9/27/2019,1,Fri,Tampa Bay Rays,Toronto Blue Jays,n,no
+9/27/2019,1,Fri,Cleveland Indians,Washington Nationals,n,no
+9/28/2019,2,Sat,Detroit Tigers,Chicago White Sox,n,yes
+9/28/2019,1,Fri,Detroit Tigers,Chicago White Sox,d,yes
+9/28/2019,1,Sat,Houston Astros,Los Angeles Angels,n,no
+9/28/2019,1,Sat,San Diego Padres,Arizona Diamondbacks,n,no
+9/28/2019,1,Sat,Baltimore Orioles,Boston Red Sox,d,no
+9/28/2019,1,Sat,Milwaukee Brewers,Colorado Rockies,n,no
+9/28/2019,1,Sat,Minnesota Twins,Kansas City Royals,n,no
+9/28/2019,1,Sat,Atlanta Braves,New York Mets,n,no
+9/28/2019,1,Sat,Miami Marlins,Philadelphia Phillies,n,no
+9/28/2019,1,Sat,Cincinnati Reds,Pittsburgh Pirates,n,no
+9/28/2019,1,Sat,Oakland Athletics,Seattle Mariners,n,no
+9/28/2019,1,Sat,Los Angeles Dodgers,San Francisco Giants,d,no
+9/28/2019,1,Sat,Chicago Cubs,St. Louis Cardinals,n,no
+9/28/2019,1,Sat,New York Yankees,Texas Rangers,n,no
+9/28/2019,1,Sat,Tampa Bay Rays,Toronto Blue Jays,d,no
+9/28/2019,1,Sat,Cleveland Indians,Washington Nationals,d,no
+9/29/2019,1,Sun,Houston Astros,Los Angeles Angels,d,no
+9/29/2019,1,Sun,San Diego Padres,Arizona Diamondbacks,d,no
+9/29/2019,1,Sun,Baltimore Orioles,Boston Red Sox,d,no
+9/29/2019,1,Sun,Detroit Tigers,Chicago White Sox,d,no
+9/29/2019,1,Sun,Milwaukee Brewers,Colorado Rockies,d,no
+9/29/2019,1,Sun,Minnesota Twins,Kansas City Royals,d,no
+9/29/2019,1,Sun,Atlanta Braves,New York Mets,d,no
+9/29/2019,1,Sun,Miami Marlins,Philadelphia Phillies,d,no
+9/29/2019,1,Sun,Cincinnati Reds,Pittsburgh Pirates,d,no
+9/29/2019,1,Sun,Oakland Athletics,Seattle Mariners,d,no
+9/29/2019,1,Sun,Los Angeles Dodgers,San Francisco Giants,d,no
+9/29/2019,1,Sun,Chicago Cubs,St. Louis Cardinals,d,no
+9/29/2019,1,Sun,New York Yankees,Texas Rangers,d,no
+9/29/2019,1,Sun,Tampa Bay Rays,Toronto Blue Jays,d,no
+9/29/2019,1,Sun,Cleveland Indians,Washington Nationals,d,no
