@@ -1,4 +1,4 @@
-game_id,game_date,team_name,venue,batting_avg,earn_run_ave,game_outcome,game_number,visiting_team,home_team,game_day,day_night,double_header
+game_id,game_date,team_name,venue,batting_avg,earn_run_avg,game_outcome,game_number,visiting_team,home_team,game_day,day_night,double_header
 43544-SEA@OAK-1,3/20/2019,Seattle Mariners,Neutral,0.226,6,win,1,Seattle Mariners,Oakland Athletics,Wed,n,no
 43544-SEA@OAK-1,3/20/2019,Oakland Athletics,Neutral,0.257,9,lose,1,Seattle Mariners,Oakland Athletics,Wed,n,no
 43545-SEA@OAK-1,3/21/2019,Seattle Mariners,Neutral,0.209,2.25,win,1,Seattle Mariners,Oakland Athletics,Thu,n,no

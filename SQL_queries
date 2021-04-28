@@ -1,39 +1,42 @@
-DROP TABLE stats;
-
+-- create stats table - use stats_mlb_boxscores_2019.csv from resources folder
 CREATE TABLE stats (
 	game_id VARCHAR,
 	game_date DATE,
 	team_name VARCHAR,
 	venue VARCHAR,
 	batting_avg DECIMAL,
-	earn_run_ave DECIMAL,
-	game_outcome INT
+	earn_run_avg DECIMAL,
+	game_outcome VARCHAR,
+	game_number INT,
+	visiting_team VARCHAR,
+	home_team VARCHAR
 );
 
-COPY stats (	game_id,
-	game_date,
-	team_name,
-	venue,
-	batting_avg,
-	earn_run_avg,
-	game_outcome)
-
--- use public account/folder in order to get around server issues importing csv
--- put CSV file path on your computer in line below
-FROM 'C:\Users\Public\2019-MLB_Box_Score_Team-Stats.csv' 
-DELIMITER ','
-CSV 
-HEADER;
-	
-SELECT * FROM stats;
-
+-- create table for day_night - use day_night_mlb_2019.csv from resources folder
 CREATE TABLE day_night (
-	date_id INT,
+	game_date DATE,
 	game_number INT,
 	game_day VARCHAR,
 	visiting_team VARCHAR,
 	home_team VARCHAR,
-	day_night VARCHAR
+	day_night VARCHAR,
+	double_header VARCHAR
 );
-
-SELECT * FROM day_night
+-- add primary key (composite key) to day_night table
+ALTER TABLE day_night
+ADD CONSTRAINT pk_Game
+PRIMARY KEY (game_date,game_number,visiting_team);
+-- add foreign key to stats table
+ALTER TABLE stats
+ADD CONSTRAINT fk_Game
+FOREIGN KEY (game_date,game_number,visiting_team)
+REFERENCES day_night(game_date,game_number,visiting_team);
+-- join tables 
+-- saved joined results to new csv file called joined_data.csv
+-- (manually deleted duplicate columns from csv later in excel)
+SELECT *
+FROM stats
+JOIN day_night
+ON stats.game_date = day_night.game_date
+AND stats.game_number = day_night.game_number
+AND stats.visiting_team = day_night.visiting_team;
