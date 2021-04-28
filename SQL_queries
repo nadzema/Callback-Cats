@@ -15,7 +15,7 @@ COPY stats (	game_id,
 	team_name,
 	venue,
 	batting_avg,
-	earn_run_ave,
+	earn_run_avg,
 	game_outcome)
 
 -- use public account/folder in order to get around server issues importing csv
