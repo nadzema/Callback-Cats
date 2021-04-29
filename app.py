@@ -32,20 +32,23 @@ all_data = Base.classes.all_data
 app = Flask(__name__)
 
 ##################################################################################################
-# Flask Routes (FIVE total)
+# Flask Routes (FIVE routes total with data)
 ##################################################################################################
 @app.route("/")
-def welcome():
-    """List all available api routes."""
-    return (
-        f"Available Routes:<br/>"
-        f"/ba_era_day_night<br/>"
-        f"/ba_day<br/>"
-        f"/ba_night<br/>"
-        f"/era_day<br/>"
-        f"/era_night<br/>"
-    )
+def home():
+    return render_template("index.html")
+#    return (
+#        f"Available Routes:<br/>"
+#        f"/ba_era_day_night<br/>"
+#        f"/ba_day<br/>"
+#        f"/ba_night<br/>"
+#        f"/era_day<br/>"
+#        f"/era_night<br/>"
+#    )
 
+@app.route("/api")
+def api_home():
+    return render_template("api_home.html")
 
 ##################################################################################################
 # 1.) Route for everything: both batting_avg and earn_run_avg for both day and night games
