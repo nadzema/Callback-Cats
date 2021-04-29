@@ -4857,5 +4857,3 @@ game_id,game_date,team_name,venue,batting_avg,earn_run_ave,game_outcome,game_num
 43737-SDP@ARI-1,9/29/2019,San Diego Padres,Road,0.242,1.04,lose,1,San Diego Padres,Arizona Diamondbacks
 43737-TBR@TOR-1,9/29/2019,Toronto Blue Jays,Home,0.314,3,win,1,Tampa Bay Rays,Toronto Blue Jays
 43737-TBR@TOR-1,9/29/2019,Tampa Bay Rays,Road,0.25,9,lose,1,Tampa Bay Rays,Toronto Blue Jays
-,,,,,,,,,
-,,,,,,,,,
