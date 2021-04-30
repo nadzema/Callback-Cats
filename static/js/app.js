@@ -75,8 +75,6 @@
 
 //     //    ******************** Part 5  PIE CHAT FOR Batting AVG ***************************************************
 
-//Not working at the moment//
-
 d3.json('/ba_day').then(function(ba_day) {
 
   d3.json('/ba_night').then(function(ba_night) {   
