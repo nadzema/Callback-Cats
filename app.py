@@ -176,6 +176,33 @@ def era_night():
     return jsonify(era_night_list)
 
 
+##########################################
+#TRIAL ROUTE FOR TEAM BATTING AVERAGE WORK IN PROGRESS #
+##########################################
+@app.route("/team_ba")
+def team_ba():
+    # Create our session (link) from Python to the DB
+    session = Session(engine)
+
+    # Query all earn_run_avg for night games only
+    results = session.query(all_data.team_name, (sum(all_data.batting_avg))/func.count(all_data.batting_avg)\
+    .filter(team_name = ))
+    # Close session
+    session.close()
+
+    # Create a dictionary from the row data and append to list era_night_list
+    team_ba_list = []
+    for team_name, team_ba in results:
+        team_ba_dict = {}
+        team_ba_dict["team_name"] = team_name
+        team_ba_dict["team_ba"] = team_ba
+        team_ba_list.append(team_ba_dict)
+        
+
+    # Return a JSON list of earn_run_avg for night games only
+    return jsonify(team_ba_list)
+
+
 #Debug
 if __name__ == '__main__':
     app.run(debug=True)
