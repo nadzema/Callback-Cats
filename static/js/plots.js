@@ -1,18 +1,3 @@
-/* global Plotly */
-var ba_all =
-    `http://127.0.0.1:5000/`;
-
-var ba_day =
-  `http://127.0.0.1:5000/ba_day`;
-
-var ba_night =
-    `http://127.0.0.1:5000/ba_night`;   
-
-var era_day = 
-    `http://127.0.0.1:5000/ba_day`;
-
-var era_night = 
-    `http://127.0.0.1:5000/ba_night`;
 
 /**
  * Helper function to select stock data

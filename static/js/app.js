@@ -1,3 +1,7 @@
+// // **************BOX PLOT FOR BATTING AVERAGE**********************************************************
+
+// only uncomment one PLOTLY BOXPLOT at a time for it to work// 
+
 d3.json('/ba_day').then(function(ba_day) {
 
   d3.json('/ba_night').then(function(ba_night) {
@@ -33,93 +37,80 @@ d3.json('/ba_day').then(function(ba_day) {
 });
 
 
-// // **************BOX PLOT FOR BATTING AVERAGE**********************************************************
-
-//     var trace1 = {
-//         y: batting_avg.ba_day,
-//         name: "DAY GAMES",
-//         type: "box",
-//         boxpoints: "all"
-//       };
-      
-//       var trace2 = {
-//         y: batting_avg.ba_night,
-//         name: "NIGHT GAMES",
-//         type: "box",
-//         boxpoints: "all"
-//       };
-      
-//       var data = [trace1, trace2];
-      
-//       var layout = {
-//         title: "BATTING AVERAGES DURING NIGHT AND DAY GAMES",
-//         yaxis: { title: "Batting Average"}
-//       };
-      
-//       // Plot the chart to a div tag with id "plot"
-//       Plotly.newPlot("plot", data, layout);
-
-
 //     // *************  BOXPLOT FOR EARN RUN AVERAGES *******************************************************
-      
+d3.json('/era_day').then(function(era_day) {
 
-//       var trace3 = {
-//         y: earn_run_avg.era_day,
-//         name: "DAY GAMES",
-//         type: "box",
-//         boxpoints: "all"
-//       };
-      
-//       var trace4 = {
-//         y: earn_run_avg.era_night,
-//         name: "NIGHT GAMES",
-//         type: "box",
-//         boxpoints: "all"
-//       };
-      
-//       var data = [trace3, trace4];
-      
-//       var layout = {
-//         title: "EARN RUN AVERAGES DURING NIGHT AND DAY GAMES",
-//         yaxis: { title: "Earn Run Average"}
-//       };
-      
-//       // Plot the chart to a div tag with id "plot"
-//       Plotly.newPlot("plot", data, layout);
+  d3.json('/era_night').then(function(era_night) {
+
+    console.log(era_day.map(d => d.earn_run_avg));
+    console.log(era_night.map(d => d.earn_run_avg));
+
+    var trace3 = {
+      y: era_day.map(d => d.earn_run_avg),
+      name: "DAY GAMES",
+      type: "box",
+      boxpoints: "all"
+    };
+    
+    var trace4 = {
+      y: era_night.map(d => d.earn_run_avg),
+      name: "NIGHT GAMES",
+      type: "box",
+      boxpoints: "all"
+    };
+    
+    var data = [trace3, trace4];
+
+    var layout = {
+      title: "EARN RUN AVERAGE DURING NIGHT AND DAY GAMES",
+      yaxis: { title: "EARN RUN AVERAGE"}
+    };
+    
+    // Plot the chart to a div tag with id "plot"
+    Plotly.newPlot("plot2", data, layout);
+
+  });
+});
+
 
 //     //    ******************** Part 5  PIE CHAT FOR DAY GAMES ***************************************************
 
-    
+//Not working at the moment//
 
-// var trace5 = {
-//     labels: ["Batting Average", "Earn Run Average"],
-//     values: [],
-//     type: 'pie'
-//   };
-      
-//   var data = [];
+d3.json('/ba_day').then(function(ba_day) {
 
-// var layout = {
-//   title: "Pie Chart for Day Games",
-// };
+  d3.json('/ba_night').then(function(ba_night) {   
 
-// Plotly.newPlot("plot", data, layout);
+    var data = {
+        labels: ["Batting Average Day", "Batting Average Night"],
+        values: [ba_day.map(d => d.batting_avg), ba_night.map(d => d.batting_avg)],
+        type: 'pie'
+      };
+          
+      // var data = [];
 
+    var layout = {
+      title: "Pie Chart for Batting Averages"
+    };
 
-// ******************** Part 6  PIE CHAT FOR DAY GAMES ***********************************************************
-
-var trace6 = {
-    labels: ["Batting Average", "Earn Run Average"],
-    values: [  ],
-    type: 'pie'
-  };
-      
-  var data = [];
-
-var layout = {
-  title: "Pie  Chart for Night Games",
-};
-
-Plotly.newPlot("plot", data, layout);
+    Plotly.newPlot("plot3", data, layout);
 
 
+    // ******************** Part 6  PIE CHAT FOR DAY GAMES ***********************************************************
+
+    var trace6 = {
+        labels: ["Earn Run Average Day", "Earn Run Average Night"],
+        values: [  ],
+        type: 'pie'
+      };
+          
+      var data = [];
+
+    var layout = {
+      title: "Pie Chart for Earn Run Average",
+    };
+
+    Plotly.newPlot("plot", data, layout);
+
+  });
+});

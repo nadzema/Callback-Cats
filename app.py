@@ -46,10 +46,6 @@ def home():
 #        f"/era_night<br/>"
 #    )
 
-@app.route("/api")
-def api_home():
-    return render_template("api_home.html")
-
 ##################################################################################################
 # 1.) Route for everything: both batting_avg and earn_run_avg for both day and night games
 @app.route("/ba_era_day_night")
