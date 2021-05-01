@@ -1,0 +1,152 @@
+[
+    {
+      "batting_avg": 0.235, 
+      "earn_run_avg": 5.34, 
+      "team_name": "Detroit Tigers"
+    }, 
+    {
+      "batting_avg": 0.256, 
+      "earn_run_avg": 4.99, 
+      "team_name": "Chicago White Sox"
+    }, 
+    {
+      "batting_avg": 0.258, 
+      "earn_run_avg": 4.31, 
+      "team_name": "Washington Nationals"
+    }, 
+    {
+      "batting_avg": 0.234, 
+      "earn_run_avg": 4.83, 
+      "team_name": "Miami Marlins"
+    }, 
+    {
+      "batting_avg": 0.24, 
+      "earn_run_avg": 4.65, 
+      "team_name": "Philadelphia Phillies"
+    }, 
+    {
+      "batting_avg": 0.268, 
+      "earn_run_avg": 3.72, 
+      "team_name": "Houston Astros"
+    }, 
+    {
+      "batting_avg": 0.243, 
+      "earn_run_avg": 4.04, 
+      "team_name": "Oakland Athletics"
+    }, 
+    {
+      "batting_avg": 0.233, 
+      "earn_run_avg": 4.66, 
+      "team_name": "San Diego Padres"
+    }, 
+    {
+      "batting_avg": 0.252, 
+      "earn_run_avg": 4.35, 
+      "team_name": "New York Mets"
+    }, 
+    {
+      "batting_avg": 0.231, 
+      "earn_run_avg": 5.07, 
+      "team_name": "Seattle Mariners"
+    }, 
+    {
+      "batting_avg": 0.244, 
+      "earn_run_avg": 3.85, 
+      "team_name": "Cleveland Indians"
+    }, 
+    {
+      "batting_avg": 0.241, 
+      "earn_run_avg": 5.7, 
+      "team_name": "Baltimore Orioles"
+    }, 
+    {
+      "batting_avg": 0.247, 
+      "earn_run_avg": 4.2, 
+      "team_name": "Chicago Cubs"
+    }, 
+    {
+      "batting_avg": 0.243, 
+      "earn_run_avg": 4.49, 
+      "team_name": "Milwaukee Brewers"
+    }, 
+    {
+      "batting_avg": 0.238, 
+      "earn_run_avg": 4.24, 
+      "team_name": "Cincinnati Reds"
+    }, 
+    {
+      "batting_avg": 0.261, 
+      "earn_run_avg": 5.66, 
+      "team_name": "Colorado Rockies"
+    }, 
+    {
+      "batting_avg": 0.26, 
+      "earn_run_avg": 5.27, 
+      "team_name": "Pittsburgh Pirates"
+    }, 
+    {
+      "batting_avg": 0.242, 
+      "earn_run_avg": 5.28, 
+      "team_name": "Kansas City Royals"
+    }, 
+    {
+      "batting_avg": 0.252, 
+      "earn_run_avg": 3.45, 
+      "team_name": "Los Angeles Dodgers"
+    }, 
+    {
+      "batting_avg": 0.253, 
+      "earn_run_avg": 4.28, 
+      "team_name": "Atlanta Braves"
+    }, 
+    {
+      "batting_avg": 0.25, 
+      "earn_run_avg": 3.75, 
+      "team_name": "Tampa Bay Rays"
+    }, 
+    {
+      "batting_avg": 0.242, 
+      "earn_run_avg": 5.16, 
+      "team_name": "Texas Rangers"
+    }, 
+    {
+      "batting_avg": 0.233, 
+      "earn_run_avg": 4.5, 
+      "team_name": "San Francisco Giants"
+    }, 
+    {
+      "batting_avg": 0.262, 
+      "earn_run_avg": 4.4, 
+      "team_name": "New York Yankees"
+    }, 
+    {
+      "batting_avg": 0.245, 
+      "earn_run_avg": 4.36, 
+      "team_name": "Arizona Diamondbacks"
+    }, 
+    {
+      "batting_avg": 0.24, 
+      "earn_run_avg": 3.87, 
+      "team_name": "St. Louis Cardinals"
+    }, 
+    {
+      "batting_avg": 0.264, 
+      "earn_run_avg": 4.24, 
+      "team_name": "Minnesota Twins"
+    }, 
+    {
+      "batting_avg": 0.241, 
+      "earn_run_avg": 5.2, 
+      "team_name": "Los Angeles Angels"
+    }, 
+    {
+      "batting_avg": 0.229, 
+      "earn_run_avg": 4.87, 
+      "team_name": "Toronto Blue Jays"
+    }, 
+    {
+      "batting_avg": 0.264, 
+      "earn_run_avg": 4.79, 
+      "team_name": "Boston Red Sox"
+    }
+  ]

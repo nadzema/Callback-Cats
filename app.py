@@ -179,28 +179,27 @@ def era_night():
 ##########################################
 #TRIAL ROUTE FOR TEAM BATTING AVERAGE WORK IN PROGRESS #
 ##########################################
-@app.route("/team_ba")
-def team_ba():
+@app.route("/team_avg")
+def team_avg():
+
     # Create our session (link) from Python to the DB
     session = Session(engine)
+    # Query each team's average batting average and average era
+    results = session.query(all_data.team_name, func.avg(all_data.batting_avg), func.avg(all_data.earn_run_avg)).\
+            group_by(all_data.team_name).all()
 
-    # Query all earn_run_avg for night games only
-    results = session.query(all_data.team_name, (sum(all_data.batting_avg))/func.count(all_data.batting_avg)\
-    .filter(team_name = ))
     # Close session
     session.close()
-
-    # Create a dictionary from the row data and append to list era_night_list
-    team_ba_list = []
-    for team_name, team_ba in results:
-        team_ba_dict = {}
-        team_ba_dict["team_name"] = team_name
-        team_ba_dict["team_ba"] = team_ba
-        team_ba_list.append(team_ba_dict)
-        
-
-    # Return a JSON list of earn_run_avg for night games only
-    return jsonify(team_ba_list)
+    # Create a dictionary from the row data and append to list team_avg_list
+    team_avg_list = []
+    for team_name, batting_avg, earn_run_avg in results:
+        team_avg_dict = {}
+        team_avg_dict["team_name"] = team_name
+        team_avg_dict["batting_avg"] = round(batting_avg, 3)
+        team_avg_dict["earn_run_avg"] = round(earn_run_avg, 2)
+        team_avg_list.append(team_avg_dict)
+    # Return a JSON list of both avgerage batting_avg and average earn_run_avg for both day and night games for each team
+    return jsonify(team_avg_list)
 
 
 #Debug

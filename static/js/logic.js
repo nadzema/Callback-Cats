@@ -50,57 +50,83 @@ L.control.layers(baseMaps, {
 // Store our API endpoint inside queryUrl
 
 d3.json('../resources/stadiums.json').then(function(data) {
+    d3.json('../resources/team_avg.json').then(function(team_data) {
 
-    console.log(data)
+        team_data.forEach(team_stats => {
+            ba =  team_stats["batting_avg"];
+            era = team_stats["earn_run_avg"];
+            team = team_stats["team_name"];
+            console.log(team_stats);
+            console.log(ba);
 
-    
-//     function colormydot (depth) { 
-//         // if depth is between 0 and 150 color it green
-//         //  if depth is between 151 and 300 color it yellow
-//         // if depth is between 301 and 450 color it orange
-//         // if depth is greater than 450 color it red
+            data.forEach(stadium => {
+                lat = stadium['lat'];
+                lng = stadium['lng'];
+                team = stadium['team'];
+                address = stadium['address'];
 
-//         if (depth <= 5) {
-//             return "green";
-//         }
-//         else if (depth <= 10) {
-//             return "yellow";
-//         } 
-//         else if (depth <= 15) {
-//             return "orange";
-//         }
-//         else {
-//             return "red";
-//         }
+            
+                var marker = L.circleMarker([lat, lng], {
+                    radius: era * 2,
+                    opacity: 1,
+                    fillOpacity: .9,
+                    color: "black",
+                    stroke: true,
+                    weight: .5,
+                    fillColor: colormydot (ba),
+                }).addTo(myMap);
 
-//     };
+                marker.bindPopup("<h3>" + "Team: " + team +
+                    "</h3><hr><h3>  2019 Batting Average: " + ba  + "</h3><hr><h3>  Address: " + address +  "</h3>")
+                .addTo(myMap);
 
-    data.forEach(stadium => {
-        lat = stadium['lat'];
-        lng = stadium['lng'];
-        team = stadium['team'];
-        address = stadium['address'];
-        console.log(lat);
-        
-        var marker = L.circleMarker([lat, lng], {
-            radius: 10,
-            opacity: 1,
-            fillOpacity: .9,
-            color: "black",
-            stroke: true,
-            weight: .5,
-            fillColor: 'red',
-        }).addTo(myMap);
+            });    
+        });
+    });
+})
 
-        marker.bindPopup("<h3>" + "Team: " + team +
-            "</h3><hr><h3>" + "Address: " + address +  "</h3>")
-        .addTo(myMap);
-    })
-});
+//////////////////////////////////////////////////////////////////////////////////////
+// d3.json('../resources/team_avg.json').then(function(team_data) {
 
-//         // console.log(marker)
+    function colormydot (ba) { 
+        // if team_ba is between 0 and 0.24 color it red
+        //  if team_ba is between 0.24 and 0.25 color it orange
+        // if team_ba is between 0.25 and 0.26 color it yellow
+        // if team_ba is greater than 0.26 color it green
 
-        
+        if (ba <= 0.24) {
+            return "red";
+        }
+        else if (ba <= 0.25) {
+            return "orange";
+        } 
+        else if (ba <= 0.26) {
+            return "yellow";
+        }
+        else {
+            return "green";
+        }
+
+    };
+
+//     team_data.forEach(team_stats => {
+//         ba =  team_stats["batting_avg"];
+//         era = team_stats["earn_run_avg"];
+//         team = team_stats["team_name"];
+
+//         L.circleMarker([lat, lng], {
+//             radius: era,
+//             opacity: 1,
+//             fillOpacity: .9,
+//             color: colormydot (ba),
+//             stroke: true,
+//             weight: .5,
+//             fillColor: colormydot (ba),
+//         }).addTo(myMap);
+//     });
+// });
+
+ ///////////////////////////////////////////////////////////////////////       
 
     
 
