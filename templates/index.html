@@ -4,19 +4,46 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="../static/css/style.css">
     <script src="https://d3js.org/d3.v6.min.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
-    <title>Document</title>
+    <title>Homepage</title>
 </head>
+
 <body>
-    <h1>Batting Average and Earn Run Average Statistics: </h1>
-    <div id="plot"></div>
-    <div id="plot2"></div>
-    <div id="plot3"></div> 
-    <div id="plot4"></div> 
+    <ul>
+        <li><a href="/templates/about.html">About</a></li>
+        <li><a href="/templates/teams.html">MLB Teams</a></li>
+        <li><a href="/templates/map.html">Map</a></li>
+        <li class="dropdown">
+            <a href="javascript:void(0)" class="dropbtn">Visualizations</a>
+            <div class="dropdown-content">
+              <a href="/templates/batting_avg.html">Batting Average</a>
+              <a href="/templates/earn_run_avg.html">Earn Run Average</a>
+              <a href="/templates/pie_charts.html">Day/Night Pies</a>
+            </div>
+        <li style="float:left"><a class="active" href="/templates/index.html">Home</a></li>
+      </ul>
+  
+    <div class="container">
+    <h1>Major League Baseball: Day Games vs. Night Games </h1>
+    <p>
+        In this project, our team set out to examine Major League Baseball statistics to determine whether day or night games favor the pitchers (defense) or batters (offense). 
+        We contrasted the earned run average (ERA) of pitchers and batting average of hitters (AVG) across all 2,430 games played in the 2019 baseball regular season to see if the sun and shadows favored one side of the other. 
+    </p>
+    <p>
+        We have included visualizations of the results of our analysis, as well as an interactive map showing the locations of all MLB stadiums across the country.  
+    </p>
+    <div class="stock_image1">
+    <img src="../resources/day_stadium.jpg" alt="Day Stadium Image" width="400" height="300" >
+    </div>
+    <div class="stock_image2">
+    <img src="../resources/night_stadium.jpg" alt="Night Stadium Image" width="400" height="300">
+    </div>
     
     
+    </div>
     
 </body>
 <script src="../static/js/app.js"></script>
