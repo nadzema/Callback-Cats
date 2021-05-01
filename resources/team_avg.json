@@ -2,151 +2,181 @@
     {
       "batting_avg": 0.235, 
       "earn_run_avg": 5.34, 
-      "team_name": "Detroit Tigers"
+      "team_name": "Detroit Tigers",
+      "lat":42.346354,"lng":-83.059619
     }, 
     {
       "batting_avg": 0.256, 
       "earn_run_avg": 4.99, 
-      "team_name": "Chicago White Sox"
+      "team_name": "Chicago White Sox",
+      "lat":41.830883,"lng":-87.635083
     }, 
     {
       "batting_avg": 0.258, 
       "earn_run_avg": 4.31, 
-      "team_name": "Washington Nationals"
+      "team_name": "Washington Nationals",
+      "lat":38.87,"lng":-77.01
     }, 
     {
       "batting_avg": 0.234, 
       "earn_run_avg": 4.83, 
-      "team_name": "Miami Marlins"
+      "team_name": "Miami Marlins",
+      "lat":25.954428,"lng":-80.238164
     }, 
     {
       "batting_avg": 0.24, 
       "earn_run_avg": 4.65, 
-      "team_name": "Philadelphia Phillies"
+      "team_name": "Philadelphia Phillies",
+      "lat":39.952313,"lng":-75.162392
     }, 
     {
       "batting_avg": 0.268, 
       "earn_run_avg": 3.72, 
-      "team_name": "Houston Astros"
+      "team_name": "Houston Astros",
+      "lat":29.76045,"lng":-95.369784
     }, 
     {
       "batting_avg": 0.243, 
       "earn_run_avg": 4.04, 
-      "team_name": "Oakland Athletics"
+      "team_name": "Oakland Athletics",
+      "lat":37.74923,"lng":-122.196487
     }, 
     {
       "batting_avg": 0.233, 
       "earn_run_avg": 4.66, 
-      "team_name": "San Diego Padres"
+      "team_name": "San Diego Padres",
+      "lat":32.752148,"lng":-117.143635
     }, 
     {
       "batting_avg": 0.252, 
       "earn_run_avg": 4.35, 
-      "team_name": "New York Mets"
+      "team_name": "New York Mets",
+      "lat":40.75535,"lng":-73.843219
     }, 
     {
       "batting_avg": 0.231, 
       "earn_run_avg": 5.07, 
-      "team_name": "Seattle Mariners"
+      "team_name": "Seattle Mariners",
+      "lat":47.60174,"lng":-122.330829
     }, 
     {
       "batting_avg": 0.244, 
       "earn_run_avg": 3.85, 
-      "team_name": "Cleveland Indians"
+      "team_name": "Cleveland Indians",
+      "lat":41.495149,"lng":-81.68709
     }, 
     {
       "batting_avg": 0.241, 
       "earn_run_avg": 5.7, 
-      "team_name": "Baltimore Orioles"
+      "team_name": "Baltimore Orioles",
+      "lat":39.285243,"lng":-76.620103
     }, 
     {
       "batting_avg": 0.247, 
       "earn_run_avg": 4.2, 
-      "team_name": "Chicago Cubs"
+      "team_name": "Chicago Cubs",
+      "lat":41.947201,"lng":-87.656413
     }, 
     {
       "batting_avg": 0.243, 
       "earn_run_avg": 4.49, 
-      "team_name": "Milwaukee Brewers"
+      "team_name": "Milwaukee Brewers",
+      "lat":43.04205,"lng":-87.905599
     }, 
     {
       "batting_avg": 0.238, 
       "earn_run_avg": 4.24, 
-      "team_name": "Cincinnati Reds"
+      "team_name": "Cincinnati Reds",
+      "lat":39.107183,"lng":-84.507713
     }, 
     {
       "batting_avg": 0.261, 
       "earn_run_avg": 5.66, 
-      "team_name": "Colorado Rockies"
+      "team_name": "Colorado Rockies",
+      "lat":39.75698,"lng":-104.965329
     }, 
     {
       "batting_avg": 0.26, 
       "earn_run_avg": 5.27, 
-      "team_name": "Pittsburgh Pirates"
+      "team_name": "Pittsburgh Pirates",
+      "lat":40.461503,"lng":-80.008924
     }, 
     {
       "batting_avg": 0.242, 
       "earn_run_avg": 5.28, 
-      "team_name": "Kansas City Royals"
+      "team_name": "Kansas City Royals",
+      "lat":39.10222,"lng":-94.583559
     }, 
     {
       "batting_avg": 0.252, 
       "earn_run_avg": 3.45, 
-      "team_name": "Los Angeles Dodgers"
+      "team_name": "Los Angeles Dodgers",
+      "lat":34.072437,"lng":-118.246879
     }, 
     {
       "batting_avg": 0.253, 
       "earn_run_avg": 4.28, 
-      "team_name": "Atlanta Braves"
+      "team_name": "Atlanta Braves",
+      "lat":33.74691,"lng":-84.391239
     }, 
     {
       "batting_avg": 0.25, 
       "earn_run_avg": 3.75, 
-      "team_name": "Tampa Bay Rays"
+      "team_name": "Tampa Bay Rays",
+      "lat":27.768487,"lng":-82.648191
     }, 
     {
       "batting_avg": 0.242, 
       "earn_run_avg": 5.16, 
-      "team_name": "Texas Rangers"
+      "team_name": "Texas Rangers",
+      "lat":32.750156,"lng":-97.081117
     }, 
     {
       "batting_avg": 0.233, 
       "earn_run_avg": 4.5, 
-      "team_name": "San Francisco Giants"
+      "team_name": "San Francisco Giants",
+      "lat":37.77987,"lng":-122.389754
     }, 
     {
       "batting_avg": 0.262, 
       "earn_run_avg": 4.4, 
-      "team_name": "New York Yankees"
+      "team_name": "New York Yankees",
+      "lat":40.819782,"lng":-73.929939
     }, 
     {
       "batting_avg": 0.245, 
       "earn_run_avg": 4.36, 
-      "team_name": "Arizona Diamondbacks"
+      "team_name": "Arizona Diamondbacks",
+      "lat":33.452922,"lng":-112.038669
     }, 
     {
       "batting_avg": 0.24, 
       "earn_run_avg": 3.87, 
-      "team_name": "St. Louis Cardinals"
+      "team_name": "St. Louis Cardinals",
+      "lat":38.629683,"lng":-90.188247
     }, 
     {
       "batting_avg": 0.264, 
       "earn_run_avg": 4.24, 
-      "team_name": "Minnesota Twins"
+      "team_name": "Minnesota Twins",
+      "lat":44.974346,"lng":-93.259616
     }, 
     {
       "batting_avg": 0.241, 
       "earn_run_avg": 5.2, 
-      "team_name": "Los Angeles Angels"
+      "team_name": "Los Angeles Angels",
+      "lat":33.799572,"lng":-117.889031
     }, 
     {
       "batting_avg": 0.229, 
       "earn_run_avg": 4.87, 
-      "team_name": "Toronto Blue Jays"
+      "team_name": "Toronto Blue Jays",
+      "lat":43.641653,"lng":-79.3917
     }, 
     {
       "batting_avg": 0.264, 
       "earn_run_avg": 4.79, 
-      "team_name": "Boston Red Sox"
+      "team_name": "Boston Red Sox",
+      "lat":42.346613,"lng":-71.098817
     }
   ]

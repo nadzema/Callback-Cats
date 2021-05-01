@@ -56,18 +56,18 @@ d3.json('../resources/stadiums.json').then(function(data) {
             ba =  team_stats["batting_avg"];
             era = team_stats["earn_run_avg"];
             team = team_stats["team_name"];
+            lat = team_stats['lat'];
+            lng = team_stats['lng'];
             console.log(team_stats);
             console.log(ba);
 
             data.forEach(stadium => {
-                lat = stadium['lat'];
-                lng = stadium['lng'];
-                team = stadium['team'];
+
                 address = stadium['address'];
 
             
                 var marker = L.circleMarker([lat, lng], {
-                    radius: era * 2,
+                    radius: era * 3,
                     opacity: 1,
                     fillOpacity: .9,
                     color: "black",
@@ -77,7 +77,7 @@ d3.json('../resources/stadiums.json').then(function(data) {
                 }).addTo(myMap);
 
                 marker.bindPopup("<h3>" + "Team: " + team +
-                    "</h3><hr><h3>  2019 Batting Average: " + ba  + "</h3><hr><h3>  Address: " + address +  "</h3>")
+                    "</h3><hr><h3>  2019 Batting Average: " + ba  + "</h3><hr><h3>  2019 Earn Run Avg: " + era +  "</h3>")
                 .addTo(myMap);
 
             });    
