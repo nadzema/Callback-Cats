@@ -5,26 +5,26 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="../static/css/style.css">
-    <script src="https://d3js.org/d3.v6.min.js"></script>
-    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
 
     <title>Homepage</title>
 </head>
 
 <body>
+    <!--Navbar-->
     <ul>
-        <li><a href="/templates/about.html">About</a></li>
-        <li><a href="/templates/teams.html">MLB Teams</a></li>
-        <li><a href="/templates/map.html">Map</a></li>
-        <li class="dropdown">
-            <a href="javascript:void(0)" class="dropbtn">Visualizations</a>
-            <div class="dropdown-content">
-              <a href="/templates/batting_avg.html">Batting Average</a>
-              <a href="/templates/earn_run_avg.html">Earn Run Average</a>
-              <a href="/templates/pie_charts.html">Day/Night Pies</a>
-            </div>
-        <li style="float:left"><a class="active" href="/templates/index.html">Home</a></li>
-      </ul>
+      <li><a href="/about.html">About</a></li>
+      <li><a href="/teams.html">MLB Teams</a></li>
+      <li><a href="/map.html">Map</a></li>
+      <li class="dropdown">
+          <a href="javascript:void(0)" class="dropbtn">Visualizations</a>
+          <div class="dropdown-content">
+            <a href="/batting_avg.html">Batting Average</a>
+            <a href="/earn_run_avg.html">Earn Run Average</a>
+            <a href="/pie_charts.html">Day/Night Pies</a>
+          </div>
+      <li style="float:left"><a class="active" href="/">Home</a></li>
+    </ul>
   
     <div class="container">
     <h1>Major League Baseball: Day Games vs. Night Games </h1>
@@ -36,18 +36,20 @@
         We have included visualizations of the results of our analysis, as well as an interactive map showing the locations of all MLB stadiums across the country.  
     </p>
     <div class="stock_image1">
-    <img src="../resources/day_stadium.jpg" alt="Day Stadium Image" width="400" height="300" >
-    </div>
-    <div class="stock_image2">
-    <img src="../resources/night_stadium.jpg" alt="Night Stadium Image" width="400" height="300">
-    </div>
+      <img src="static/img/day_stadium.jpg" alt="Day Stadium Image" width="450" height="350">
+      </div>
+  
+      <div class="stock_image2">
+      <img src="static/img/night_stadium.jpg" alt="Night Stadium Image" width="450" height="350">
+      </div>
+      </div>
     
     
     </div>
 
-    <div id="plot"></div> 
-  <!-- <div id="plot2"></div> -->
+    
+
     
 </body>
-<script src="../static/js/app.js"></script>
+
 </html>

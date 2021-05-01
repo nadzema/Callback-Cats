@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="../static/css/style.css">
+    <link rel="stylesheet" type="text/css" href="../static/css/style.css"> 
     <script src="https://d3js.org/d3.v6.min.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
@@ -21,36 +21,37 @@
     }
   </style>
 
-
-
 </head>
 
 <body>
-    <ul>
-        <li><a href="/templates/about.html">About</a></li>
-        <li><a href="/templates/teams.html">MLB Teams</a></li>
-        <li><a href="/templates/map.html">Map</a></li>
-        <li class="dropdown">
-            <a href="javascript:void(0)" class="dropbtn">Visualizations</a>
-            <div class="dropdown-content">
-              <a href="/templates/batting_avg.html">Batting Average</a>
-              <a href="/templates/earn_run_avg.html">Earn Run Average</a>
-              <a href="/templates/pie_charts.html">Day/Night Pies</a>
-            </div>
-        <li style="float:left"><a class="active" href="/templates/index.html">Home</a></li>
-      </ul>
+  <!-- Navbar -->
+  <ul>
+    <li><a href="/about.html">About</a></li>
+    <li><a href="/teams.html">MLB Teams</a></li>
+    <li><a href="/map.html">Map</a></li>
+    <li class="dropdown">
+        <a href="javascript:void(0)" class="dropbtn">Visualizations</a>
+        <div class="dropdown-content">
+          <a href="/batting_avg.html">Batting Average</a>
+          <a href="/earn_run_avg.html">Earn Run Average</a>
+          <a href="/pie_charts.html">Day/Night Pies</a>
+        </div>
+    <li style="float:left"><a class="active" href="/">Home</a></li>
+  </ul>
 
       <div class="container">
       <div class="jumbotron">
-        <h1>Austin Weather</h1>
+        <h1>MLB Team Averages</h1>
       </div>
 
           <table class="table table-striped">
             <thead>
               <tr>
-                <th>date</th>
-                <th>low</th>
-                <th>high</th>
+                <th>Team Average</th>
+                <th>Batting Avg Day</th>
+                <th>Batting Avg Night</th>
+                <th>Earn Run Avg Day</th>
+                <th>Earn Run Avg Night</th>
               </tr>
             </thead>
             <tbody></tbody>
@@ -60,6 +61,6 @@
     
 </body>
 
-
-    <script src="/static/js/table.js"></script>
+<!-- Our JavaScript -->
+    <script src="../static/js/teams.js"></script>
 </html>

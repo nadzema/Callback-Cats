@@ -32,19 +32,38 @@ all_data = Base.classes.all_data
 app = Flask(__name__)
 
 ##################################################################################################
-# Flask Routes (FIVE routes total with data)
+# Flask Routes 
 ##################################################################################################
 @app.route("/")
 def home():
     return render_template("index.html")
-#    return (
-#        f"Available Routes:<br/>"
-#        f"/ba_era_day_night<br/>"
-#        f"/ba_day<br/>"
-#        f"/ba_night<br/>"
-#        f"/era_day<br/>"
-#        f"/era_night<br/>"
-#    )
+
+@app.route("/about.html")
+def about():
+    return render_template("/about.html")
+
+@app.route("/map.html")
+def map():
+    return render_template("/map.html")
+
+@app.route("/teams.html")
+def teams():
+    return render_template("/teams.html")
+
+@app.route("/batting_avg.html")
+def batting_avg():
+    return render_template("/batting_avg.html")
+
+@app.route("/earn_run_avg.html")
+def earn_run_avg():
+    return render_template("/earn_run_avg.html")
+
+@app.route("/pie_charts.html")
+def pie_charts():
+    return render_template("/pie_charts.html")
+
+
+
 
 ##################################################################################################
 # 1.) Route for everything: both batting_avg and earn_run_avg for both day and night games
@@ -176,41 +195,46 @@ def era_night():
     return jsonify(era_night_list)
 
 
-##########################################
-#TRIAL ROUTE FOR TEAM BATTING AVERAGE WORK IN PROGRESS #
-##########################################
+##################################################################################################
+# 6.) Route for both avgerage batting_avg and average earn_run_avg for both day and night games for each team
 @app.route("/team_avg")
 def team_avg():
 
     # Create our session (link) from Python to the DB
     session = Session(engine)
+    
     # Query each team's average batting average and average era
-    results = session.query(all_data.team_name, func.avg(all_data.batting_avg), func.avg(all_data.earn_run_avg)).\
-            group_by(all_data.team_name).all()
+    results = session.query(all_data.team_name, func.avg(all_data.batting_avg), func.avg(all_data.earn_run_avg), all_data.day_night).\
+    group_by(all_data.team_name, all_data.day_night).all()
 
     # Close session
     session.close()
     # Create a dictionary from the row data and append to list team_avg_list
     team_avg_list = []
-    for team_name, batting_avg, earn_run_avg in results:
+    for team_name, batting_avg, earn_run_avg, day_night in results:
         team_avg_dict = {}
         team_avg_dict["team_name"] = team_name
         team_avg_dict["batting_avg"] = round(batting_avg, 3)
         team_avg_dict["earn_run_avg"] = round(earn_run_avg, 2)
+        team_avg_dict["day_night"] = day_night
         team_avg_list.append(team_avg_dict)
     # Return a JSON list of both avgerage batting_avg and average earn_run_avg for both day and night games for each team
     return jsonify(team_avg_list)
+ 
 
-    ##################################################################################################
+
+##################################################################################################
 # 7.) Route for both avgerage batting_avg and average earn_run_avg for both day and night games for each team's home games only
 @app.route("/home_avg")
 def home_avg():
+
     # Create our session (link) from Python to the DB
     session = Session(engine)
     # Query each team's average batting average and average era and venue, filter venue by home games only
     results = session.query(all_data.team_name, all_data.venue, func.avg(all_data.batting_avg), func.avg(all_data.earn_run_avg)).\
             group_by(all_data.team_name, all_data.venue).\
                 filter(all_data.venue == 'Home').all()
+
     # Close session
     session.close()
     # Create a dictionary from the row data and append to list home_avg_list
@@ -226,7 +250,6 @@ def home_avg():
         
     # Return a JSON list of both avgerage batting_avg and average earn_run_avg for both day and night games for each team's home games only
     return jsonify(home_avg_list)
-
 
 #Debug
 if __name__ == '__main__':
