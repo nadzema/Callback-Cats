@@ -82,6 +82,35 @@ d3.json('../resources/stadiums.json').then(function(data) {
 
             });    
         });
+
+        var legend = L.control({ position: "bottomright" });
+        legend.onAdd = function() {
+            var div = L.DomUtil.create("div", "info legend");
+            // console.log(marker_quake)
+            var limits = [0, 0.240, 0.250, 0.260];
+            var colors = ["red", "orange", "yellow", "green"];
+            var labels = [];
+
+    
+        // Add min & max
+        var legendInfo = "<h1>MLB Batting Average</h1>" +
+          "<div class=\"labels\">" +
+            "<div class=\"min\">" + limits[0] + "</div>" +
+            "<div class=\"max\">" + limits[3] + "</div>" +
+          "</div>";
+    
+        div.innerHTML = legendInfo;
+    
+        limits.forEach(function(limits, index) {
+          labels.push("<li style=\"background-color: " + colors[index] + "\"></li>");
+        });
+    
+        div.innerHTML += "<ul>" + labels.join("") + "</ul>";
+        return div;
+      };
+    
+      // Adding legend to the map
+      legend.addTo(myMap);
     });
 })
 
@@ -94,13 +123,13 @@ d3.json('../resources/stadiums.json').then(function(data) {
         // if team_ba is between 0.25 and 0.26 color it yellow
         // if team_ba is greater than 0.26 color it green
 
-        if (ba <= 0.24) {
+        if (ba <= 0.240) {
             return "red";
         }
-        else if (ba <= 0.25) {
+        else if (ba <= 0.250) {
             return "orange";
         } 
-        else if (ba <= 0.26) {
+        else if (ba <= 0.260) {
             return "yellow";
         }
         else {
@@ -109,55 +138,29 @@ d3.json('../resources/stadiums.json').then(function(data) {
 
     };
 
-//     team_data.forEach(team_stats => {
-//         ba =  team_stats["batting_avg"];
-//         era = team_stats["earn_run_avg"];
-//         team = team_stats["team_name"];
-
-//         L.circleMarker([lat, lng], {
-//             radius: era,
-//             opacity: 1,
-//             fillOpacity: .9,
-//             color: colormydot (ba),
-//             stroke: true,
-//             weight: .5,
-//             fillColor: colormydot (ba),
-//         }).addTo(myMap);
-//     });
-// });
-
- ///////////////////////////////////////////////////////////////////////       
-
-    
-
-//         marker_quake.push(marker);
-//         mag_quake.push(mag);
-//         colors_quake.push(fillColor);
-
-          
-
-//     });
 
 
 //     var legend = L.control({ position: "bottomright" });
 //     legend.onAdd = function() {
 //         var div = L.DomUtil.create("div", "info legend");
-//         console.log(marker_quake)
-//         // var limits = marker.options.limits;
-//         // var colors = marker_quake.options.fillColor;
+//         // console.log(marker_quake)
+//         var limits = [0, 0.24, 0.25, 0.26];
+//         var colors = ["red", "orange", "yellow", "green"];
 //         var labels = [];
+//         var color_legend = []
+//         colors.push(color_legend);
 
 //     // Add min & max
-//     var legendInfo = "<h1>Earthquake Magnitude</h1>" +
+//     var legendInfo = "<h1>MLB Batting Avg.</h1>" +
 //       "<div class=\"labels\">" +
-//         "<div class=\"min\">" + mag_quake[0] + "</div>" +
-//         "<div class=\"max\">" + mag_quake[mag_quake.length - 1] + "</div>" +
+//         "<div class=\"min\">" + limits[0] + "</div>" +
+//         "<div class=\"max\">" + limits[3] + "</div>" +
 //       "</div>";
 
 //     div.innerHTML = legendInfo;
 
-//     mag_quake.forEach(function(mag_quake, index) {
-//       labels.push("<li style=\"background-color: " + colors_quake[index] + "\"></li>");
+//     limits.forEach(function(limits, index) {
+//       labels.push("<li style=\"background-color: " + color_legend[index] + "\"></li>");
 //     });
 
 //     div.innerHTML += "<ul>" + labels.join("") + "</ul>";
@@ -166,4 +169,3 @@ d3.json('../resources/stadiums.json').then(function(data) {
 
 //   // Adding legend to the map
 //   legend.addTo(myMap);
-// //   console.log(mag)

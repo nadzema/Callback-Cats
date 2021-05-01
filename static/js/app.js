@@ -2,75 +2,75 @@
 
 // only uncomment one PLOTLY BOXPLOT at a time for it to work// 
 
-// d3.json('/ba_day').then(function(ba_day) {
+d3.json('/ba_day').then(function(ba_day) {
 
-//   d3.json('/ba_night').then(function(ba_night) {
+  d3.json('/ba_night').then(function(ba_night) {
 
-//     console.log(ba_day.map(d => d.batting_avg));
-//     console.log(ba_night.map(d => d.batting_avg));
+    console.log(ba_day.map(d => d.batting_avg));
+    console.log(ba_night.map(d => d.batting_avg));
 
-//     var trace1 = {
-//       y: ba_day.map(d => d.batting_avg),
-//       name: "DAY GAMES",
-//       type: "box",
-//       boxpoints: "all"
-//     };
+    var trace1 = {
+      y: ba_day.map(d => d.batting_avg),
+      name: "DAY GAMES",
+      type: "box",
+      boxpoints: "all"
+    };
     
-//     var trace2 = {
-//       y: ba_night.map(d => d.batting_avg),
-//       name: "NIGHT GAMES",
-//       type: "box",
-//       boxpoints: "all"
-//     };
+    var trace2 = {
+      y: ba_night.map(d => d.batting_avg),
+      name: "NIGHT GAMES",
+      type: "box",
+      boxpoints: "all"
+    };
     
-//     var data = [trace1, trace2];
+    var data = [trace1, trace2];
 
-//     var layout = {
-//       title: "BATTING AVERAGES DURING NIGHT AND DAY GAMES",
-//       yaxis: { title: "Batting Average"}
-//     };
+    var layout = {
+      title: "BATTING AVERAGES DURING NIGHT AND DAY GAMES",
+      yaxis: { title: "Batting Average"}
+    };
     
-//     // Plot the chart to a div tag with id "plot"
-//     Plotly.newPlot("plot", data, layout);
+    // Plot the chart to a div tag with id "plot"
+    Plotly.newPlot("plot", data, layout);
 
-//   });
-// });
+  });
+});
 
 
 // //     // *************  BOXPLOT FOR EARN RUN AVERAGES *******************************************************
-// d3.json('/era_day').then(function(era_day) {
+d3.json('/era_day').then(function(era_day) {
 
-//   d3.json('/era_night').then(function(era_night) {
+  d3.json('/era_night').then(function(era_night) {
 
-//     console.log(era_day.map(d => d.earn_run_avg));
-//     console.log(era_night.map(d => d.earn_run_avg));
+    console.log(era_day.map(d => d.earn_run_avg));
+    console.log(era_night.map(d => d.earn_run_avg));
 
-//     var trace3 = {
-//       y: era_day.map(d => d.earn_run_avg),
-//       name: "DAY GAMES",
-//       type: "box",
-//       boxpoints: "all"
-//     };
+    var trace3 = {
+      y: era_day.map(d => d.earn_run_avg),
+      name: "DAY GAMES",
+      type: "box",
+      boxpoints: "all"
+    };
     
-//     var trace4 = {
-//       y: era_night.map(d => d.earn_run_avg),
-//       name: "NIGHT GAMES",
-//       type: "box",
-//       boxpoints: "all"
-//     };
+    var trace4 = {
+      y: era_night.map(d => d.earn_run_avg),
+      name: "NIGHT GAMES",
+      type: "box",
+      boxpoints: "all"
+    };
     
-//     var data = [trace3, trace4];
+    var data = [trace3, trace4];
 
-//     var layout = {
-//       title: "EARN RUN AVERAGE DURING NIGHT AND DAY GAMES",
-//       yaxis: { title: "EARN RUN AVERAGE"}
-//     };
+    var layout = {
+      title: "EARN RUN AVERAGE DURING NIGHT AND DAY GAMES",
+      yaxis: { title: "EARN RUN AVERAGE"}
+    };
     
-//     // Plot the chart to a div tag with id "plot"
-//     Plotly.newPlot("plot2", data, layout);
+    // Plot the chart to a div tag with id "plot"
+    Plotly.newPlot("plot2", data, layout);
 
-//   });
-// });
+  });
+});
 
 
 //     //    ******************** Part 5  PIE CHAT FOR Batting AVG ***************************************************
